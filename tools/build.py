@@ -7,8 +7,9 @@ from pathlib import Path
 from urllib.parse import quote
 
 # 公開URL（例 "https://example.com/dcz"）。空文字＝相対リンクのみで、sitemap.xml は作らない。
-# 環境変数 BASE_URL があればそれを使う（GitHub Actions は Pages の URL を自動で渡す）。手元では空のままでよい。
-BASE_URL = os.environ.get("BASE_URL", "").strip()
+# 環境変数 BASE_URL があればそれを使う。無ければ Cloudflare Pages が自動で渡す CF_PAGES_URL
+# （本番は https://doubutsu-cafe.pages.dev）。手元では両方とも無いので空＝相対リンクのまま。
+BASE_URL = (os.environ.get("BASE_URL") or os.environ.get("CF_PAGES_URL") or "").strip()
 
 ROOT = Path(__file__).resolve().parent.parent
 with_sample = "--with-sample" in sys.argv
