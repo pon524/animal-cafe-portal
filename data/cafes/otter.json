@@ -1,0 +1,140 @@
+[
+  {
+    "id": "kyoto-otter-loutre-kyoto",
+    "name": "LOUTRE（ルートル）京都店",
+    "animals": [
+      "otter"
+    ],
+    "prefecture": "京都府",
+    "area": "河原町・寺町",
+    "address": "京都府京都市中京区寺町通六角下ル式部町259-1 舟木ビル2F",
+    "access": "阪急京都線 河原町駅から徒歩約5分",
+    "url": "https://www.loutre-kyoto.com/",
+    "price": "50分3,000円（現金のみ）",
+    "price_level": 3,
+    "hours": "13:00〜19:00（最終受付18:00）",
+    "closed": "定休日の記載なし（カワウソの体調で急に休むことあり）",
+    "reservation": "不要",
+    "features": [
+      "ふれあいOK",
+      "写真OK",
+      "駅近"
+    ],
+    "description": "飼われていた経緯を持つカワウソと、専用の部屋で50分間触れ合える寺町通のお店。抱っこはできず、そっと撫でる決まり。予約を受け付けておらず、15歳未満は入店できないため、大人がカワウソを落ち着いて観察したい時に向く。",
+    "source_note": "トップ https://www.loutre-kyoto.com/ 、アクセス https://www.loutre-kyoto.com/アクセス/ 、FAQ https://www.loutre-kyoto.com/よくあるご質問/ で確認。2026年6月1日付の営業時間変更を反映。カワウソは全店で4匹とされる",
+    "image": null,
+    "checked": "2026-11-06"
+  },
+  {
+    "id": "osaka-otter-loutre-namba",
+    "name": "LOUTRE（ルートル）大阪店",
+    "animals": [
+      "otter"
+    ],
+    "prefecture": "大阪府",
+    "area": "なんば",
+    "address": "大阪府大阪市浪速区難波中2-3-9 島本スリムビル2F",
+    "access": "南海本線 なんば駅南口から徒歩約2分",
+    "url": "https://www.loutre-kyoto.com/",
+    "price": "50分3,000円（現金のみ）",
+    "price_level": 3,
+    "hours": "13:00〜19:00（最終受付18:00）",
+    "closed": "定休日の記載なし（カワウソの体調で急に休むことあり）",
+    "reservation": "不要",
+    "features": [
+      "ふれあいOK",
+      "写真OK",
+      "駅近"
+    ],
+    "description": "なんば駅から歩いてすぐの場所で、カワウソと部屋の中でふれあえる大阪店。50分制で追加料金なし、抱っこは不可。予約不可で混雑具合は日による。15歳未満は入れないので、大人の観光や仕事帰りに合う。",
+    "source_note": "アクセス https://www.loutre-kyoto.com/アクセス/ 、トップ https://www.loutre-kyoto.com/ で確認（同系列に千日前の別店舗あり）",
+    "image": null,
+    "checked": "2026-11-06"
+  },
+  {
+    "id": "tokyo-otter-harry-harajuku-terrace",
+    "name": "カワウソカフェ HARRY 原宿テラス店",
+    "animals": [
+      "otter",
+      "hedgehog",
+      "smallanimal"
+    ],
+    "prefecture": "東京都",
+    "area": "原宿",
+    "address": "東京都渋谷区神宮前4-26-5 神宮前426ビル3F",
+    "access": "原宿・表参道エリア",
+    "url": "https://harinezumi-cafe.com/store/harajuku-terrace/",
+    "price": "大人30分1,650円〜（子ども30分1,430円〜）",
+    "price_level": 4,
+    "hours": "平日13:00〜18:00、土日祝11:00〜18:00（ラストオーダー17:30）",
+    "closed": "無休",
+    "reservation": "推奨",
+    "features": [
+      "ふれあいOK",
+      "子ども可",
+      "複数の動物"
+    ],
+    "description": "カワウソにハリネズミ、チンチラも加わる原宿の小さな動物カフェ。入場料にカワウソとの握手が含まれ、予約すれば追加でさわる体験もできる。予約なしでも入れるが混雑時は待つため、60分以上のウェブ予約がおすすめ。",
+    "source_note": "公式 https://harinezumi-cafe.com/store/harajuku-terrace/ で確認（2026年10月22日に予約再開の告知）。price_levelは30分料金の2倍で換算",
+    "image": null,
+    "checked": "2026-11-06"
+  },
+  {
+    "id": "tokyo-otter-harry-asakusa",
+    "name": "カワウソカフェ HARRY 浅草店",
+    "animals": [
+      "otter",
+      "hedgehog",
+      "owl"
+    ],
+    "prefecture": "東京都",
+    "area": "浅草",
+    "address": "東京都台東区浅草1-1-17 増田ビル5F",
+    "access": "浅草駅の目の前（公式表記）",
+    "url": "https://harinezumi-cafe.com/store/asakusa/",
+    "price": "大人30分1,600円〜（子ども30分1,300円〜）",
+    "price_level": 4,
+    "hours": "11:00〜18:00（ラストオーダー17:30）",
+    "closed": "無休",
+    "reservation": "推奨",
+    "features": [
+      "ふれあいOK",
+      "子ども可",
+      "複数の動物",
+      "駅近"
+    ],
+    "description": "カワウソを中心に、ハリネズミやフクロウなども暮らす浅草駅前のカフェ。観光の途中に寄りやすく、海外向けの案内ページも用意されている。予約は60分以上から、当日キャンセルは返金不可なので日程が決まっている人向け。",
+    "source_note": "公式 https://harinezumi-cafe.com/store/asakusa/ で確認（2026年11月2日付で外国人向け案内の告知）",
+    "image": null,
+    "checked": "2026-11-06"
+  },
+  {
+    "id": "tokyo-otter-kotsumate-ikebukuro",
+    "name": "コツメイト 池袋店",
+    "animals": [
+      "otter",
+      "hedgehog",
+      "smallanimal"
+    ],
+    "prefecture": "東京都",
+    "area": "池袋",
+    "address": "東京都豊島区東池袋1-29-4 成田ビル5階",
+    "access": "JR池袋駅 東口（地下35番出口）からサンシャイン60通り沿い",
+    "url": "https://ktm-kawaii.com/",
+    "price": "30分1,500円／60分2,700円（中学生以下は1,000円／2,000円）",
+    "price_level": 3,
+    "hours": "11:00〜19:00（動物の体調で変更あり）",
+    "closed": "公式ページに記載なし（来店前に確認を）",
+    "reservation": "推奨",
+    "features": [
+      "ふれあいOK",
+      "えさやり体験",
+      "子ども可",
+      "複数の動物"
+    ],
+    "description": "コツメカワウソを中心に、フクロモモンガやハリネズミも間近で見て触れて、おやつをあげられる池袋のどうぶつ広場。30分から入れ、60分は予約が基本。土日は予約がおすすめで、中学生以下は保護者同伴。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "トップ https://ktm-kawaii.com/ 、池袋店 https://ktm-kawaii.com/s/ikebukuro 、料金表画像 https://ktm-kawaii.com/images/top-price-20240614.jpg で確認（お知らせは2026-10-21付）。料金表画像の作成日は2024年6月。福岡大名店は公式の店舗一覧に見当たらず"
+  }
+]

@@ -1,0 +1,9 @@
+# macOS / エディタ
+.DS_Store
+__pycache__/
+# 検査・待機のログと、大きなスクリーンショット（手元に置くだけ）
+site/.taste-skill/
+検品/screenshots/
+検品/taste/consistency_index*.txt
+art/pixel/_wait.log
+art/pixel/test_*.png

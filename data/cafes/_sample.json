@@ -1,0 +1,159 @@
+[
+ {
+  "id": "tokyo-cat-sample-shibuya",
+  "name": "サンプル猫カフェ渋谷",
+  "animals": [
+   "cat"
+  ],
+  "prefecture": "東京都",
+  "area": "渋谷",
+  "address": "東京都渋谷1-2-3（サンプル）",
+  "access": "渋谷駅から徒歩5分",
+  "url": "https://example.com/",
+  "price": "入場1,700円〜",
+  "price_level": 2,
+  "hours": "11:00〜19:00",
+  "closed": "無休",
+  "reservation": "必須",
+  "features": [
+   "抱っこOK",
+   "駅近",
+   "ドリンク込み"
+  ],
+  "description": "動作確認用のダミーデータです。実在しない店です。動物とのんびり過ごせる雰囲気を想定しています。",
+  "image": null,
+  "checked": "2026-11-06",
+  "source_note": "sample"
+ },
+ {
+  "id": "osaka-dog-sample-namba",
+  "name": "サンプル犬カフェなんば",
+  "animals": [
+   "dog",
+   "smallanimal"
+  ],
+  "prefecture": "大阪府",
+  "area": "なんば",
+  "address": "大阪府なんば1-2-3（サンプル）",
+  "access": "なんば駅から徒歩5分",
+  "url": "https://example.com/",
+  "price": "入場2,700円〜",
+  "price_level": 3,
+  "hours": "11:00〜19:00",
+  "closed": "水曜",
+  "reservation": "不要",
+  "features": [
+   "ふれあいOK",
+   "予約制",
+   "複数の動物"
+  ],
+  "description": "動作確認用のダミーデータです。実在しない店です。動物とのんびり過ごせる雰囲気を想定しています。",
+  "image": null,
+  "checked": "2026-11-06",
+  "source_note": "sample"
+ },
+ {
+  "id": "kyoto-rabbit-sample-kawaramachi",
+  "name": "サンプルうさぎカフェ河原町",
+  "animals": [
+   "rabbit"
+  ],
+  "prefecture": "京都府",
+  "area": "河原町",
+  "address": "京都府河原町1-2-3（サンプル）",
+  "access": "河原町駅から徒歩5分",
+  "url": "https://example.com/",
+  "price": "入場700円〜",
+  "price_level": 1,
+  "hours": "11:00〜19:00",
+  "closed": "水曜",
+  "reservation": "推奨",
+  "features": [
+   "ふれあいOK",
+   "子ども可"
+  ],
+  "description": "動作確認用のダミーデータです。実在しない店です。動物とのんびり過ごせる雰囲気を想定しています。",
+  "image": null,
+  "checked": "2026-11-06",
+  "source_note": "sample"
+ },
+ {
+  "id": "aichi-owl-sample-sakae",
+  "name": "サンプルフクロウカフェ栄",
+  "animals": [
+   "owl",
+   "bird"
+  ],
+  "prefecture": "愛知県",
+  "area": "栄",
+  "address": "愛知県栄1-2-3（サンプル）",
+  "access": "栄駅から徒歩5分",
+  "url": "https://example.com/",
+  "price": "入場2,700円〜",
+  "price_level": 3,
+  "hours": "11:00〜19:00",
+  "closed": "水曜",
+  "reservation": "不要",
+  "features": [
+   "写真OK",
+   "予約制",
+   "英語対応"
+  ],
+  "description": "動作確認用のダミーデータです。実在しない店です。動物とのんびり過ごせる雰囲気を想定しています。",
+  "image": null,
+  "checked": "2026-11-06",
+  "source_note": "sample"
+ },
+ {
+  "id": "hokkaido-otter-sample-sapporo",
+  "name": "サンプルカワウソカフェ札幌",
+  "animals": [
+   "otter"
+  ],
+  "prefecture": "北海道",
+  "area": "札幌",
+  "address": "北海道札幌1-2-3（サンプル）",
+  "access": "札幌駅から徒歩5分",
+  "url": "https://example.com/",
+  "price": "入場3,700円〜",
+  "price_level": 4,
+  "hours": "11:00〜19:00",
+  "closed": "無休",
+  "reservation": "推奨",
+  "features": [
+   "えさやり体験",
+   "写真OK"
+  ],
+  "description": "動作確認用のダミーデータです。実在しない店です。動物とのんびり過ごせる雰囲気を想定しています。",
+  "image": null,
+  "checked": "2026-11-06",
+  "source_note": "sample"
+ },
+ {
+  "id": "fukuoka-hedgehog-sample-tenjin",
+  "name": "サンプルハリネズミカフェ天神",
+  "animals": [
+   "hedgehog",
+   "reptile"
+  ],
+  "prefecture": "福岡県",
+  "area": "天神",
+  "address": "福岡県天神1-2-3（サンプル）",
+  "access": "天神駅から徒歩5分",
+  "url": "https://example.com/",
+  "price": "入場1,700円〜",
+  "price_level": 2,
+  "hours": "11:00〜19:00",
+  "closed": "無休",
+  "reservation": "必須",
+  "features": [
+   "ふれあいOK",
+   "駅近",
+   "複数の動物"
+  ],
+  "description": "動作確認用のダミーデータです。実在しない店です。動物とのんびり過ごせる雰囲気を想定しています。",
+  "image": null,
+  "checked": "2026-11-06",
+  "source_note": "sample"
+ }
+]

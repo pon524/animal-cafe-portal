@@ -1,0 +1,321 @@
+[
+  {
+    "id": "osaka-dog-samoyed-cafe-moffu-shinsaibashi",
+    "name": "サモエドカフェ moffu 大阪心斎橋店",
+    "animals": [
+      "dog"
+    ],
+    "prefecture": "大阪府",
+    "area": "心斎橋・アメ村",
+    "address": "大阪府大阪市中央区西心斎橋1-15-13 心斎橋アーバンコート2階",
+    "access": "心斎橋駅・四ツ橋駅から徒歩3分",
+    "url": "https://samoyedmoffu.com/shop_shinsaibashi",
+    "price": "1時間 平日3,600円／土日祝3,800円（事前予約・税込）、当日来店は各+100円",
+    "price_level": 4,
+    "hours": "平日11:00〜19:00／土日祝10:00〜20:00（最終入店19:00）",
+    "closed": "なし（年末年始を除く）",
+    "reservation": "推奨",
+    "features": [
+      "ふれあいOK",
+      "貸切可",
+      "子ども可",
+      "写真OK",
+      "駅近"
+    ],
+    "description": "大型の白いサモエド犬12頭と1時間遊べる、予約中心の犬カフェ。おやつや抱っこ撮影などのオプションがあり、個室プランもある。値段は高めだが、サモエドが目当ての人には満足度が高い。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "公式店舗ページ https://samoyedmoffu.com/shop_shinsaibashi で確認"
+  },
+  {
+    "id": "hokkaido-dog-samoyed-cafe-al-sapporo",
+    "name": "サモエドカフェ アル 札幌店",
+    "animals": [
+      "dog"
+    ],
+    "prefecture": "北海道",
+    "area": "中島公園",
+    "address": "北海道札幌市中央区南8条西7丁目1036-1 ダイアパレス中島公園1階",
+    "access": "中島公園エリア",
+    "url": "https://samoyed.jp/sapporo",
+    "price": "50分 平日2,500円／土日祝2,900円（事前予約・事前決済）、予約なしは平日2,800円",
+    "price_level": 3,
+    "hours": "10:00〜19:00",
+    "closed": "公式ページに記載なし（来店前に確認を）",
+    "reservation": "推奨",
+    "features": [
+      "ふれあいOK",
+      "貸切可"
+    ],
+    "description": "白くて大きなサモエド犬と、50分間ふれあう犬カフェ。事前予約だと料金が安くなり、予約なしだと割高になる。スタッフ同伴でサモエドと歩くお散歩コース（30分3,000円）も当日申し込みで選べる。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "公式店舗ページ https://samoyed.jp/sapporo で確認（定休日の記載は確認できず）"
+  },
+  {
+    "id": "miyagi-dog-samoyed-cafe-al-sendai",
+    "name": "サモエドカフェ アル 仙台店",
+    "animals": [
+      "dog"
+    ],
+    "prefecture": "宮城県",
+    "area": "一番町",
+    "address": "宮城県仙台市青葉区一番町4-2-10 仙台東映プラザビル204",
+    "access": "仙台中心部・一番町",
+    "url": "https://samoyed.jp/sendai",
+    "price": "50分 平日2,500円／土日祝2,900円（事前予約・事前決済）、予約なしは平日2,800円",
+    "price_level": 3,
+    "hours": "10:00〜19:00",
+    "closed": "公式ページに記載なし（来店前に確認を）",
+    "reservation": "推奨",
+    "features": [
+      "ふれあいOK",
+      "貸切可"
+    ],
+    "description": "仙台の一番町にある、サモエド犬と過ごす犬カフェ。全国展開しているアルの一店舗で、料金は50分の入れ替えに近い形式。予約時に事前決済すると安くなる。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "公式店舗ページ https://samoyed.jp/sendai で確認（定休日の記載は確認できず）"
+  },
+  {
+    "id": "hyogo-dog-samoyed-cafe-al-kobe",
+    "name": "サモエドカフェ アル 神戸店",
+    "animals": [
+      "dog"
+    ],
+    "prefecture": "兵庫県",
+    "area": "元町",
+    "address": "兵庫県神戸市中央区北長狭通3丁目3-8 元町UNSHOビル1階",
+    "access": "神戸・元町エリア",
+    "url": "https://samoyed.jp/kobe",
+    "price": "50分 平日2,200円／土日祝2,600円（事前予約・事前決済）、予約なしは平日2,600円",
+    "price_level": 3,
+    "hours": "10:00〜19:00",
+    "closed": "公式ページに記載なし（来店前に確認を）",
+    "reservation": "推奨",
+    "features": [
+      "ふれあいOK",
+      "貸切可"
+    ],
+    "description": "神戸・元町にあるサモエド犬のふれあいカフェで、同じ系列の中では料金がやや控えめ。50分制で、予約すると安く入れる。お散歩コースもあり、犬と歩く体験も選べる。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "公式店舗ページ https://samoyed.jp/kobe で確認（定休日の記載は確認できず）"
+  },
+  {
+    "id": "kyoto-dog-mameshiba-cafe-kyoto",
+    "name": "京都豆柴CAFE",
+    "animals": [
+      "dog"
+    ],
+    "prefecture": "京都府",
+    "area": "新京極・河原町",
+    "address": "京都府京都市中京区東大文字町308番地 ゑり正ビル1階",
+    "access": "新京極通りから徒歩1分",
+    "url": "https://owls-cats-forest.com/free/mameshiba-kyoto",
+    "price": "大人（13歳以上）1,300円／小人（4〜12歳）800円（ワンドリンク付き）",
+    "price_level": 2,
+    "hours": "平日12:00〜18:00／土日祝11:30〜18:30（最終入場は閉店30分前）",
+    "closed": "公式ページに記載なし",
+    "reservation": "不要",
+    "features": [
+      "ドリンク込み",
+      "ふれあいOK",
+      "子ども可",
+      "写真OK"
+    ],
+    "description": "京都の繁華街・新京極にある、小さな豆柴と触れ合えるカフェ。チケットは当日分を店頭で販売するのみで、予約はできない。完売すると入れないので、観光客は早めの来店が安心。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "公式店舗ページ https://owls-cats-forest.com/free/mameshiba-kyoto で確認"
+  },
+  {
+    "id": "okayama-dog-mameshiba-cafe-kurashiki",
+    "name": "倉敷豆柴カフェ",
+    "animals": [
+      "dog"
+    ],
+    "prefecture": "岡山県",
+    "area": "倉敷美観地区",
+    "address": "岡山県倉敷市中央1-1-7 2F",
+    "access": "倉敷・美観地区",
+    "url": "https://owls-cats-forest.com/free/mameshiba-kurashiki",
+    "price": "大人（13歳以上）1,100円／小人（4〜12歳）800円（ワンドリンク付き）",
+    "price_level": 2,
+    "hours": "3〜11月 平日10:15〜17:00／土日祝10:00〜17:30（12〜2月は短縮、最終入場は閉店30分前）",
+    "closed": "公式ページに記載なし",
+    "reservation": "不要",
+    "features": [
+      "ドリンク込み",
+      "ふれあいOK",
+      "子ども可",
+      "写真OK"
+    ],
+    "description": "白壁の街並みで知られる倉敷・美観地区にある豆柴カフェで、リニューアル後に再開した店。予約は受け付けておらず、当日店頭でチケットを買う。観光の合間に立ち寄る使い方に合う。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "公式店舗ページ https://owls-cats-forest.com/free/mameshiba-kurashiki で確認"
+  },
+  {
+    "id": "oita-dog-mameshiba-cafe-yufuin",
+    "name": "由布院豆柴カフェ",
+    "animals": [
+      "dog"
+    ],
+    "prefecture": "大分県",
+    "area": "湯布院・金鱗湖",
+    "address": "大分県由布市湯布院町川上1507-2",
+    "access": "金鱗湖のすぐ近く",
+    "url": "https://owls-cats-forest.com/free/mameshiba-yufuin",
+    "price": "大人（13歳以上）1,100円／小人（4〜12歳）800円（ワンドリンク付き）",
+    "price_level": 2,
+    "hours": "3〜11月 平日9:30〜17:00／土日祝9:30〜17:30（12〜2月は短縮、最終入場は閉店30分前）",
+    "closed": "公式ページに記載なし",
+    "reservation": "不要",
+    "features": [
+      "ドリンク込み",
+      "ふれあいOK",
+      "子ども可",
+      "写真OK"
+    ],
+    "description": "人気の温泉観光地・湯布院の、金鱗湖のそばにある豆柴カフェ。散策の途中に寄れる気軽さが魅力。チケットは当日店頭のみで、電話やネットの予約はできない。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "公式店舗ページ https://owls-cats-forest.com/free/mameshiba-yufuin で確認"
+  },
+  {
+    "id": "fukuoka-dog-samoyed-park-fukuoka-tenjin",
+    "name": "サモエドカフェ SAMOYED PARK 福岡天神店",
+    "animals": [
+      "dog"
+    ],
+    "prefecture": "福岡県",
+    "area": "天神・今泉",
+    "address": "福岡県福岡市中央区今泉2-5-23 南天神Yビル2F",
+    "access": "天神・今泉エリア",
+    "url": "https://samoyedcafe.net/shop/samoyed-park-fukuoka-tenjin/",
+    "price": "1時間利用 平日2,500円／土日祝2,750円（事前予約価格、当日はやや高い）",
+    "price_level": 3,
+    "hours": "平日11:00〜20:00／土日祝10:00〜20:00（最終入店19:00）",
+    "closed": "定休日なし（サモエドの体調により不定休あり）",
+    "reservation": "推奨",
+    "features": [
+      "ふれあいOK",
+      "写真OK",
+      "貸切可"
+    ],
+    "description": "天神・今泉エリアにあるサモエド専門のふれあいカフェ。真っ白でふわふわの大型犬と1時間過ごせて、おやつやチェキなどのオプションもある。事前予約のほうが安いので、行く日が決まっている人向け。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "店舗ページ https://samoyedcafe.net/shop/samoyed-park-fukuoka-tenjin/ で確認"
+  },
+  {
+    "id": "hiroshima-dog-samoedos-hiroshima",
+    "name": "サモエドカフェ SAMOEDO'S 広島店",
+    "animals": [
+      "dog"
+    ],
+    "prefecture": "広島県",
+    "area": "広島・紙屋町",
+    "address": "広島県広島市中区紙屋町1-5-11 Dolce101",
+    "access": "広島・紙屋町エリア",
+    "url": "https://samoyedcafe.net/shop/samoedos-hiroshima/",
+    "price": "1時間利用 平日2,500円／土日祝2,750円（事前予約価格）",
+    "price_level": 3,
+    "hours": "公式ページに記載なし（来店前に確認を）",
+    "closed": "定休日なし（サモエドの体調により不定休あり）",
+    "reservation": "推奨",
+    "features": [
+      "ふれあいOK",
+      "写真OK"
+    ],
+    "description": "広島市中心部の紙屋町にあるサモエドのふれあいカフェ。笑顔で知られる白い大型犬と1時間過ごせる。事前予約がすすめられているので、予約サイトで枠を押さえて行きたい人向け。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "店舗ページ https://samoyedcafe.net/shop/samoedos-hiroshima/ で確認（営業時間は掲載なし）"
+  },
+  {
+    "id": "tokyo-dog-harajuku-mameshiba-cafe",
+    "name": "原宿乃豆柴カフェ",
+    "animals": [
+      "dog"
+    ],
+    "prefecture": "東京都",
+    "area": "原宿",
+    "address": "東京都渋谷区神宮前1-6-10 3F",
+    "access": "原宿エリア",
+    "url": "https://owls-cats-forest.com/free/mameshiba-harajuku",
+    "price": "大人（13歳以上）1,300円、小人（4〜12歳）800円（ワンドリンク付）",
+    "price_level": 2,
+    "hours": "平日11:00〜18:00／土日祝11:00〜18:40（最終入場は閉店40分前）",
+    "closed": "公式ページに記載なし（来店前に確認を）",
+    "reservation": "不要",
+    "features": [
+      "ふれあいOK",
+      "ドリンク込み",
+      "子ども可",
+      "写真OK"
+    ],
+    "description": "原宿にある、豆柴とふれあえるカフェ。ドリンク付きの入場料で、フラッシュなしなら撮影もできる。電話やネットでの予約はできず、当日の店頭チケット制なので、売り切れの前に早めに行きたい。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "公式ページ https://owls-cats-forest.com/free/mameshiba-harajuku で確認（平日の閉店時刻は表記ゆれがあり、午後6時と判断）"
+  },
+  {
+    "id": "fukuoka-dog-anella-cafe-fukuoka-ohori",
+    "name": "ANELLA CAFE 福岡大濠店",
+    "animals": [
+      "dog",
+      "cat"
+    ],
+    "prefecture": "福岡県",
+    "area": "大濠公園",
+    "address": "福岡県福岡市中央区大手門3-14-21",
+    "access": "福岡市地下鉄空港線 大濠公園駅から徒歩4分",
+    "url": "https://wan-time.jp/store/anella-cafe-fukuoka-ohori/",
+    "price": "一般30分800円（延長15分400円）、小学生30分400円、未就学児無料",
+    "price_level": 2,
+    "hours": "平日12:00〜18:00／土日祝11:00〜18:00",
+    "closed": "年中無休",
+    "reservation": "推奨",
+    "features": [
+      "保護動物",
+      "複数の動物",
+      "ふれあいOK",
+      "子ども可",
+      "駅近"
+    ],
+    "description": "保護犬と保護猫がいる福祉型のふれあいカフェで、大濠公園の散歩とあわせやすい。30分800円からと、今回の中では入りやすい料金。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "店舗ページ https://wan-time.jp/store/anella-cafe-fukuoka-ohori/ で確認"
+  },
+  {
+    "id": "hiroshima-dog-anella-cafe-hiroshima-midorii",
+    "name": "ANELLA CAFE 広島緑井店",
+    "animals": [
+      "dog",
+      "cat"
+    ],
+    "prefecture": "広島県",
+    "area": "広島市安佐南区・緑井",
+    "address": "広島県広島市安佐南区緑井6丁目2-23 太陽社ビル",
+    "access": "JR可部線 七軒茶屋駅・梅林駅から徒歩13分",
+    "url": "https://wan-time.jp/store/anella-cafe-hiroshimamidorii/",
+    "price": "一般30分1,000円（延長15分400円）、小学生30分500円、未就学児無料",
+    "price_level": 2,
+    "hours": "平日12:00〜18:00／土日祝11:00〜18:00",
+    "closed": "年中無休",
+    "reservation": "推奨",
+    "features": [
+      "保護動物",
+      "複数の動物",
+      "ふれあいOK",
+      "子ども可"
+    ],
+    "description": "保護犬と保護猫がいる福祉型のふれあいカフェで、広島市の北部、安佐南区にある。犬も猫もいるので、どちらも好きな人や家族連れ向け。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "店舗ページ https://wan-time.jp/store/anella-cafe-hiroshimamidorii/ で確認"
+  }
+]

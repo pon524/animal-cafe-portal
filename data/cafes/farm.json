@@ -1,0 +1,250 @@
+[
+  {
+    "id": "kyoto-farm-mipig-cafe-kyoto",
+    "name": "mipig cafe 京都店",
+    "animals": [
+      "farm"
+    ],
+    "prefecture": "京都府",
+    "area": "河原町",
+    "address": "京都府京都市中京区新京極通四条上る中之町560-2 七宝新京極ビル",
+    "access": "京都河原町駅9番出口から徒歩3分",
+    "url": "https://mipig.cafe/locations/kyoto/",
+    "price": "4歳以上2,200円／25分、3,300円／55分（3歳以下1,100円）",
+    "price_level": 4,
+    "hours": "10:00〜20:00",
+    "closed": "公式ページに記載なし（予約枠で確認）",
+    "reservation": "必須",
+    "features": [
+      "ふれあいOK",
+      "子ども可",
+      "駅近",
+      "貸切可",
+      "予約制"
+    ],
+    "description": "手のひらサイズのマイクロブタと触れ合えるお店で、新京極の商店街ビルの2〜3階にあります。Web予約のみで、電話予約は受け付けていません。観光ついでに寄れる立地で、ブタを抱っこしたい人や子連れに向きます。",
+    "source_note": "公式 https://mipig.cafe/locations/kyoto/ で住所・営業時間・料金・予約を確認（店舗一覧 https://mipig.cafe/ ）",
+    "image": null,
+    "checked": "2026-11-06"
+  },
+  {
+    "id": "osaka-farm-mipig-cafe-osaka",
+    "name": "mipig cafe 大阪店",
+    "animals": [
+      "farm"
+    ],
+    "prefecture": "大阪府",
+    "area": "心斎橋",
+    "address": "大阪府大阪市中央区西心斎橋2-10-32 TRN心斎橋 2階",
+    "access": "心斎橋駅7番出口から徒歩5分、四ツ橋駅5番出口から徒歩3分",
+    "url": "https://mipig.cafe/locations/osaka/",
+    "price": "4歳以上1,870円／25分、2,970円／55分（3歳以下770円）",
+    "price_level": 3,
+    "hours": "10:00〜20:00",
+    "closed": "公式ページに記載なし（予約枠で確認）",
+    "reservation": "必須",
+    "features": [
+      "ふれあいOK",
+      "子ども可",
+      "貸切可",
+      "予約制"
+    ],
+    "description": "心斎橋エリアでマイクロブタとふれあえる、予約制のお店です。25分と55分の2つの時間枠があり、個室プランも選べます。買い物や観光の合間に動物と触れたい人向けです。",
+    "source_note": "公式 https://mipig.cafe/locations/osaka/ で住所・営業時間・料金・予約を確認（店舗一覧 https://mipig.cafe/ ）",
+    "image": null,
+    "checked": "2026-11-06"
+  },
+  {
+    "id": "aichi-farm-mipig-cafe-mozo-nagoya",
+    "name": "mipig cafe モゾ名古屋店",
+    "animals": [
+      "farm"
+    ],
+    "prefecture": "愛知県",
+    "area": "上小田井",
+    "address": "愛知県名古屋市西区二方町40番 mozoワンダーシティ 2階",
+    "access": "上小田井駅北口から徒歩約5分",
+    "url": "https://mipig.cafe/locations/mozonagoya/",
+    "price": "一般1,760円／25分、2,310円／55分（小学生1,210円〜、未就学児660円）",
+    "price_level": 3,
+    "hours": "10:30〜20:00",
+    "closed": "公式ページに記載なし（予約枠で確認）",
+    "reservation": "必須",
+    "features": [
+      "ふれあいOK",
+      "子ども可",
+      "駅近",
+      "貸切可",
+      "予約制"
+    ],
+    "description": "大型商業施設の2階で、マイクロブタと過ごせるお店です。年齢ごとに料金が分かれていて、家族でも使いやすい作りです。名古屋近郊でショッピングのついでにブタと触れ合いたい人向けです。",
+    "source_note": "公式 https://mipig.cafe/locations/mozonagoya/ で住所・営業時間・料金・予約を確認（店舗一覧 https://mipig.cafe/ ）",
+    "image": null,
+    "checked": "2026-11-06"
+  },
+  {
+    "id": "fukuoka-farm-mipig-cafe-tenjin",
+    "name": "mipig cafe 福岡天神店",
+    "animals": [
+      "farm"
+    ],
+    "prefecture": "福岡県",
+    "area": "天神・大名",
+    "address": "福岡県福岡市中央区大名2-1-18 BROOM福岡 5F-C",
+    "access": "西鉄福岡（天神）駅から徒歩7分",
+    "url": "https://mipig.cafe/locations/fukuoka/",
+    "price": "一般1,760円／25分、2,310円／55分（小学生1,210円〜、未就学児660円）",
+    "price_level": 3,
+    "hours": "10:00〜18:00",
+    "closed": "公式ページに記載なし（予約枠で確認）",
+    "reservation": "必須",
+    "features": [
+      "ふれあいOK",
+      "子ども可",
+      "貸切可",
+      "予約制"
+    ],
+    "description": "天神・大名エリアのビル5階にある、マイクロブタのふれあいカフェです。閉まるのが18時と早めなので、昼間の予定に組み込むのがおすすめです。九州でブタに会いたい人や、子ども連れに向きます。",
+    "source_note": "公式 https://mipig.cafe/locations/fukuoka/ で住所・営業時間・料金・予約を確認（店舗一覧 https://mipig.cafe/ ）",
+    "image": null,
+    "checked": "2026-11-06"
+  },
+  {
+    "id": "hokkaido-farm-mipig-cafe-aeon-sapporo-hassamu",
+    "name": "mipig cafe イオンモール札幌発寒店",
+    "animals": [
+      "farm"
+    ],
+    "prefecture": "北海道",
+    "area": "発寒",
+    "address": "北海道札幌市西区発寒8条12-1-1 イオンモール札幌発寒 3F（327区画）",
+    "access": "イオンモール札幌発寒内",
+    "url": "https://mipig.cafe/locations/sapporohassamu/",
+    "price": "一般1,760円／25分、2,310円／55分（小学生1,210円〜、未就学児660円）",
+    "price_level": 3,
+    "hours": "10:00〜20:00",
+    "closed": "公式ページに記載なし（予約枠で確認）",
+    "reservation": "必須",
+    "features": [
+      "ふれあいOK",
+      "子ども可",
+      "貸切可",
+      "予約制"
+    ],
+    "description": "大型モールの3階にある、札幌では貴重なマイクロブタのふれあいカフェです。予約はWebのみで、個室プランもあります。雪の日でも屋内で動物と遊びたい家族連れに向きます。",
+    "source_note": "公式 https://mipig.cafe/locations/sapporohassamu/ で住所・営業時間・料金・予約を確認（店舗一覧 https://mipig.cafe/ ）",
+    "image": null,
+    "checked": "2026-11-06"
+  },
+  {
+    "id": "chiba-farm-narita-yume-bokujo",
+    "name": "成田ゆめ牧場",
+    "animals": [
+      "farm",
+      "rabbit",
+      "smallanimal"
+    ],
+    "prefecture": "千葉県",
+    "area": "成田",
+    "address": "千葉県成田市名木730-3",
+    "access": "JR成田駅・JR滑河駅から無料送迎バスあり（公式に時刻表）",
+    "url": "https://www.yumebokujo.com/",
+    "price": "大人（中学生以上）平日1,600円・土日祝1,800円、4歳以上800円〜（駐車料金別）",
+    "price_level": 2,
+    "hours": "平日9:30〜16:30、土日祝9:30〜17:00（冬期は変動）",
+    "closed": "不定休（年に数日の休園日を公式に掲載）",
+    "reservation": "不要",
+    "features": [
+      "ふれあいOK",
+      "えさやり体験",
+      "子ども可",
+      "複数の動物"
+    ],
+    "description": "ヤギやヒツジ、ウマ、ウサギ、モルモットなどにえさをあげたり触れたりできる観光牧場です。園内にはファームカフェのほか、ピザやソフトクリームのお店もあり、一日のんびり過ごせます。家族連れ向けで、ヤギを散歩させる体験（有料）もあります。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "公式 https://www.yumebokujo.com/access.html（料金・営業時間）、/fureau.html（動物・えさ代）、/taberu.html（ファームカフェ）で確認"
+  },
+  {
+    "id": "tochigi-farm-nasu-senbonmatsu-bokujo",
+    "name": "那須千本松牧場",
+    "animals": [
+      "farm",
+      "rabbit",
+      "smallanimal"
+    ],
+    "prefecture": "栃木県",
+    "area": "那須塩原",
+    "address": "栃木県那須塩原市千本松799",
+    "access": "JR西那須野駅から路線バス約15分「千本松」下車",
+    "url": "https://www.senbonmatsu.com/",
+    "price": "牧場の入場・駐車は無料。どうぶつふれあい広場は小学生以上500円、3歳〜未就学児200円",
+    "price_level": 1,
+    "hours": "どうぶつふれあい広場 9:00〜17:00（ファームレストラン・オープンカフェは時間が異なる）",
+    "closed": "ふれあい広場は無休（雨天・動物の体調で休止あり）",
+    "reservation": "不要",
+    "features": [
+      "ふれあいOK",
+      "えさやり体験",
+      "子ども可",
+      "複数の動物"
+    ],
+    "description": "ヒツジ、ヤギ、ウサギ、モルモット、子牛、エミューなど約100頭に会える広場があり、えさやりやヤギ・ヒツジの散歩（有料）ができます。園内にはファームレストランや週末営業のオープンカフェ、ソフトクリーム店があります。入場無料で立ち寄りやすく、車で行く家族連れ向けです。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "公式 https://www.senbonmatsu.com/animal/（動物・料金）、/schedule/（営業時間・飲食）、/info/（住所・アクセス）で確認"
+  },
+  {
+    "id": "hyogo-farm-rokkosan-bokujo",
+    "name": "神戸市立六甲山牧場（ゆめまきば）",
+    "animals": [
+      "farm"
+    ],
+    "prefecture": "兵庫県",
+    "area": "六甲山",
+    "address": "兵庫県神戸市灘区六甲山町中一里山1-1",
+    "access": "神戸・三宮から公共交通で約1時間20分（車で約35分）",
+    "url": "https://rokkosan.jp/",
+    "price": "大人600円（12〜2月は400円）、小・中学生200円、幼児無料（駐車料金別）",
+    "price_level": 1,
+    "hours": "9:00〜17:00（最終入場16:30）",
+    "closed": "火曜（祝日は営業）、年末年始、臨時休業あり",
+    "reservation": "不要",
+    "features": [
+      "ふれあいOK",
+      "えさやり体験",
+      "子ども可"
+    ],
+    "description": "ヒツジやヤギが敷地内を歩く六甲山上の牧場で、ヤギへのえさやりや子牛の授乳体験、引き馬ができます。園内には神戸チーズのレストランや、パンのあるベーカリー＆カフェがあり、食事も楽しめます。景色の良い場所でゆっくり動物を眺めたい家族連れ向けです。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "公式 https://rokkosan.jp/（料金・営業時間・アクセス）、/animal/（ふれあい）、/eatbuy/（レストラン・カフェ）で確認。ウサギ・モルモットは公式で「ふれあいできません」のため animals は farm のみ（2026-11-06 検品②で修正）"
+  },
+  {
+    "id": "miyazaki-farm-takachiho-bokujo",
+    "name": "高千穂牧場",
+    "animals": [
+      "farm",
+      "rabbit"
+    ],
+    "prefecture": "宮崎県",
+    "area": "都城（霧島高原）",
+    "address": "宮崎県都城市吉之元町5265番地103",
+    "access": "JR霧島神宮駅からタクシー約10分",
+    "url": "https://www.takachiho-bokujou.co.jp/",
+    "price": "入場無料・駐車場無料。どうぶつのおやつ1個200円",
+    "price_level": 1,
+    "hours": "9:00〜17:00（まきばのレストランは10:30〜16:30）",
+    "closed": "営業カレンダーに準ずる（公式サイトに掲載）",
+    "reservation": "不要",
+    "features": [
+      "ふれあいOK",
+      "えさやり体験",
+      "子ども可"
+    ],
+    "description": "白い顔のコリデールと黒い顔のサフォークの2種類のヒツジ、ヤギ、ウサギにふれあえる、入場無料の牧場です。ヒツジには手渡しでおやつをあげられます。園内の「まきばのレストラン」では焼肉やジンギスカンなどが食べられ、九州で家族連れの外出先を探す人に向きます。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "公式 https://www.takachiho-bokujou.co.jp/oneday/fureai/（動物・おやつ）、/oneday/restaurant/（レストラン）、/access/（住所・営業時間）で確認。小動物（モルモット等）は公式で確認できないため smallanimal を外した（2026-11-06）"
+  }
+]

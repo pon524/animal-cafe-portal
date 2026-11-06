@@ -1,0 +1,190 @@
+[
+  {
+    "id": "aichi-reptile-oozoo-osu",
+    "name": "大須モンスター/OOZOO",
+    "animals": [
+      "reptile"
+    ],
+    "prefecture": "愛知県",
+    "area": "大須",
+    "address": "愛知県名古屋市中区大須2丁目30-14 櫻井ビル 3階",
+    "access": "大須エリア",
+    "url": "https://oozoo.zooai.co.jp/",
+    "price": "30分1,500円／60分2,500円／平日限定フリータイム2,500円（土日祝は30分500円で延長）",
+    "price_level": 3,
+    "hours": "平日13:00〜20:00、土日祝11:30〜20:00（受付終了は案内により18:00〜19:00と記載差あり）",
+    "closed": "公式に定休日の明記なし（営業スケジュールはお知らせで案内）",
+    "reservation": "推奨",
+    "features": [
+      "ふれあいOK",
+      "時間無制限プランあり"
+    ],
+    "description": "ヘビ、トカゲ、ヤモリなどを、スタッフの説明を受けながら手に乗せて楽しめる大須の爬虫類カフェ。時間制のほか平日はフリータイムもあり、じっくり付き合いたい人向き。電話かインスタのDMで予約でき、初めてでも安全な触り方を教えてもらえる。",
+    "source_note": "トップ https://oozoo.zooai.co.jp/ 、ご利用案内 https://oozoo.zooai.co.jp/%e3%81%94%e5%88%a9%e7%94%a8%e6%a1%88%e5%86%85/ 、店舗情報 https://oozoo.zooai.co.jp/%e5%ba%97%e8%88%97%e6%83%85%e5%a0%b1/ で確認。予約要否の記載が「予約可」と「不要」で食い違うため推奨とした",
+    "image": null,
+    "checked": "2026-11-06"
+  },
+  {
+    "id": "kyoto-reptile-funny-creatures-forest-arashiyama",
+    "name": "爬虫類カフェ Funny Creatures Forest（ふぁにくり）嵐山店",
+    "animals": [
+      "reptile"
+    ],
+    "prefecture": "京都府",
+    "area": "嵐山・嵯峨",
+    "address": "京都府京都市右京区嵯峨明星町18-4 ヴィラトリアン101",
+    "access": "嵐電「車折神社駅」から徒歩5分",
+    "url": "https://f-c-f-arashiyama.ocnk.me/",
+    "price": "1時間＋1ドリンクで大人2,000円（小児1,500円／幼児1,000円、延長30分500円）",
+    "price_level": 2,
+    "hours": "10:00〜19:00",
+    "closed": "不定休（公式サイト・SNSで案内）",
+    "reservation": "推奨",
+    "features": [
+      "駅近",
+      "ドリンク込み",
+      "子ども可"
+    ],
+    "description": "トカゲやヤモリ、ヘビ、カエルなどの爬虫類・両生類を間近で眺めるカフェ。小学生未満から入れる子ども料金があり、家族連れでも使いやすい。嵐山観光の合間に寄れる場所にあり、予約フォームと空き状況カレンダーが用意されている。",
+    "source_note": "料金・店舗情報 https://f-c-f-arashiyama.ocnk.me/info 、トップ https://f-c-f-arashiyama.ocnk.me/ で確認（直近の告知は2026年5〜6月）。ふれあいの範囲はページに記載なし",
+    "image": null,
+    "checked": "2026-11-06"
+  },
+  {
+    "id": "tokyo-reptile-hachucafe-kichijoji",
+    "name": "はちゅカフェ",
+    "animals": [
+      "reptile"
+    ],
+    "prefecture": "東京都",
+    "area": "吉祥寺",
+    "address": "東京都武蔵野市吉祥寺本町4-6-3 starlight,starbright Bldg. 2F-B",
+    "access": "吉祥寺駅から徒歩8分ほど（掲載サイトの目安）",
+    "url": "https://turboreptiles.co.jp/",
+    "price": "席料880円（小学生まで660円）＋ふれあい1匹660円、ドリンク550円〜",
+    "price_level": 2,
+    "hours": "12:00〜20:00",
+    "closed": "不定休（公式スケジュールで確認。貸切日あり）",
+    "reservation": "推奨",
+    "features": [
+      "ふれあいOK",
+      "えさやり体験"
+    ],
+    "description": "イグアナ、カメレオン、フトアゴヒゲトカゲ、ヘビ、リクガメなどを「キャスト」として連れてきてもらい、膝や腕に乗せて過ごせる吉祥寺の爬虫類カフェ。ふれあいは1匹ずつ追加する仕組みで、ペースを選びやすい。予約は電話のみ。",
+    "source_note": "公式 https://turboreptiles.co.jp/ で確認。税込・税別の表記がページ内で混在、徒歩分数は公式に記載なしのため外部掲載の目安",
+    "image": null,
+    "checked": "2026-11-06"
+  },
+  {
+    "id": "fukuoka-reptile-chorochoro-kokura",
+    "name": "れぷたいるずかふぇ ちょろちょろ",
+    "animals": [
+      "reptile",
+      "smallanimal"
+    ],
+    "prefecture": "福岡県",
+    "area": "北九州・小倉",
+    "address": "福岡県北九州市小倉北区砂津1丁目9-1 A2ビル2階",
+    "access": "JR小倉駅から徒歩15分、西鉄バス砂津から徒歩5分",
+    "url": "https://reptilescafe-chorochoro.com/",
+    "price": "1時間1,500円（ワンドリンク込み、小学生以下1,200円）、以降30分ごとに750円",
+    "price_level": 2,
+    "hours": "平日11:00〜20:00（ふれあいカフェは19:00まで）、休日11:00〜18:00（同17:00まで）",
+    "closed": "月曜・木曜",
+    "reservation": "推奨",
+    "features": [
+      "ドリンク込み",
+      "ふれあいOK",
+      "子ども可",
+      "複数の動物"
+    ],
+    "description": "レオパやフトアゴ、リクガメ、イグアナに加え、フェレットやモルモットとも過ごせる北九州の爬虫類ショップ併設カフェ。小学生以下の料金もあり子どもが一人では入れない代わりに家族で楽しみやすい。生体の販売も行っていて、飼い方を相談したい人にも合う。",
+    "source_note": "公式 https://reptilescafe-chorochoro.com/ 、料金ページ https://reptilescafe-chorochoro.com/?page_id=11 で確認。本文の日付は2021〜2023年だが画像更新は2025年12月。臨時休業はSNSで案内とあり、予約の記載はないため推奨とした",
+    "image": null,
+    "checked": "2026-11-06"
+  },
+  {
+    "id": "tokyo-reptile-vespa-machida",
+    "name": "Reptile Cafe Vespa（爬虫類カフェ ヴェスパ）",
+    "animals": [
+      "reptile"
+    ],
+    "prefecture": "東京都",
+    "area": "町田",
+    "address": "東京都町田市原町田2-3-4 サニーサイド町田1F",
+    "access": "JR町田駅から徒歩約5分",
+    "url": "https://reptilecafe-vespa.jp/",
+    "price": "1時間1,650円（ドリンク1杯込み・ふれあいは1グループ3匹まで）",
+    "price_level": 2,
+    "hours": "平日13:00〜20:00／土日祝11:00〜18:00（最終入店は閉店1時間前）",
+    "closed": "月曜（金曜に不定休あり。月ごとの営業予定は公式のお知らせで案内）",
+    "reservation": "推奨",
+    "features": [
+      "ふれあいOK",
+      "えさやり体験",
+      "ドリンク込み",
+      "駅近",
+      "子ども可"
+    ],
+    "description": "グリーンイグアナやフトアゴヒゲトカゲ、ヒョウモントカゲモドキ、各種のヘビなどを、ガラスケースに囲まれた店内で選んで触れる爬虫類カフェ。基本料金に3匹分のふれあいが含まれ、触り放題の追加プランもある。混雑時は入店できないことがあるため、事前に電話で確認すると安心。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "トップページ https://reptilecafe-vespa.jp/ で料金・営業時間・定休日・動物・注意事項を確認（お知らせは2026-10-27付の11月営業予定が最新）"
+  },
+  {
+    "id": "tokyo-reptile-piccolo-zoo-asakusa",
+    "name": "Piccolo Zoo（ピッコロズー）",
+    "animals": [
+      "reptile"
+    ],
+    "prefecture": "東京都",
+    "area": "浅草",
+    "address": "東京都台東区西浅草1-1-16 升宏ビル3階",
+    "access": "浅草エリア（西浅草）",
+    "url": "https://piccolozoo.biz/",
+    "price": "入場1,500円（高校生以上）／1,200円（3歳以上）",
+    "price_level": 2,
+    "hours": "12:00〜20:00",
+    "closed": "金曜（臨時休業は公式のお知らせで案内）",
+    "reservation": "推奨",
+    "features": [
+      "ふれあいOK",
+      "抱っこOK",
+      "子ども可",
+      "写真OK"
+    ],
+    "description": "トカゲやヘビを中心に、プレーリードッグなどのエキゾチックアニマルとも触れ合える浅草のお店。入場料のみで入れて、平日は180分制と長めに過ごせる（土日祝は90分制）。動物と同じ目線で、低い姿勢で抱っこするのが決まり。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "システム案内 https://piccolozoo.biz/system/ 、コンセプト https://piccolozoo.biz/concept/ 、お知らせ https://piccolozoo.biz/news/2346/ （2026-09-02付）で確認。ネット予約窓口はあるが必須の記載なし。ドリンク付きかの記載なし"
+  },
+  {
+    "id": "kanagawa-reptile-reptiles-resort-honmoku",
+    "name": "レプタイルズリゾート",
+    "animals": [
+      "reptile"
+    ],
+    "prefecture": "神奈川県",
+    "area": "横浜・本牧",
+    "address": "神奈川県横浜市中区本牧原32-8-2",
+    "access": "横浜市営バス「本牧原」バス停から徒歩約3分",
+    "url": "https://reptiles-resort.com/",
+    "price": "60分 大人2,200円・中学生未満1,600円（ドリンク無料）。えさやり込みのCコースは＋500円",
+    "price_level": 3,
+    "hours": "月ごとの営業カレンダーを公式サイトで案内（ふれあい最終受付は18:30）",
+    "closed": "火曜（営業日に変える月あり）",
+    "reservation": "推奨",
+    "features": [
+      "ふれあいOK",
+      "抱っこOK",
+      "えさやり体験",
+      "ドリンク込み",
+      "子ども可",
+      "写真OK"
+    ],
+    "description": "イグアナやオオトカゲ、カメ、大小のヘビ、カエルまで、数多くの生きものとふれあえる横浜の爬虫類カフェ。Cコースなら匹数の制限なくふれあえ、ヘビを腕や首に巻く体験や膝の上での抱っこもできる。土日祝は混むので予約がおすすめ。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "料金画像 https://reptiles-resort.com/料金/ 、アクセス https://reptiles-resort.com/access/ 、営業案内 https://reptiles-resort.com/information/ で確認（2026-11-04付の営業予定が最新）。予約は必須ではないと公式投稿に記載"
+  }
+]

@@ -1,0 +1,408 @@
+[
+  {
+    "id": "kyoto-cat-mocha-kawaramachi",
+    "name": "猫カフェMOCHA 京都河原町店",
+    "animals": [
+      "cat"
+    ],
+    "prefecture": "京都府",
+    "area": "河原町",
+    "address": "京都府京都市中京区河原町通三条下ル大黒町58 mina 4F",
+    "access": "京都市役所前駅・三条駅から徒歩5分",
+    "url": "https://www.catmocha.jp/shop/kawaramachi/",
+    "price": "入場1,200円／最初の30分（平日・税込、ドリンクバー込み）、延長10分220円",
+    "price_level": 2,
+    "hours": "11:00〜21:00（最終入店20:30）",
+    "closed": "1/1のみ休館",
+    "reservation": "不要",
+    "features": [
+      "ドリンク込み",
+      "駅近",
+      "子ども可",
+      "写真OK"
+    ],
+    "description": "河原町の商業ビル4階にある、全国チェーンの猫カフェ。ドリンクバー込みの時間制で、漫画を読んだり仕事をしたりと自由に過ごせる。観光の合間にふらりと立ち寄りたい人や、ひとりで来る人にも向く。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "店舗ページ https://www.catmocha.jp/shop/kawaramachi/ で確認"
+  },
+  {
+    "id": "fukuoka-cat-mocha-tenjin-daimyo",
+    "name": "猫カフェMOCHA 天神大名店",
+    "animals": [
+      "cat"
+    ],
+    "prefecture": "福岡県",
+    "area": "天神・大名",
+    "address": "福岡県福岡市中央区大名1-12-6 NEO大名ビル3F",
+    "access": "福岡市地下鉄七隈線 天神南駅から徒歩10分／空港線 赤坂駅から徒歩8分",
+    "url": "https://www.catmocha.jp/shop/tenjindaimyo/",
+    "price": "入場1,045円／最初の30分（平日・税込、ドリンクバー込み）、延長10分220円",
+    "price_level": 2,
+    "hours": "10:00〜20:00（最終入店19:30）",
+    "closed": "年中無休",
+    "reservation": "不要",
+    "features": [
+      "ドリンク込み",
+      "子ども可",
+      "写真OK"
+    ],
+    "description": "天神の西側、大名エリアのビルの3階にある猫カフェ。ドリンクバー付きの時間制で、ワークスペースとして使える席もあるのが特徴。買い物や散歩のついでに立ち寄りやすい。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "店舗ページ https://www.catmocha.jp/shop/tenjindaimyo/ で確認"
+  },
+  {
+    "id": "aichi-cat-mocha-nagoya-sakae",
+    "name": "猫カフェMOCHA 名古屋栄店",
+    "animals": [
+      "cat"
+    ],
+    "prefecture": "愛知県",
+    "area": "栄・矢場町",
+    "address": "愛知県名古屋市中区栄3-32-6 BECOME SAKAE 2F",
+    "access": "矢場町駅から徒歩1分、栄駅から徒歩10分",
+    "url": "https://www.catmocha.jp/shop/nagoya/",
+    "price": "入場1,100円／最初の30分（平日・税込、ドリンクバー込み）、延長10分220円",
+    "price_level": 2,
+    "hours": "10:00〜20:00（最終入店19:30）",
+    "closed": "年中無休",
+    "reservation": "不要",
+    "features": [
+      "ドリンク込み",
+      "駅近",
+      "子ども可",
+      "写真OK"
+    ],
+    "description": "矢場町駅から歩いてすぐの、栄エリアにある猫カフェ。ドリンクバー込みの30分単位の料金で、予約なしで入れる気軽さが魅力。買い物帰りのひと休みや、友人との待ち合わせにも使いやすい。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "店舗ページ https://www.catmocha.jp/shop/nagoya/ で確認"
+  },
+  {
+    "id": "hyogo-cat-mocha-sannomiya",
+    "name": "猫カフェMOCHA 三宮店",
+    "animals": [
+      "cat"
+    ],
+    "prefecture": "兵庫県",
+    "area": "三宮",
+    "address": "兵庫県神戸市中央区下山手通2丁目1-14 アークコースト5F",
+    "access": "阪急「神戸三宮駅」西口から徒歩3分／地下鉄「三宮駅」西1番・西3番出口から徒歩1分",
+    "url": "https://www.catmocha.jp/shop/kobesannomiya/",
+    "price": "入場1,100円／最初の30分（平日・税込、ドリンクバー込み）、延長10分220円",
+    "price_level": 2,
+    "hours": "10:00〜20:00（最終入店19:30）",
+    "closed": "年中無休",
+    "reservation": "不要",
+    "features": [
+      "ドリンク込み",
+      "駅近",
+      "子ども可",
+      "写真OK"
+    ],
+    "description": "三宮駅の西側、ビルの5階にある猫カフェ。地下鉄の出口から徒歩1分ほどと、旅行中でも寄りやすい立地。ドリンクバー込みで、短時間の利用にも長居にも合う。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "店舗ページ https://www.catmocha.jp/shop/kobesannomiya/ で確認"
+  },
+  {
+    "id": "osaka-cat-neco-republic-necoyokujo",
+    "name": "ねこ浴場&ねこ旅籠 保護猫カフェ ネコリパブリック大阪",
+    "animals": [
+      "cat"
+    ],
+    "prefecture": "大阪府",
+    "area": "心斎橋・長堀橋",
+    "address": "大阪府大阪市中央区島之内1丁目14-29",
+    "access": "長堀橋駅6番出口から徒歩約2分、心斎橋駅から徒歩約9分",
+    "url": "https://www.neco-republic.jp/necoyokujo/",
+    "price": "平日30分1,570円／60分1,760円（税込、ドリンク飲み放題）、延長10分220円",
+    "price_level": 2,
+    "hours": "平日12:00〜21:00／土日祝12:00〜20:00",
+    "closed": "なし（猫の健康管理のため月1回ほど不定休）",
+    "reservation": "推奨",
+    "features": [
+      "保護動物",
+      "里親募集",
+      "ドリンク込み",
+      "駅近",
+      "子ども可"
+    ],
+    "description": "銭湯をイメージした内装の保護猫カフェで、畳に寝転んで猫を眺めたり足湯をしたりできる。猫カフェに隣接して宿泊できる「ねこ旅籠」も併設している。保護猫の譲渡の場でもあり、利用料が猫の世話に使われる仕組み。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "公式店舗ページ https://www.neco-republic.jp/necoyokujo/ で確認（予約なしでも入店可、混雑時は不可の記載）"
+  },
+  {
+    "id": "hiroshima-cat-neco-republic-hiroshima",
+    "name": "保護猫カフェ ネコリパブリック広島店",
+    "animals": [
+      "cat"
+    ],
+    "prefecture": "広島県",
+    "area": "大手町",
+    "address": "広島県広島市中区大手町5-5-10 栗原ビル2F",
+    "access": "アーケード商店街の2階",
+    "url": "https://www.neco-republic.jp/shop/shop-necorepublic-hiroshima/",
+    "price": "平日30分1,100円／60分1,500円（税抜）、休日30分1,300円／60分1,700円",
+    "price_level": 2,
+    "hours": "平日13:00〜19:00／休日11:00〜19:00（ページ上部に平日20:00までの表記もあり）",
+    "closed": "火曜",
+    "reservation": "推奨",
+    "features": [
+      "保護動物",
+      "里親募集",
+      "子ども可"
+    ],
+    "description": "広島市中心部の商店街の2階にある、ネコリパブリックの西日本唯一の店舗。シックな内装と大きなキャットタワーが印象的な保護猫カフェ。入店時に靴下の着用と手足の消毒が求められ、中学生以下は保護者同伴。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "公式店舗ページ https://www.neco-republic.jp/shop/shop-necorepublic-hiroshima/ で確認。営業時間は同ページ内で19:00と20:00の表記が混在"
+  },
+  {
+    "id": "tokyo-cat-neco-republic-ochanomizu",
+    "name": "保護猫カフェ ネコリパブリック東京お茶の水店",
+    "animals": [
+      "cat"
+    ],
+    "prefecture": "東京都",
+    "area": "御茶ノ水・湯島",
+    "address": "東京都文京区湯島3丁目1-9 CRANEビル4階",
+    "access": "御茶ノ水・湯島エリア",
+    "url": "https://www.neco-republic.jp/shop/shop-necorepublic-ochanomizu/",
+    "price": "平日30分1,430円／60分1,760円（税込）、土日祝30分1,650円／60分1,980円、延長30分660円",
+    "price_level": 2,
+    "hours": "平日12:00〜19:00／休日11:00〜18:00",
+    "closed": "木曜（祝日は営業）",
+    "reservation": "推奨",
+    "features": [
+      "保護動物",
+      "里親募集",
+      "貸切可",
+      "子ども可"
+    ],
+    "description": "文京区湯島にある、保護猫の譲渡活動も行うネコリパブリックの東京の店。現在は予約優先の営業で、予約制の個室も用意されている。猫との出会いも含めて、落ち着いて過ごしたい人向け。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "公式店舗ページ https://www.neco-republic.jp/shop/shop-necorepublic-ochanomizu/ で確認"
+  },
+  {
+    "id": "miyagi-cat-moff-sendai-parco",
+    "name": "Cat Café MOFF 仙台PARCO店",
+    "animals": [
+      "cat"
+    ],
+    "prefecture": "宮城県",
+    "area": "仙台駅",
+    "address": "宮城県仙台市青葉区中央1-2-3 仙台PARCO1 5F",
+    "access": "JR仙台駅に直結（PARCO1）",
+    "url": "https://moff-moff.jp/cat-cafe/shop/sendai/",
+    "price": "入園700円／30分（ワンドリンク制）、以降10分250円、最大平日1,900円・土日祝2,900円",
+    "price_level": 2,
+    "hours": "10:00〜20:00（最終入園19:30）",
+    "closed": "仙台PARCOの定休日に準ずる",
+    "reservation": "不要",
+    "features": [
+      "駅近",
+      "子ども可"
+    ],
+    "description": "仙台駅直結の商業施設の5階にある猫カフェで、公式ページでは18匹が在籍。ドリンクを1杯頼む方式で、最大料金の設定があるので長居もしやすい。小学生以下は大人の同伴が必要で、再入園はできない。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "公式店舗ページ https://moff-moff.jp/cat-cafe/shop/sendai/ で確認"
+  },
+  {
+    "id": "hokkaido-cat-mata-tabi",
+    "name": "保護猫カフェ mata×tabi",
+    "animals": [
+      "cat"
+    ],
+    "prefecture": "北海道",
+    "area": "すすきの・中島公園",
+    "address": "北海道札幌市中央区南6条西8丁目4-11",
+    "access": "札幌市中心部・すすきの方面",
+    "url": "https://neko-matatabicafe.shopinfo.jp/",
+    "price": "1階 大人1時間1,000円・30分600円・延長10分200円＋ワンオーダー、ドリンクコース1時間1,500円",
+    "price_level": 2,
+    "hours": "11:30〜17:00（1階LO16:30、2階LO16:00）",
+    "closed": "水曜",
+    "reservation": "推奨",
+    "features": [
+      "保護動物",
+      "里親募集",
+      "子ども可"
+    ],
+    "description": "古民家を使った札幌の保護猫カフェで、障がいのある人の就労支援も兼ねる運営。館内には猫神社もあり、フロアごとに過ごし方が選べる。公式アプリでの予約が優先される。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "公式 https://neko-matatabicafe.shopinfo.jp/ と https://mata-tabi.com/system/ で確認。猫おやつは当面休止との告知あり"
+  },
+  {
+    "id": "kyoto-cat-hyoneko-no-mori",
+    "name": "京都ひょう猫の森",
+    "animals": [
+      "cat"
+    ],
+    "prefecture": "京都府",
+    "area": "新京極・河原町",
+    "address": "京都府京都市中京区東大文字町308番地 ゑり正ビル1階",
+    "access": "新京極通りから徒歩1分",
+    "url": "https://owls-cats-forest.com/free/cats-kyoto",
+    "price": "大人1,000円／30分（ワンドリンク付き）、以降10分単位で延長",
+    "price_level": 2,
+    "hours": "平日12:00〜18:00／土日祝11:30〜18:30（最終入場は閉店30分前）",
+    "closed": "公式ページに記載なし",
+    "reservation": "不要",
+    "features": [
+      "ドリンク込み",
+      "子ども可",
+      "写真OK"
+    ],
+    "description": "ヒョウ柄の毛並みが特徴のベンガルキャットに会える、京都・新京極の猫カフェ。チケットは当日店頭のみの販売で、予約は受け付けていない。入店には靴下が必要で、4歳以上から入場できる。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "公式店舗ページ https://owls-cats-forest.com/free/cats-kyoto で確認"
+  },
+  {
+    "id": "miyagi-cat-full-cat-sendai",
+    "name": "保護猫カフェ フルキャット",
+    "animals": [
+      "cat"
+    ],
+    "prefecture": "宮城県",
+    "area": "仙台・一番町",
+    "address": "宮城県仙台市青葉区一番町10-25 一番街ビル3F",
+    "access": "地下鉄広瀬通駅・青葉通一番町駅から徒歩3分",
+    "url": "https://full-cat.com",
+    "price": "平日30分1,100円（フリードリンク付）、フリータイム3,300円／土日祝30分1,300円",
+    "price_level": 2,
+    "hours": "11:00〜20:00",
+    "closed": "定休日なし（臨時休業あり）",
+    "reservation": "推奨",
+    "features": [
+      "保護動物",
+      "駅近",
+      "ドリンク込み",
+      "時間無制限プランあり",
+      "子ども可",
+      "写真OK"
+    ],
+    "description": "仙台中心部のアーケード内にある保護猫カフェで、2026年8月に開いた。16匹ほどの猫が暮らし、ドリンクバー込みで過ごせる。猫が嫌がる抱っこは控える決まりなので、猫のペースに合わせて静かに楽しみたい人向け。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "公式サイト https://full-cat.com 、https://full-cat.com/about/ 、https://full-cat.com/howto/ で確認"
+  },
+  {
+    "id": "aichi-cat-hidamari-gou-nagoya",
+    "name": "保護猫カフェ ひだまり号",
+    "animals": [
+      "cat"
+    ],
+    "prefecture": "愛知県",
+    "area": "名古屋・西区",
+    "address": "愛知県名古屋市西区香呑町3-74",
+    "access": "名古屋市営バス「香呑町」バス停すぐ／庄内通駅から約480m",
+    "url": "https://hidamari-cat.com/cafe/",
+    "price": "30分880円、60分1,320円（ソフトドリンク飲み放題）、以降15分275円",
+    "price_level": 2,
+    "hours": "11:30〜20:00（土日祝は19:00まで、最終入店19:00／日祝は17:50）",
+    "closed": "水曜・木曜（不定休あり）",
+    "reservation": "推奨",
+    "features": [
+      "保護動物",
+      "里親募集",
+      "ドリンク込み",
+      "写真OK"
+    ],
+    "description": "名古屋市西区の保護猫カフェで、ソファ12席ほどの小さな店。ドリンクバー込みで、里親を探す猫たちと過ごせる。5歳未満は入店できないので、大人や小学生以上向け。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "公式サイト https://hidamari-cat.com/ 、https://hidamari-cat.com/cafe/ で確認"
+  },
+  {
+    "id": "okayama-cat-anella-cafe-okayama-senoo",
+    "name": "ANELLA CAFE 岡山妹尾店",
+    "animals": [
+      "cat",
+      "dog"
+    ],
+    "prefecture": "岡山県",
+    "area": "岡山市南区・妹尾",
+    "address": "岡山県岡山市南区妹尾3390-7",
+    "access": "JR宇野線 妹尾駅から徒歩21分",
+    "url": "https://wan-time.jp/store/anella-cafe-okayamasenoo/",
+    "price": "一般30分1,000円（延長15分400円）、小学生30分500円、未就学児無料",
+    "price_level": 2,
+    "hours": "平日12:00〜18:00／土日祝11:00〜18:00",
+    "closed": "年中無休",
+    "reservation": "推奨",
+    "features": [
+      "保護動物",
+      "複数の動物",
+      "ふれあいOK",
+      "子ども可"
+    ],
+    "description": "保護犬と保護猫がいる福祉型のふれあいカフェで、猫と犬の両方に会える。2026年6月に開いた新しい店で、未就学児は無料、小学生は半額なので家族連れにも向く。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "店舗ページ https://wan-time.jp/store/anella-cafe-okayamasenoo/ で確認"
+  },
+  {
+    "id": "kanagawa-cat-anella-cafe-yokohama-chukagai",
+    "name": "ANELLA CAFE 横浜中華街店",
+    "animals": [
+      "cat",
+      "dog"
+    ],
+    "prefecture": "神奈川県",
+    "area": "横浜・中華街",
+    "address": "神奈川県横浜市中区山下町200-1 ボヌール山下町1F・2F",
+    "access": "みなとみらい線 日本大通り駅から徒歩6分",
+    "url": "https://wan-time.jp/store/anella-cafe-yokohamachukagai/",
+    "price": "一般30分1,000円（延長15分400円）、小学生30分500円、未就学児無料",
+    "price_level": 2,
+    "hours": "11:00〜18:00（平日・土日祝とも）",
+    "closed": "年中無休",
+    "reservation": "推奨",
+    "features": [
+      "保護動物",
+      "複数の動物",
+      "ふれあいOK",
+      "子ども可",
+      "駅近"
+    ],
+    "description": "保護犬と保護猫がいる福祉型のふれあいカフェで、中華街観光のあいまに寄りやすい。1階と2階の二層で、猫にも犬にも会える。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "店舗ページ https://wan-time.jp/store/anella-cafe-yokohamachukagai/ で確認"
+  },
+  {
+    "id": "hokkaido-cat-anella-cafe-sapporo-kiyota",
+    "name": "ANELLA CAFE 札幌清田店",
+    "animals": [
+      "cat",
+      "dog"
+    ],
+    "prefecture": "北海道",
+    "area": "札幌・清田区",
+    "address": "北海道札幌市清田区平岡6条1丁目5-26",
+    "access": "中央バス（平岡ニュータウン線）北野4条5丁目から徒歩1分",
+    "url": "https://wan-time.jp/store/anella-cafe-sapporo-kiyota/",
+    "price": "一般30分1,000円（延長15分400円）、小学生30分500円、未就学児無料",
+    "price_level": 2,
+    "hours": "12:00〜18:00（平日・土日祝とも）",
+    "closed": "年中無休",
+    "reservation": "推奨",
+    "features": [
+      "保護動物",
+      "複数の動物",
+      "ふれあいOK",
+      "子ども可"
+    ],
+    "description": "保護犬と保護猫がいる福祉型のふれあいカフェで、札幌市の郊外、清田区にある。駐車場があり、車で家族と立ち寄りやすい。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "店舗ページ https://wan-time.jp/store/anella-cafe-sapporo-kiyota/ で確認"
+  }
+]

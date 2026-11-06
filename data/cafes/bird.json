@@ -1,0 +1,187 @@
+[
+  {
+    "id": "tokyo-bird-toricafe-sendagi",
+    "name": "鳥のいるカフェ 千駄木店",
+    "animals": [
+      "bird"
+    ],
+    "prefecture": "東京都",
+    "area": "千駄木・谷中",
+    "address": "東京都文京区千駄木3-42-16-1F",
+    "access": "東京メトロ千代田線 千駄木駅から徒歩3分／JR日暮里駅から徒歩約7分",
+    "url": "https://toricafe.co.jp/sendagi",
+    "price": "入場料2,200円（先払い・3歳まで無料）",
+    "price_level": 3,
+    "hours": "11:00〜19:00",
+    "closed": "無休",
+    "reservation": "推奨",
+    "features": [
+      "ふれあいOK",
+      "子ども可",
+      "駅近"
+    ],
+    "description": "インコやオウムなど100羽以上が暮らす、放鳥エリアで遊べるふれあい型の店。飲食スペースのある普通のカフェではない点に注意。基本1時間制だが、空いていればフリータイムになる。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "https://toricafe.co.jp/sendagi/system と /sendagi/access で料金・営業時間・住所を確認（予約案内ページあり）"
+  },
+  {
+    "id": "osaka-bird-oasis-higashishinsaibashi",
+    "name": "バードカフェ オアシス",
+    "animals": [
+      "bird"
+    ],
+    "prefecture": "大阪府",
+    "area": "東心斎橋",
+    "address": "大阪府大阪市中央区東心斎橋1丁目6番9号 アモールしまのうち2階",
+    "access": "地下鉄 長堀橋駅から徒歩3分／心斎橋駅から徒歩7分",
+    "url": "https://birdcafe-oasis.com/",
+    "price": "60分1,700円（フリードリンク付）。30分1,400円〜150分3,200円",
+    "price_level": 2,
+    "hours": "13:00〜17:00（最終入店16:30）",
+    "closed": "火・水曜",
+    "reservation": "推奨",
+    "features": [
+      "ふれあいOK",
+      "ドリンク込み",
+      "えさやり体験",
+      "子ども可",
+      "駅近"
+    ],
+    "description": "鳥が飛び回る部屋で自由にふれあえる、ふれあい重視の鳥カフェ。おやつは無料で、おしゃべり上手なオウムや肩に乗ってくるインコがいる。短時間でも長居でも選べる時間制。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "https://birdcafe-oasis.com/oasis/ で料金（2024年1月〜）・営業時間、/access/ で住所・アクセスを確認。予約の要否は公式に記載なしのため「推奨」とした（要再確認）"
+  },
+  {
+    "id": "osaka-bird-kotorismile",
+    "name": "ことりすまいる",
+    "animals": [
+      "bird"
+    ],
+    "prefecture": "大阪府",
+    "area": "南船場",
+    "address": "大阪府大阪市中央区南船場4-14-1 南船場BRICK 3F",
+    "access": "心斎橋駅から徒歩約8分",
+    "url": "https://www.kotorismile.com/",
+    "price": "ふれあい体験15分550円。カフェのドリンクは880円〜",
+    "price_level": 2,
+    "hours": "11:00〜19:00（ラストオーダー18:30）",
+    "closed": "定休日なし（不定休日あり）",
+    "reservation": "推奨",
+    "features": [
+      "ふれあいOK",
+      "子ども可",
+      "写真OK"
+    ],
+    "description": "小鳥を眺めながらスイーツやお茶を楽しむコンセプトカフェで、有料のふれあいルームもある。セキセイインコやオカメインコから大型のオウムまでいて、期間限定メニューが定期的に変わる。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "https://www.kotorismile.com/ と /experience で料金・予約方法を確認。営業時間と定休日は https://kdup300.gorp.jp/ の店舗情報（公式サイトから案内されているページではないため要再確認）と いこーよニュース https://report.iko-yo.net/articles/25831 を参照"
+  },
+  {
+    "id": "tokyo-bird-kotoricafe-ueno",
+    "name": "ことりカフェ上野本店",
+    "animals": [
+      "bird"
+    ],
+    "prefecture": "東京都",
+    "area": "上野桜木・谷中",
+    "address": "東京都台東区上野桜木1-8-6",
+    "access": "東京メトロ千代田線 根津駅から徒歩約8分",
+    "url": "http://ueno.kotoricafe.jp/",
+    "price": "ふれあい体験5分550円（2名まで）。ドリンク770円〜、ドーナツセット1,540円〜",
+    "price_level": 2,
+    "hours": "11:00〜18:00（ふれあい体験の受付は16時まで）",
+    "closed": "不定休（11月は4・10・17・24日、12月は1・8・15・31日）",
+    "reservation": "推奨",
+    "features": [
+      "ふれあいOK",
+      "写真OK"
+    ],
+    "description": "インコや文鳥を眺めながら、小鳥モチーフのスイーツとお茶を楽しむカフェで、有料のふれあい部屋もある。ホームページから予約でき、混雑時は1時間制になる。鳥グッズの売り場も併設。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "http://ueno.kotoricafe.jp/ で料金・営業時間・定休日・予約を確認、運営サイト https://kotoricafe.jp/ のニュース（2026.11.05）も確認"
+  },
+  {
+    "id": "yamaguchi-bird-flap-bird",
+    "name": "Flap-bird（鳥カフェ）",
+    "animals": [
+      "bird"
+    ],
+    "prefecture": "山口県",
+    "area": "岩国・周東",
+    "address": "山口県岩国市周東町西長野266-1 2F",
+    "access": "周防高森駅から徒歩15分／玖珂ICから車10分。駐車場あり",
+    "url": "https://flap-bird.jp/",
+    "price": "40分1,200円（フリードリンク付。小学生まで800円）。ガラス越しのみなら40分500円",
+    "price_level": 2,
+    "hours": "12:00〜18:00",
+    "closed": "月曜・年末年始（鳥カフェは木曜も休み）",
+    "reservation": "推奨",
+    "features": [
+      "ふれあいOK",
+      "ドリンク込み",
+      "子ども可"
+    ],
+    "description": "インコやオウムの専門店に併設された、ふれあいが主役の鳥カフェ。専用ルームで中型から大型の鳥と触れ合え、1日5組までの予約優先。カフェはおまけ程度で、鳥好き向け。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "https://flap-bird.jp/birdcafe/ で料金・予約方法、トップ https://flap-bird.jp/ で営業時間・住所・最新お知らせ（2026.11.05更新）を確認"
+  },
+  {
+    "id": "shizuoka-bird-mofumofu-happy",
+    "name": "もふもふ 羽っぴー",
+    "animals": [
+      "bird"
+    ],
+    "prefecture": "静岡県",
+    "area": "浜松・舘山寺",
+    "address": "静岡県浜松市中央区舘山寺町2309-1",
+    "access": "最寄り駅は浜松駅、最寄りバス停は「舘山寺温泉前」",
+    "url": "https://happybird.crayonsite.net/",
+    "price": "もふもふエリア15分600円（小人300円）／30分900円／45分1,100円。もふもふ＆カフェ60分1,200円＋ドリンク代",
+    "price_level": 2,
+    "hours": "9:00〜18:00（平日は17:00までの案内あり）",
+    "closed": "不定休（来店前に電話かInstagramで確認を）",
+    "reservation": "推奨",
+    "features": [
+      "ふれあいOK",
+      "子ども可"
+    ],
+    "description": "舘山寺温泉の門前通りにあるコンパニオンバードのカフェで、ルリコンゴウやコザクラ、オカメ、モモイロなどのインコ・オウムと触れ合える。ホットサンドやパスタなどの軽食があり、お弁当の持ち込みもできる。観光の合間に寄りたい人向けで、子どもだけの入店は不可。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "https://happybird.crayonsite.net/ で料金・営業時間・住所・定休日を確認（動物取扱業登録は令和11年まで有効）。予約の要否は公式に記載がなく、営業日が不定休のため「推奨」とした"
+  },
+  {
+    "id": "akita-bird-fureai-torikago",
+    "name": "cafe ふれあい torikago",
+    "animals": [
+      "bird",
+      "owl"
+    ],
+    "prefecture": "秋田県",
+    "area": "小坂町",
+    "address": "秋田県鹿角郡小坂町荒谷字妻ノ神5-2",
+    "access": "秋田県小坂町内（店舗裏手に駐車場あり）",
+    "url": "https://torikago.shopinfo.jp/",
+    "price": "大人1,600円（平日1,500円）、13〜17歳1,100円（平日1,000円）、4〜12歳900円。いずれもワンドリンク付き",
+    "price_level": 2,
+    "hours": "4〜9月 11:00〜18:00／10〜3月 12:00〜17:00（ラストオーダーは閉店1時間前）",
+    "closed": "水曜（祝日は営業する日あり。諸事情で休む日も多いので電話で確認を）",
+    "reservation": "必須",
+    "features": [
+      "ふれあいOK",
+      "ドリンク込み",
+      "子ども可",
+      "予約制",
+      "複数の動物"
+    ],
+    "description": "フクロウとインコ類に触れ合える、定員12名の小さなカフェ。大きなフクロウの部屋があり、鳥にも人にも優しい店を目指しているという。2026年1月から予約制で、飲食だけの利用でも予約が必要。子どもだけの来店は不可。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "料金・定休日・営業時間 https://torikago.shopinfo.jp/pages/1153499/profile 、お知らせ（2026年1月から予約制、2026/8/18価格改定、2026/9/13の記事あり）https://torikago.shopinfo.jp/pages/1347596/page_201710151311 で確認。最寄り駅の記載なし"
+  }
+]

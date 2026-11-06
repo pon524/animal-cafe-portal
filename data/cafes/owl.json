@@ -1,0 +1,283 @@
+[
+  {
+    "id": "tokyo-owl-toricafe-yanaka",
+    "name": "鳥のいるカフェ 谷中本店",
+    "animals": [
+      "owl"
+    ],
+    "prefecture": "東京都",
+    "area": "谷中・根津",
+    "address": "東京都台東区谷中2-3-16 1F",
+    "access": "東京メトロ千代田線 根津駅1番出口から徒歩5分",
+    "url": "https://toricafe.co.jp/yanaka",
+    "price": "入場＋1ドリンクで2,200円（後払い。3歳まで無料）",
+    "price_level": 3,
+    "hours": "13:00〜20:00",
+    "closed": "無休",
+    "reservation": "推奨",
+    "features": [
+      "ふれあいOK",
+      "ドリンク込み",
+      "子ども可"
+    ],
+    "description": "フクロウやタカなどの猛禽類と、放鳥ルームで触れ合えるカフェ。看板フクロウが出迎えてくれて、基本はフリータイムで、混み合う時だけ1時間制になる。フードはなくドリンクのみで、猛禽に会うことが目的の人向け。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "営業時間・料金 https://toricafe.co.jp/yanaka/system 、住所 https://toricafe.co.jp/yanaka/access 、予約案内 https://toricafe.co.jp/yanaka/yanaka-reservation で確認（予約なしでも入店可、事前予約を勧める旨の記載）"
+  },
+  {
+    "id": "osaka-owl-chouette-shinsaibashi",
+    "name": "幸せのフクロウカフェ chouette（シュエット）",
+    "animals": [
+      "owl"
+    ],
+    "prefecture": "大阪府",
+    "area": "心斎橋",
+    "address": "大阪府大阪市中央区東心斎橋1丁目9-21 1921ビル 2F",
+    "access": "地下鉄 長堀橋駅クリスタ長堀南3番出口から約100m／心斎橋駅南5番出口から約150m",
+    "url": "https://chouette1.jp/",
+    "price": "60分：ふれあいプラン大人2,300円＋ワンオーダー500〜1,000円（入場料にオーダーは含まれない）",
+    "price_level": 3,
+    "hours": "平日12:00〜19:30／土日祝11:00〜19:30（最終入店18:30）",
+    "closed": "月曜を中心に不定休（11月は2・9・16・30日が休み。公式トップのカレンダーで確認）",
+    "reservation": "推奨",
+    "features": [
+      "ふれあいOK",
+      "えさやり体験",
+      "子ども可",
+      "写真OK",
+      "駅近"
+    ],
+    "description": "心斎橋の繁華街にある、種類の多いフクロウたちと触れ合えるカフェ。ふれあい体験が基本で、頭をなでたり、プランによっては腕に乗せたりできる。60分または80分制で、カフェスペースとふれあいスペースは行き来できる。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "料金・利用方法 https://chouette1.jp/use/ 、住所 https://chouette1.jp/access/ 、閉店時刻 https://chouette1.jp/blog/2025/05/23309/ で確認。開店時刻は公式に記載がなく、大阪観光局の紹介 https://osaka-info.jp/spot/happy-owl-caf-chouette/ を参照（要再確認）。予約はTableCheckで受付。2026/09/09の10周年告知あり"
+  },
+  {
+    "id": "kyoto-owl-kyoto-no-fukurou-no-mori",
+    "name": "京都のフクロウの森",
+    "animals": [
+      "owl"
+    ],
+    "prefecture": "京都府",
+    "area": "新京極・四条",
+    "address": "京都府京都市中京区新京極通四条上る中之町561番地 2F",
+    "access": "新京極商店街内（四条通を上った先）",
+    "url": "https://owls-cats-forest.com/free/owls-kyoto",
+    "price": "入場料1,000円（5歳以上。学割・レシート提示で100円引き）",
+    "price_level": 1,
+    "hours": "平日12:00〜18:00／土日祝11:30〜18:30（変動あり。最終入場は閉店30分前）",
+    "closed": "公式に定休日の記載なし（営業時間は変動あり）",
+    "reservation": "不要",
+    "features": [
+      "ふれあいOK",
+      "写真OK",
+      "子ども可"
+    ],
+    "description": "京都の新京極にある、フクロウとのふれあいに絞った小さな施設で、シロフクロウやメンフクロウなど十数羽が暮らしている。当日分のチケットを店頭で買う方式で予約は不可。買い物や食事の合間に気軽に寄りたい人向け。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "https://owls-cats-forest.com/free/owls-kyoto で住所・営業時間・入場料・予約不可・年齢制限を確認（動物取扱業登録の有効期間が令和12年まで記載）"
+  },
+  {
+    "id": "fukuoka-owl-fukurou-no-iru-cafe-tenjin",
+    "name": "ふくろうのいるカフェ天神",
+    "animals": [
+      "owl",
+      "hedgehog"
+    ],
+    "prefecture": "福岡県",
+    "area": "天神・今泉",
+    "address": "福岡県福岡市中央区今泉1-13-31 プロスペリタ今泉テラス3階",
+    "access": "西鉄天神駅南口から徒歩2分",
+    "url": "https://www.owlscafetenjin.com/",
+    "price": "50分制 ふれあい＋ソフトドリンク：大人2,480円（中高生1,980円、子供1,780円）",
+    "price_level": 3,
+    "hours": "平日13:00〜17:00／土日祝11:00〜17:00（最終入店16:15）",
+    "closed": "公式に定休日の記載なし（急な営業時間変更あり）",
+    "reservation": "推奨",
+    "features": [
+      "ふれあいOK",
+      "えさやり体験",
+      "ドリンク込み",
+      "子ども可",
+      "駅近",
+      "複数の動物"
+    ],
+    "description": "放鳥室でフクロウが放し飼いになっていて、ハリネズミやキンカジューとも一緒に触れ合える福岡のカフェ。入場料にソフトドリンクが付いた50分制で、ハリネズミのえさやりは別料金。香水など強い匂いは控えるルール。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "https://www.owlscafetenjin.com/ と /access で住所・料金・営業時間・アクセスを確認。動物取扱業登録は2028年まで有効。ブログは2019年で止まっているためSNSでの営業確認は未実施（要再確認）"
+  },
+  {
+    "id": "oita-owl-yufuin-no-fukurou-no-mori",
+    "name": "湯布院のフクロウの森",
+    "animals": [
+      "owl"
+    ],
+    "prefecture": "大分県",
+    "area": "湯布院",
+    "address": "大分県由布市湯布院町川上1503-3 YUFUIN FLORAL VILLAGE",
+    "access": "YUFUIN FLORAL VILLAGE内",
+    "url": "https://owls-cats-forest.com/free/owls-yufuin",
+    "price": "入場料 大人900円／小人（4〜12歳）600円",
+    "price_level": 1,
+    "hours": "9:30〜17:30（12〜2月は17:00まで。変動あり）",
+    "closed": "公式に定休日の記載なし",
+    "reservation": "不要",
+    "features": [
+      "ふれあいOK",
+      "写真OK",
+      "子ども可"
+    ],
+    "description": "湯布院の観光施設の中にある、屋外でフクロウを見て触れ合える施設。自然に囲まれた雰囲気で、のんびり眺めたい人や家族連れに合う。チケットは当日分のみ店頭販売で、予約は受け付けていない。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "https://owls-cats-forest.com/free/owls-yufuin で住所・営業時間・料金・予約不可を確認"
+  },
+  {
+    "id": "kanagawa-owl-kamakura-no-fukurou-no-mori",
+    "name": "鎌倉乃フクロウの森",
+    "animals": [
+      "owl"
+    ],
+    "prefecture": "神奈川県",
+    "area": "鎌倉",
+    "address": "神奈川県鎌倉市小町2-10-4 東洋ビル3F",
+    "access": "鎌倉・小町エリア",
+    "url": "https://owls-cats-forest.com/free/owls-kamakura",
+    "price": "入場料 時間無制限：大人800円／小人（4〜12歳）500円",
+    "price_level": 1,
+    "hours": "平日11:00〜17:00／土日祝11:00〜18:00（変動あり）",
+    "closed": "公式に定休日の記載なし",
+    "reservation": "不要",
+    "features": [
+      "ふれあいOK",
+      "写真OK",
+      "時間無制限プランあり",
+      "子ども可"
+    ],
+    "description": "鎌倉の小町にあるビルの3階で、さまざまな種類のフクロウに会えるふれあい施設。時間制限がなく、安い入場料でゆっくり過ごせるのが特徴。予約は不可で、当日店頭でチケットを買う。散策の合間に寄る人向け。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "https://owls-cats-forest.com/free/owls-kamakura で住所・営業時間・料金・予約不可を確認"
+  },
+  {
+    "id": "hiroshima-owl-owl-de-base",
+    "name": "オウルドベース（OWL DE BASE）",
+    "animals": [
+      "owl",
+      "hedgehog"
+    ],
+    "prefecture": "広島県",
+    "area": "袋町",
+    "address": "広島県広島市中区袋町1-33 沖田ビル4F",
+    "access": "広島電鉄「本通」電停から徒歩約5分",
+    "url": "https://www.owl-de-base.com/",
+    "price": "入場1,980円（平日はフリータイム／土日祝は1時間、フリードリンク付き）。エサやり+330円、2羽目以降のふれあい+550円",
+    "price_level": 2,
+    "hours": "11:00〜19:00（最終受付18:00）",
+    "closed": "木曜",
+    "reservation": "不要",
+    "features": [
+      "ふれあいOK",
+      "えさやり体験",
+      "ドリンク込み",
+      "写真OK",
+      "子ども可",
+      "時間無制限プランあり",
+      "複数の動物"
+    ],
+    "description": "広島の街なかにあるフクロウカフェで、20〜30羽ほどのフクロウやタカ・ハヤブサ、ハリネズミに会える。入場料に1羽目のふれあいとフリードリンクが含まれ、平日は時間を気にせず過ごせる。子ども割引がないので、家族で行くときは人数分の料金を見ておきたい。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "料金・システム https://www.owl-de-base.com/experience/cafe 、住所・営業時間・定休日 https://www.owl-de-base.com/ で確認（予約不要の記載、2026/11/3付の日記あり）"
+  },
+  {
+    "id": "tokyo-owl-owlvillage-harajuku",
+    "name": "ふくろうの里 原宿店（OWL VILLAGE HARAJUKU）",
+    "animals": [
+      "owl"
+    ],
+    "prefecture": "東京都",
+    "area": "原宿",
+    "address": "東京都渋谷区神宮前1丁目21-15 原宿ATMビル4F",
+    "access": "JR原宿駅 竹下口から徒歩2分",
+    "url": "https://www.owlvillage.jp/",
+    "price": "60分制 スタンダードコース3,800円（事前決済は2,500円）。ドリンク・ふれあい・記念品付き。エサやり1皿500円",
+    "price_level": 4,
+    "hours": "12:00〜19:00（最終入店18:00）",
+    "closed": "公式ページに記載なし（来店前に確認を）",
+    "reservation": "推奨",
+    "features": [
+      "ふれあいOK",
+      "えさやり体験",
+      "ドリンク込み",
+      "写真OK",
+      "子ども可",
+      "貸切可",
+      "駅近"
+    ],
+    "description": "竹下通りのそばにある小さなフクロウカフェ。60分制で、ドリンクとふれあい、記念品がセットになっている。手乗りを頼めばスタッフが案内してくれ、空いていれば予約なしでも入れるが、混む日は予約が安心。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "料金・営業時間・住所・FAQ（予約なしでも空席があれば案内可）を https://www.owlvillage.jp/ で確認。ブログは2026/11/1更新。定休日の記載は見つからず"
+  },
+  {
+    "id": "tokyo-owl-owlpark-ikebukuro",
+    "name": "あうるぱーく フクロウカフェ池袋西口（Owlpark）",
+    "animals": [
+      "owl",
+      "hedgehog",
+      "reptile"
+    ],
+    "prefecture": "東京都",
+    "area": "池袋",
+    "address": "東京都豊島区西池袋3-30-11 泰共フラットビル2F",
+    "access": "池袋駅西口から徒歩3分",
+    "url": "https://www.owlpark.tokyo/",
+    "price": "入場1,700円（高校生以下1,200円）、時間無制限・ふれあい体験料込み。現金・一部QR決済のみ",
+    "price_level": 2,
+    "hours": "11:00〜18:00（最終入店17:20）",
+    "closed": "公式ページに記載なし（来店前に確認を）",
+    "reservation": "推奨",
+    "features": [
+      "ふれあいOK",
+      "えさやり体験",
+      "時間無制限プランあり",
+      "子ども可",
+      "駅近",
+      "複数の動物"
+    ],
+    "description": "池袋駅の西口近くで、26種30羽ほどのフクロウに加え、ハリネズミやヘビ、イグアナにも触れ合えるカフェ。入場料だけで時間制限なく、エサやりやフライト体験まで込み。土日祝や5人以上の団体は予約をすすめている。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "料金・営業時間・住所・予約案内 https://www.owlpark.tokyo/ で確認。ブログ https://ameblo.jp/owlpark/ は2026/03/31更新。ブログ見出しの旧料金表記（1,200円）と差があり、公式トップの1,700円を採用"
+  },
+  {
+    "id": "osaka-owl-osaka-fukurou-no-mori",
+    "name": "大阪フクロウの森",
+    "animals": [
+      "owl"
+    ],
+    "prefecture": "大阪府",
+    "area": "道頓堀",
+    "address": "大阪府大阪市中央区道頓堀1丁目6-13 雛ビル（受付2階／フクロウの森3階）",
+    "access": "道頓堀エリア（雛ビル内）",
+    "url": "https://owls-cats-forest.com/free/owls-osaka",
+    "price": "入場料 大人（13歳以上）1,000円／小人（4〜12歳）800円、3歳以下無料。豆柴カフェとの共通券あり（大人2,000円）",
+    "price_level": 1,
+    "hours": "11:30〜17:30（変動あり。最終入場は閉店30分前）",
+    "closed": "公式ページに記載なし（来店前に確認を）",
+    "reservation": "不要",
+    "features": [
+      "ふれあいOK",
+      "写真OK",
+      "子ども可"
+    ],
+    "description": "道頓堀のビルの3階にある、フクロウとのふれあいに絞った施設。コキンメフクロウやシロフクロウ、ワシミミズクなど十数種類が暮らしている。チケットは当日分を店頭で買う方式で、電話やネットの予約はできない。同じビルの豆柴カフェと合わせて回る人にも向く。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "https://owls-cats-forest.com/free/owls-osaka で住所・営業時間・入場料・予約不可・共通券を確認（動物取扱業登録は令和10年10月まで有効）"
+  }
+]

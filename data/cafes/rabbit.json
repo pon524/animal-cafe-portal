@@ -1,0 +1,187 @@
+[
+  {
+    "id": "tokyo-rabbit-usabibi-ikebukuro",
+    "name": "うさぎカフェ うさびび",
+    "animals": [
+      "rabbit"
+    ],
+    "prefecture": "東京都",
+    "area": "池袋",
+    "address": "東京都豊島区池袋2-42-9 中川ビル5F",
+    "access": "池袋駅周辺",
+    "url": "https://usabibi.net",
+    "price": "1時間1,200円（ドリンク1本付き）、30分800円、延長30分600円",
+    "price_level": 2,
+    "hours": "平日13:00〜20:00／土日祝11:00〜20:00（最終19:30入店）",
+    "closed": "水曜（祝日を除く）",
+    "reservation": "推奨",
+    "features": [
+      "ふれあいOK",
+      "ドリンク込み",
+      "貸切可",
+      "子ども可"
+    ],
+    "description": "池袋のビル5階にあるうさぎカフェで、うさぎが自由に過ごす家のような雰囲気を目指している。抱っこは骨折の恐れがあるため原則禁止で、なでて楽しむスタイル。予約制ではないが予約優先なので、日程が決まっているなら電話予約が安心。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "公式 https://usabibi.net と https://usabibi.net/fee-guide/ で確認"
+  },
+  {
+    "id": "tokyo-rabbit-moffrell-akihabara",
+    "name": "うさぎカフェ もふれる",
+    "animals": [
+      "rabbit"
+    ],
+    "prefecture": "東京都",
+    "area": "秋葉原・末広町",
+    "address": "東京都千代田区外神田5-2-3 アソルティ末広町 B1階",
+    "access": "秋葉原・末広町エリア",
+    "url": "https://moff-rell.com/ja/",
+    "price": "30分1,600円／60分2,300円（税込、うさぎのおやつ付き）",
+    "price_level": 2,
+    "hours": "平日12:00〜21:00（最終入店19:00）／土日祝11:00〜21:00（最終入店18:00）※同ページに19:00閉店の古い告知も残る",
+    "closed": "公式サイトで月ごとに休館日を告知",
+    "reservation": "推奨",
+    "features": [
+      "ふれあいOK",
+      "えさやり体験"
+    ],
+    "description": "5つのブースを10〜12分ずつ移動しながら、1組ずつ貸し切りの個室でうさぎと過ごす形式のうさぎカフェ。10羽以上のうさぎとマンツーマンに近い距離で触れ合える。入館は10歳からで、ドリンク提供はなくペットボトルの持ち込みが可能。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "公式 https://moff-rell.com/ja/ で確認。営業時間表記が同ページ内で一部不統一のため要確認"
+  },
+  {
+    "id": "aichi-rabbit-usagi-to-cafe-nagoya",
+    "name": "うさぎのワンダーランド うさぎとCafe",
+    "animals": [
+      "rabbit"
+    ],
+    "prefecture": "愛知県",
+    "area": "大須・矢場町",
+    "address": "愛知県名古屋市中区大須4-1-71 矢場町中駒ビル3階",
+    "access": "矢場町駅から徒歩5分、上前津駅から徒歩6分",
+    "url": "https://usagito-cafe.com/usagicafe/play/",
+    "price": "30分1,430円／1時間1,980円（税込）、特典付きフリータイム2,800円",
+    "price_level": 2,
+    "hours": "平日13:00〜20:00／土日祝11:00〜20:00",
+    "closed": "なし",
+    "reservation": "推奨",
+    "features": [
+      "ふれあいOK",
+      "子ども可",
+      "写真OK",
+      "駅近"
+    ],
+    "description": "うさぎ専門店に併設された、名古屋・大須のうさぎカフェ。ふれあい専用のコースがあり、クレープなどの食事付きコースも選べる。12歳以下は保護者同伴で、立ったままの抱っこは禁止。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "公式 https://usagito-cafe.com/usagicafe/play/（料金表は画像）で確認。予約は電話か公式LINE"
+  },
+  {
+    "id": "osaka-rabbit-mimi-lapin-kyobashi",
+    "name": "ミミラパン",
+    "animals": [
+      "rabbit"
+    ],
+    "prefecture": "大阪府",
+    "area": "京橋",
+    "address": "大阪府大阪市都島区東野田町2-8-7 サオコマビル7F",
+    "access": "京橋駅から徒歩3分",
+    "url": "https://mimilapin1965.com/cafe/",
+    "price": "1時間 大人1,500円／中学生未満800円、延長30分750円",
+    "price_level": 2,
+    "hours": "火〜金13:00〜19:00／土日祝11:00〜19:00",
+    "closed": "月曜（祝日の場合は営業、翌火曜休）",
+    "reservation": "推奨",
+    "features": [
+      "ふれあいOK",
+      "抱っこOK",
+      "駅近",
+      "子ども可",
+      "写真OK"
+    ],
+    "description": "うさぎのブリーダーが直接運営する、京橋駅近くのうさぎカフェ。ネザーランドドワーフやホーランドロップなど、種類の違ううさぎに会える。抱っこはスタッフに声をかければできる。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "公式 https://mimilapin1965.com/cafe/ と /access/ で確認。予約の規定は記載が見当たらず、念のため電話確認推奨"
+  },
+  {
+    "id": "fukuoka-rabbit-creme-chantilly-kasuga",
+    "name": "猫うさぎカフェ クリームシャンティ",
+    "animals": [
+      "rabbit",
+      "cat"
+    ],
+    "prefecture": "福岡県",
+    "area": "春日",
+    "address": "福岡県春日市岡本2-11 レジデンス春日1F",
+    "access": "JR南福岡駅から徒歩約15分、西鉄大牟田線 大橋方面からバス約7分（岡本バス停）",
+    "url": "https://ameblo.jp/bunnycatn/",
+    "price": "大人1時間1,200円（1ドリンク制）、就学前600円、延長15分300円",
+    "price_level": 2,
+    "hours": "平日11:00〜17:00／土日祝11:00〜18:00（うさぎ部屋の最終入室は閉店の1時間30分前）",
+    "closed": "不定休（臨時休業あり）",
+    "reservation": "推奨",
+    "features": [
+      "保護動物",
+      "複数の動物",
+      "ふれあいOK",
+      "子ども可"
+    ],
+    "description": "保護された猫とうさぎがいる、福岡県春日市の小さなカフェ。猫の部屋とうさぎの部屋が分かれていて、1時間単位で利用する。平日は完全予約制になっているので、電話での予約が前提。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "公式ブログ https://ameblo.jp/bunnycatn/ で確認（平日は2026/5/21から完全予約制の告知、11月に臨時休業の告知あり）。公式サイトは未確認のため公式ブログが正本"
+  },
+  {
+    "id": "hyogo-rabbit-rin-marcy-rokko-island",
+    "name": "ウサギカフェ Rin&Marcy",
+    "animals": [
+      "rabbit"
+    ],
+    "prefecture": "兵庫県",
+    "area": "神戸・六甲アイランド",
+    "address": "兵庫県神戸市東灘区向洋町中1-4-125-108 イーストコート4番街-5番館",
+    "access": "六甲ライナー アイランド北口駅・アイランドセンター駅から徒歩7分",
+    "url": "https://rinmarcy.com/",
+    "price": "うさぎスペース20分 大人600円・小学生以下400円（おやつ付）、延長10分300円／200円",
+    "price_level": 1,
+    "hours": "12:00〜18:00",
+    "closed": "水曜・木曜・第1／第3金曜（臨時休業あり）",
+    "reservation": "推奨",
+    "features": [
+      "ふれあいOK",
+      "子ども可"
+    ],
+    "description": "神戸の六甲アイランドにある、うさぎスペース併設のカフェ。スタッフがうさぎを出して、ひざの上のブランケットにのせてくれる形のふれあい。20分600円と入りやすく、カフェ利用だけでも入れる。休みの日が多めなので、営業カレンダーを見て行きたい。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "公式サイト https://rinmarcy.com/ 、https://rinmarcy.com/plan/ 、https://rinmarcy.com/access/ で確認"
+  },
+  {
+    "id": "hokkaido-rabbit-shiawase-usagi-kitahiroshima",
+    "name": "うさぎホテル&カフェ しあわせうさぎ",
+    "animals": [
+      "rabbit"
+    ],
+    "prefecture": "北海道",
+    "area": "北広島（札幌近郊）",
+    "address": "北海道北広島市大曲南ケ丘4丁目13-9",
+    "access": "札幌近郊・北広島市大曲（駐車場4台）",
+    "url": "https://happyrabbit.amebaownd.com/",
+    "price": "ラビットルーム 1人15分900円（延長5分300円）",
+    "price_level": 1,
+    "hours": "12:00〜17:00（カフェのラストオーダー15:00）",
+    "closed": "月曜・金曜（臨時休業あり）",
+    "reservation": "必須",
+    "features": [
+      "ふれあいOK",
+      "予約制"
+    ],
+    "description": "札幌近郊の北広島にある、うさぎ専門ホテルを併設したカフェ。9羽ほどのうさぎがいて、ふれあえるのは予約制のラビットルームで、1日1組のみ。カフェ席ではふれあえないので、ふれあい目当てなら平日は3日前、土日は前日までに予約する。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "公式サイト https://happyrabbit.amebaownd.com/ 、https://happyrabbit.amebaownd.com/pages/6197949/STATIC で確認"
+  }
+]

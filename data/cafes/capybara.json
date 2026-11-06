@@ -1,0 +1,188 @@
+[
+  {
+    "id": "tokyo-capybara-cafe-capyba-hikifune",
+    "name": "cafe capyba 曳舟店",
+    "animals": [
+      "capybara"
+    ],
+    "prefecture": "東京都",
+    "area": "曳舟・東向島",
+    "address": "東京都墨田区東向島1-31-3",
+    "access": "東武スカイツリーライン・亀戸線 曳舟駅西口から徒歩5分",
+    "url": "https://cspace.co.jp/",
+    "price": "最初の30分2,300円（ワンドリンク込み）、以降10分ごとに440円、カピバラのおやつ330円",
+    "price_level": 4,
+    "hours": "平日11:00〜17:30／土日祝10:00〜17:30（公式に18:00の表記もあり。来店前に確認を）",
+    "closed": "水曜・木曜（祝日と重なる週は振替）",
+    "reservation": "必須",
+    "features": [
+      "ふれあいOK",
+      "えさやり体験",
+      "ドリンク込み",
+      "駅近",
+      "子ども可",
+      "予約制"
+    ],
+    "description": "カピバラが店内を自由に歩き回り、野菜のおやつをあげたり隣でのんびり過ごしたりできる曳舟のカフェ。曳舟店には2頭が暮らす。ウェブ予約のみで、6歳以上が対象という決まりがあるので、落ち着いてカピバラを観察したい人向け。",
+    "source_note": "トップ https://cspace.co.jp/ 、店舗案内 https://cspace.co.jp/en/our-shop_english/ で確認（2026年10月31日付の予約開始日変更の告知あり）。終了時刻の記載ゆれあり",
+    "image": null,
+    "checked": "2026-11-06"
+  },
+  {
+    "id": "tokyo-capybara-capyneko-kichijoji",
+    "name": "カピねこカフェ 吉祥寺店",
+    "animals": [
+      "capybara",
+      "cat"
+    ],
+    "prefecture": "東京都",
+    "area": "吉祥寺",
+    "address": "東京都武蔵野市吉祥寺南町1-5-10 PLATANO 2階",
+    "access": "吉祥寺エリア",
+    "url": "https://capyneko.cafe/",
+    "price": "40分2,800円（1歳未満無料）、カピバラ・猫のおやつ550円",
+    "price_level": 3,
+    "hours": "10:00〜20:00（日ごとの時間は予約ページで確認）",
+    "closed": "公式に定休日の記載なし（動物の健康状態で臨時休業あり）",
+    "reservation": "必須",
+    "features": [
+      "ふれあいOK",
+      "えさやり体験",
+      "複数の動物",
+      "予約制"
+    ],
+    "description": "カピバラと猫を同じ空間で楽しめる珍しいカフェで、40分制でふれあえる。おやつをあげる体験も用意されている。オンライン予約が基本で空きがあれば当日も入れるため、カピバラも猫も両方好きな人や、短時間で試したい人に向く。",
+    "source_note": "公式 https://capyneko.cafe/ で確認（電話 0422-26-9388）。頭数・アクセスは公式に記載なし",
+    "image": null,
+    "checked": "2026-11-06"
+  },
+  {
+    "id": "osaka-capybara-moff-lalaport-sakai",
+    "name": "Moff animal cafe ららぽーと堺店",
+    "animals": [
+      "capybara",
+      "hedgehog",
+      "owl",
+      "rabbit",
+      "smallanimal",
+      "reptile",
+      "bird"
+    ],
+    "prefecture": "大阪府",
+    "area": "堺・美原",
+    "address": "大阪府堺市美原区黒山22-1 ららぽーと堺3F",
+    "access": "ららぽーと堺内",
+    "url": "https://moff-moff.jp/animal-cafe/shop/sakai-lalaport/",
+    "price": "中学生以上1,450円（時間無制限）＋ドリンクバー380円（必須）",
+    "price_level": 2,
+    "hours": "10:00〜20:00（最終入園19:30）",
+    "closed": "ららぽーと堺の休館日に準ずる",
+    "reservation": "不要",
+    "features": [
+      "時間無制限プランあり",
+      "ふれあいOK",
+      "子ども可",
+      "複数の動物",
+      "写真OK"
+    ],
+    "description": "カピバラをはじめ、ハリネズミ、フクロウ、うさぎ、モルモット、爬虫類など約40種類の動物がいるショッピングモール内の動物カフェ。入園後は時間制限がなく、買い物のついでに立ち寄れる。抱っこは禁止で、見守りながら触れ合うスタイル。",
+    "source_note": "店舗ページ https://moff-moff.jp/animal-cafe/shop/sakai-lalaport/ で確認。カピバラの在籍は同ページの動物一覧による",
+    "image": null,
+    "checked": "2026-11-06"
+  },
+  {
+    "id": "fukuoka-capybara-moff-lalaport-fukuoka",
+    "name": "Moff animal cafe ららぽーと福岡店",
+    "animals": [
+      "capybara",
+      "owl",
+      "reptile",
+      "bird",
+      "smallanimal"
+    ],
+    "prefecture": "福岡県",
+    "area": "福岡市博多区",
+    "address": "福岡県福岡市博多区那珂6-23-1 ららぽーと福岡4F",
+    "access": "JR鹿児島本線「竹下」駅から徒歩約9分",
+    "url": "https://moff-moff.jp/animal-cafe/shop/fukuoka-lalaport/",
+    "price": "中学生以上1,450円（時間無制限）＋ドリンクバー380円（必須）",
+    "price_level": 2,
+    "hours": "10:00〜20:00（最終入園19:30）",
+    "closed": "ららぽーと福岡の休館日に準ずる",
+    "reservation": "不要",
+    "features": [
+      "時間無制限プランあり",
+      "ふれあいOK",
+      "子ども可",
+      "複数の動物",
+      "写真OK"
+    ],
+    "description": "カピバラのほか、フクロウ、爬虫類、鳥、小動物などが暮らす複合型の動物カフェ。一度入れば時間を気にせず過ごせ、予約も不要なので福岡観光や買い物の合間に寄りやすい。動物を抱っこしない決まりがあり、子どもと一緒に動物の様子を見て回りたい人向け。",
+    "source_note": "店舗ページ https://moff-moff.jp/animal-cafe/shop/fukuoka-lalaport/ で確認。カピバラ在籍は同ページ記載",
+    "image": null,
+    "checked": "2026-11-06"
+  },
+  {
+    "id": "aichi-capybara-moff-lalaport-aichi-togo",
+    "name": "Moff animal cafe ららぽーと愛知東郷店",
+    "animals": [
+      "capybara",
+      "reptile",
+      "bird",
+      "owl",
+      "hedgehog",
+      "rabbit",
+      "smallanimal"
+    ],
+    "prefecture": "愛知県",
+    "area": "東郷（名古屋近郊）",
+    "address": "愛知県愛知郡東郷町東郷中央土地区画整理事業62街区1・3 ららぽーと愛知東郷3階",
+    "access": "ららぽーと愛知東郷内",
+    "url": "https://moff-moff.jp/animal-cafe/shop/aichi-togo-lalaport/",
+    "price": "中学生以上1,450円（時間無制限）＋ドリンクバー380円（必須）",
+    "price_level": 2,
+    "hours": "10:00〜20:00（最終入園19:30）",
+    "closed": "ららぽーと愛知東郷の休館日に準ずる",
+    "reservation": "不要",
+    "features": [
+      "時間無制限プランあり",
+      "ふれあいOK",
+      "子ども可",
+      "複数の動物",
+      "写真OK"
+    ],
+    "description": "カピバラのほか、フタユビナマケモノ、フラミンゴ、オオハシ、インコ、フクロウ、ハリネズミなどが暮らす、ショッピングモール内の動物カフェ。入園後は時間無制限で、買い物ついでに寄れる。抱っこはできず、見守りながら触れ合うスタイル。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "店舗ページ https://moff-moff.jp/animal-cafe/shop/aichi-togo-lalaport/ で確認。カピバラの在籍は同ページの動物一覧による（頭数は不明）"
+  },
+  {
+    "id": "tokyo-capybara-cafe-capyba-asakusa",
+    "name": "cafe capyba ASAKUSA（カピバラカフェ 浅草店）",
+    "animals": [
+      "capybara"
+    ],
+    "prefecture": "東京都",
+    "area": "浅草",
+    "address": "東京都台東区千束1-1-4 アメニティ舟橋1階",
+    "access": "つくばエクスプレス浅草駅から徒歩約5分",
+    "url": "https://cspace.co.jp/",
+    "price": "最初の30分2,300円（ワンドリンク込み）、以降10分ごと440円",
+    "price_level": 4,
+    "hours": "平日11:00〜17:30／土日祝10:00〜17:30（公式に18:00の表記もあり。来店前に確認を）",
+    "closed": "水曜・木曜（祝日と重なる週は祝日営業・次の平日が休み）",
+    "reservation": "必須",
+    "features": [
+      "ふれあいOK",
+      "えさやり体験",
+      "ドリンク込み",
+      "駅近",
+      "子ども可",
+      "予約制"
+    ],
+    "description": "2頭のカピバラ（麦とぴーかん）が店内で自由に過ごす、2025年開業の浅草のカフェ。ドリンクを飲みながらのんびり眺め、野菜のおやつ（330円）をあげられる。Web予約のみの事前予約制で、6歳以上から入店できる。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "トップ https://cspace.co.jp/ 、店舗案内 https://cspace.co.jp/our-shop/ で確認（お知らせは2026-10-31付）。閉店時刻は店舗案内内で17:30と18:00の表記ゆれがあり17:30を採用"
+  }
+]

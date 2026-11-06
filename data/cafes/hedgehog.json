@@ -1,0 +1,172 @@
+[
+  {
+    "id": "osaka-hedgehog-harrywood-namba",
+    "name": "ハリネズミ専門Cafe HARRY WOOD（ハリーウッド）なんば店",
+    "animals": [
+      "hedgehog"
+    ],
+    "prefecture": "大阪府",
+    "area": "なんば・千日前",
+    "address": "大阪府大阪市中央区千日前2丁目8-4 きよ美ビル3F",
+    "access": "地下鉄なんば駅から徒歩6分（千日前商店街の通りを入る）",
+    "url": "http://www.cafeharrywood.com/namba/",
+    "price": "入場30分1,400円／1時間1,980円（大人）。3歳以下無料",
+    "price_level": 2,
+    "hours": "11:00〜20:00",
+    "closed": "1月1日を除き無休",
+    "reservation": "推奨",
+    "features": [
+      "ふれあいOK",
+      "えさやり体験",
+      "写真OK",
+      "子ども可"
+    ],
+    "description": "ハリネズミ専門のカフェで、ふれあい、おやつやり、撮影など過ごし方は自由。小学生以下は保護者同伴で、予約すると待たずに入りやすい。2026年11月から料金改定が入っている。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "料金・営業時間・アクセス http://www.cafeharrywood.com/namba/ 、価格改定告知 http://www.cafeharrywood.com/namba/news-detail.php?id=15 で確認（総合トップの時間表記とは差があり、店舗ページの11:00〜20:00を採用）"
+  },
+  {
+    "id": "aichi-hedgehog-harrywood-sakae",
+    "name": "ハリネズミ専門Cafe HARRY WOOD（ハリーウッド）名古屋栄店",
+    "animals": [
+      "hedgehog"
+    ],
+    "prefecture": "愛知県",
+    "area": "栄",
+    "address": "愛知県名古屋市中区栄3-13-1 南呉服町ビル3F",
+    "access": "地下鉄栄駅8番出口から徒歩7分",
+    "url": "http://www.cafeharrywood.com/sakae/",
+    "price": "入場30分1,400円／1時間2,000円（大人）、高校生以下は1時間1,400円",
+    "price_level": 2,
+    "hours": "平日13:00〜18:00／土日祝11:00〜18:00（11月は変動の告知あり）",
+    "closed": "年末年始を除き無休",
+    "reservation": "推奨",
+    "features": [
+      "ふれあいOK",
+      "えさやり体験",
+      "写真OK",
+      "子ども可"
+    ],
+    "description": "名古屋の栄にあるハリネズミ専門カフェ。中学生以上2名につきハリネズミ1匹を案内する方式で、落ち着いて触れ合える。1時間の予約でガチャガチャとステッカーの特典が付く。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "料金・営業時間・住所 http://www.cafeharrywood.com/sakae/ で確認（総合トップ http://www.cafeharrywood.com/ の営業時間表記とは異なるため店舗ページを採用）"
+  },
+  {
+    "id": "tokyo-hedgehog-harry-harajuku-station",
+    "name": "HARRY 原宿駅前店（ハリネズミカフェ）",
+    "animals": [
+      "hedgehog",
+      "smallanimal",
+      "other",
+      "owl"
+    ],
+    "prefecture": "東京都",
+    "area": "原宿",
+    "address": "東京都渋谷区神宮前1-13-21 シャンゼール原宿2号館4F",
+    "access": "JR原宿駅から徒歩1分",
+    "url": "https://harinezumi-cafe.com/store/harajuku/",
+    "price": "大人45分2,310円〜／小人2,090円〜",
+    "price_level": 3,
+    "hours": "11:00〜19:00（ラストオーダー18:30）",
+    "closed": "無休（11/24〜11/30はリニューアル工事のため臨時休業）",
+    "reservation": "推奨",
+    "features": [
+      "ふれあいOK",
+      "駅近",
+      "子ども可",
+      "複数の動物",
+      "写真OK"
+    ],
+    "description": "ハリネズミを中心に、ハムスター、ミーアキャット、フクロウ、モルモットにも会える駅前の店舗。予約なしでも入れるが混雑時は待つので、予約が安心。気に入った子をお迎えすることもできる。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "https://harinezumi-cafe.com/store/harajuku/ と https://harinezumi-cafe.com/news/ で営業時間・料金・工事告知（2026.11.03）を確認"
+  },
+  {
+    "id": "kanagawa-hedgehog-harry-yokohama-chukagai",
+    "name": "HARRY 横浜中華街店（ハリネズミカフェ）",
+    "animals": [
+      "hedgehog",
+      "other"
+    ],
+    "prefecture": "神奈川県",
+    "area": "横浜中華街",
+    "address": "神奈川県横浜市中区山下町103-3 M'sPort 2F",
+    "access": "横浜中華街エリア",
+    "url": "https://harinezumi-cafe.com/store/yokohama-chukagai/",
+    "price": "大人45分2,090円〜／子供1,650円〜",
+    "price_level": 3,
+    "hours": "平日12:00〜18:00／土日祝11:00〜18:00（ラストオーダー17:30）",
+    "closed": "無休",
+    "reservation": "推奨",
+    "features": [
+      "ふれあいOK",
+      "写真OK",
+      "子ども可",
+      "複数の動物"
+    ],
+    "description": "中華街の散策ついでに寄れる、ハリネズミとフェネックなどに会える店舗。小学生までは保護者同伴で、3歳以下は予約不可なので直接来店する。観光と合わせたい人向け。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "https://harinezumi-cafe.com/store/yokohama-chukagai/ と 店舗ルール https://harinezumi-cafe.com/ で確認"
+  },
+  {
+    "id": "tokyo-hedgehog-chikuchiku-cafe-shibuya",
+    "name": "ハリネズミ専門カフェ ちくちくCAFE",
+    "animals": [
+      "hedgehog"
+    ],
+    "prefecture": "東京都",
+    "area": "渋谷",
+    "address": "東京都渋谷区渋谷1-13-5 大協渋谷ビル2F",
+    "access": "渋谷駅から徒歩2分（宮益坂）",
+    "url": "https://hedgehoghome.cafe/",
+    "price": "30分1,430円／60分2,640円（税込）。おやつ440円",
+    "price_level": 3,
+    "hours": "11:00〜18:00（カフェの受付は17:30まで）",
+    "closed": "公式に定休日の記載なし（NEWSで告知）",
+    "reservation": "推奨",
+    "features": [
+      "ふれあいOK",
+      "えさやり体験",
+      "駅近",
+      "貸切可",
+      "子ども可",
+      "写真OK"
+    ],
+    "description": "キッチンやベッドルームなど、ドールハウス風の部屋で暮らすハリネズミたちに会えるカフェ。手に乗せたりおやつをあげたりでき、60分は入れ替え制の予約、30分は当日受付のみ。貸切プランもある。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "https://hedgehoghome.cafe/ で住所・料金・営業時間を確認（2026.08.05 お知らせ更新あり）"
+  },
+  {
+    "id": "tokyo-hedgehog-potta-iidabashi",
+    "name": "はりねずみ屋ぽった",
+    "animals": [
+      "hedgehog"
+    ],
+    "prefecture": "東京都",
+    "area": "飯田橋・神楽坂",
+    "address": "東京都千代田区飯田橋1丁目11-4 Potta店内2F",
+    "access": "東京メトロ飯田橋駅A5番出口から徒歩3分",
+    "url": "https://pottachick.jimdofree.com/",
+    "price": "30分 大人1,900円／4歳〜小学生1,400円（ワンドリンク付き）。延長15分ごとに500円、3歳以下無料",
+    "price_level": 3,
+    "hours": "土日 14:00〜19:00／月・金・木は夜営業（曜日と時間は変動。公式の営業スケジュールで確認を）",
+    "closed": "火曜・水曜",
+    "reservation": "推奨",
+    "features": [
+      "ふれあいOK",
+      "ドリンク込み",
+      "子ども可",
+      "貸切可",
+      "駅近"
+    ],
+    "description": "1階がカフェ＆バー、2階がハリネズミとのふれあいスペースになっている店。土日と木曜は予約なしで入れ、月・金は当日16時までの連絡が必要。ドリンク付きの30分制で、自家繁殖の子ハリも見られる。同時に案内するのは3組までで、静かに触れ合いたい人向け。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "https://pottachick.jimdofree.com/ （営業案内・住所・アクセス）と料金表 https://pottachick.jimdofree.com/%E3%81%B5%E3%82%8C%E3%81%82%E3%81%84%E4%BD%93%E9%A8%93/%E6%96%99%E9%87%91%E8%A1%A8/ で確認。2026年のシルバーウィーク営業告知あり"
+  }
+]

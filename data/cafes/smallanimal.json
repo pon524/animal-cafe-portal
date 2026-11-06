@@ -1,0 +1,248 @@
+[
+  {
+    "id": "osaka-smallanimal-rockstar-namba-parks",
+    "name": "小動物カフェ ロックスター なんばパークス前店",
+    "animals": [
+      "smallanimal"
+    ],
+    "prefecture": "大阪府",
+    "area": "難波",
+    "address": "大阪府大阪市浪速区難波中2丁目8-91 中川ビル 中1階",
+    "access": "なんばパークス前（南海なんば駅周辺）",
+    "url": "http://smallanimal2.rock-star.xyz",
+    "price": "大人2,280円／60分、4〜12歳1,580円、3歳以下無料",
+    "price_level": 3,
+    "hours": "11:00〜20:00",
+    "closed": "毎週火曜",
+    "reservation": "推奨",
+    "features": [
+      "ふれあいOK",
+      "子ども可",
+      "複数の動物"
+    ],
+    "description": "小さな動物たちと、1時間制で順番に触れ合えるお店です。触れる動物は一度に1種類というルールがあり、落ち着いて向き合えます。小さな子連れや、いろいろな小動物をまとめて見たい人に向きます。",
+    "source_note": "公式 http://smallanimal2.rock-star.xyz で住所・営業時間・定休日・料金・予約導線を確認。動物の種類は公式ページに明記がないため、animals は smallanimal のみとし、description でも種類を書いていない（2026-11-06 検品で修正）",
+    "image": null,
+    "checked": "2026-11-06"
+  },
+  {
+    "id": "kyoto-smallanimal-luff-kyotanabe",
+    "name": "動物ふれあい Luff（Luff s.a.family）",
+    "animals": [
+      "smallanimal",
+      "hedgehog",
+      "rabbit",
+      "bird",
+      "other"
+    ],
+    "prefecture": "京都府",
+    "area": "京田辺",
+    "address": "京都府京田辺市河原受田43-8 ルーブルビル本館 2A",
+    "access": "近鉄新田辺駅から徒歩2分、JR京田辺駅から徒歩6分",
+    "url": "https://luff-safamily.com/",
+    "price": "大人2,800円／90分（おやつあげ込み）、7〜12歳1,500円",
+    "price_level": 3,
+    "hours": "13:00〜18:00",
+    "closed": "不定休（営業カレンダーで確認）",
+    "reservation": "推奨",
+    "features": [
+      "ふれあいOK",
+      "えさやり体験",
+      "子ども可",
+      "駅近",
+      "複数の動物"
+    ],
+    "description": "ミーアキャットやチンチラ、ハリネズミ、ハムスター、モルモットなど30種類以上と、90分かけてふれあえる施設です。おやつをあげる体験も料金に含まれ、スタッフが付き添ってくれます。週末や祝日は予約しておくと安心で、子ども連れにも向きます。",
+    "source_note": "公式 https://luff-safamily.com/ で住所・料金・営業時間・予約・動物を確認",
+    "image": null,
+    "checked": "2026-11-06"
+  },
+  {
+    "id": "tokyo-smallanimal-harry-mogumogu-harajuku",
+    "name": "HARRY mogumogu（HARRYモグモグ店）",
+    "animals": [
+      "smallanimal",
+      "other"
+    ],
+    "prefecture": "東京都",
+    "area": "原宿",
+    "address": "東京都渋谷区神宮前1-13-21 シャングリラ原宿第2ビル 4F",
+    "access": "JR原宿駅から徒歩1分",
+    "url": "https://harinezumi-cafe.com/store/mogu-mogu/",
+    "price": "大人1,650円／30分〜（Web予約は60分以上）",
+    "price_level": 4,
+    "hours": "11:00〜19:00（L.O.18:30）",
+    "closed": "無休",
+    "reservation": "推奨",
+    "features": [
+      "駅近",
+      "ふれあいOK"
+    ],
+    "description": "ハムスターとミーアキャットに会える、原宿駅すぐのビルの4階にあるお店です。ハリネズミのHARRYグループが運営する一軒で、予約なしでも入れますが混む時間は待つことがあります。駅から近く、短時間で小動物を堪能したい人向けです。",
+    "source_note": "公式 https://harinezumi-cafe.com/store/mogu-mogu/ で住所・営業時間・料金・予約・動物を確認",
+    "image": null,
+    "checked": "2026-11-06"
+  },
+  {
+    "id": "fukuoka-smallanimal-moff-animal-cafe-markis-momochi",
+    "name": "Moff animal cafe マークイズ福岡ももち店",
+    "animals": [
+      "smallanimal",
+      "owl",
+      "bird",
+      "reptile",
+      "rabbit",
+      "hedgehog"
+    ],
+    "prefecture": "福岡県",
+    "area": "百道",
+    "address": "福岡県福岡市中央区地行浜2-2-1 MARKIS福岡ももち 3F",
+    "access": "福岡市営地下鉄「唐人町駅」から徒歩約10分",
+    "url": "https://moff-moff.jp/animal-cafe/shop/fukuoka-momochi/",
+    "price": "中学生以上1,200円（時間無制限）＋ドリンクバー380円",
+    "price_level": 2,
+    "hours": "10:00〜20:00（最終入園19:00）",
+    "closed": "MARKIS福岡ももちの定休日に準ずる",
+    "reservation": "不要",
+    "features": [
+      "ふれあいOK",
+      "時間無制限プランあり",
+      "子ども可",
+      "複数の動物"
+    ],
+    "description": "チンチラやモルモット、ハリネズミなどの小動物のほか、フクロウ、インコ、爬虫類まで集まった商業施設内のお店です。入場料で時間を気にせず過ごせ、予約もいりません。買い物のついでに立ち寄りたい家族連れや、いろいろな動物を一度に見たい人に向きます。",
+    "source_note": "公式店舗ページ https://moff-moff.jp/animal-cafe/shop/fukuoka-momochi/ で確認",
+    "image": null,
+    "checked": "2026-11-06"
+  },
+  {
+    "id": "miyagi-smallanimal-moff-animal-cafe-aeon-natori",
+    "name": "Moff animal cafe イオンモール名取店",
+    "animals": [
+      "smallanimal",
+      "owl",
+      "bird",
+      "reptile",
+      "rabbit",
+      "hedgehog",
+      "other"
+    ],
+    "prefecture": "宮城県",
+    "area": "名取",
+    "address": "宮城県名取市杜せきのした5-3-1 イオンモール名取 3F",
+    "access": "仙台空港アクセス線「杜せきのした駅」直結",
+    "url": "https://moff-moff.jp/animal-cafe/shop/natori/",
+    "price": "中学生以上1,200円（時間無制限）＋ドリンクバー380円",
+    "price_level": 2,
+    "hours": "10:00〜20:00（最終入園19:30）",
+    "closed": "イオンモール名取の休館日に準ずる",
+    "reservation": "不要",
+    "features": [
+      "ふれあいOK",
+      "時間無制限プランあり",
+      "駅近",
+      "子ども可",
+      "複数の動物"
+    ],
+    "description": "ハムスターやチンチラ、ハリネズミ、モルモットに、フクロウやインコ、爬虫類、フタユビナマケモノまで暮らす東北では数少ない店です。駅直結のモール内にあり、入場料だけで長居できます。予約なしで行けるので、仙台周辺で気軽に動物と過ごしたい人向けです。",
+    "source_note": "公式店舗ページ https://moff-moff.jp/animal-cafe/shop/natori/ で確認",
+    "image": null,
+    "checked": "2026-11-06"
+  },
+  {
+    "id": "tokyo-smallanimal-harry-harajuku-kawaii-zoo",
+    "name": "HARRY 原宿かわいい動物園店",
+    "animals": [
+      "smallanimal",
+      "hedgehog",
+      "capybara",
+      "other"
+    ],
+    "prefecture": "東京都",
+    "area": "原宿",
+    "address": "東京都渋谷区神宮前1-6-12 ITOビル 3F",
+    "access": "JR原宿駅から徒歩3分",
+    "url": "https://harinezumi-cafe.com/store/harajuku-kawaii-zoo/",
+    "price": "大人30分1,650円〜、子ども30分1,430円〜（予約は60分以上から）",
+    "price_level": 4,
+    "hours": "平日12:00〜18:00、土日祝11:00〜18:00（最終入店17:30）",
+    "closed": "無休",
+    "reservation": "推奨",
+    "features": [
+      "ふれあいOK",
+      "駅近",
+      "子ども可",
+      "複数の動物"
+    ],
+    "description": "フェレットやミーアキャット、ハリネズミ、フェネック、カピバラなどが集まる小さな動物園のようなお店です。飲み物はセルフで、持ち込みもできます（アルコールは不可）。原宿で動物をいろいろ見比べたい人に向きます。予約なしでも入れますが、混むと待つことがあります。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "公式店舗ページ https://harinezumi-cafe.com/store/harajuku-kawaii-zoo/ で住所・営業時間・料金・予約を確認"
+  },
+  {
+    "id": "hiroshima-smallanimal-moff-animal-cafe-alpark",
+    "name": "Moff animal cafe アルパーク店",
+    "animals": [
+      "smallanimal",
+      "owl",
+      "bird",
+      "reptile",
+      "hedgehog",
+      "other"
+    ],
+    "prefecture": "広島県",
+    "area": "井口（広島市西区）",
+    "address": "広島県広島市西区井口明神1-16-1 アルパーク西棟2F",
+    "access": "JR山陽本線「新井口駅」から徒歩約3分",
+    "url": "https://moff-moff.jp/animal-cafe/shop/alpark/",
+    "price": "中学生以上1,200円（時間無制限）＋ドリンクバー380円",
+    "price_level": 2,
+    "hours": "10:00〜20:00（最終入園19:30）",
+    "closed": "アルパークの定休日に準ずる",
+    "reservation": "不要",
+    "features": [
+      "ふれあいOK",
+      "時間無制限プランあり",
+      "駅近",
+      "子ども可",
+      "複数の動物"
+    ],
+    "description": "チンチラやハムスター、モルモット、ハリネズミなどの小動物に加え、フクロウ、インコ、爬虫類、フタユビナマケモノがいる商業施設型のお店です。入園料は時間無制限で、予約も要りません。動物を抱っこすることはできないので、見て触れて過ごしたい人向けです。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "公式店舗ページ https://moff-moff.jp/animal-cafe/shop/alpark/ で確認"
+  },
+  {
+    "id": "aichi-smallanimal-moff-animal-cafe-lalaport-anjo",
+    "name": "Moff animal cafe ららぽーと安城店",
+    "animals": [
+      "smallanimal",
+      "owl",
+      "bird",
+      "reptile",
+      "rabbit",
+      "hedgehog",
+      "other"
+    ],
+    "prefecture": "愛知県",
+    "area": "安城",
+    "address": "愛知県安城市大東町9-30 ららぽーと安城 1F",
+    "access": "JR東海道本線「安城駅」から徒歩10分",
+    "url": "https://moff-moff.jp/animal-cafe/shop/anjo-lalaport/",
+    "price": "中学生以上1,450円（時間無制限）＋ドリンクバー380円",
+    "price_level": 2,
+    "hours": "10:00〜20:00（最終入園19:30）",
+    "closed": "ららぽーと安城の休館日に準ずる",
+    "reservation": "不要",
+    "features": [
+      "ふれあいOK",
+      "時間無制限プランあり",
+      "子ども可",
+      "複数の動物"
+    ],
+    "description": "チンチラ、ハリネズミ、ハムスター、モルモット、ウサギといった小動物のほか、フクロウやオウム、フトアゴヒゲトカゲ、ナマケモノがいる複合型のお店です。名古屋から足を延ばして、買い物のついでに動物と過ごしたい人に向きます。動物の抱っこはできません。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "公式店舗ページ https://moff-moff.jp/animal-cafe/shop/anjo-lalaport/ で確認"
+  }
+]
