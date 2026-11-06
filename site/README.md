@@ -9,6 +9,7 @@
 - ファイル：`css/style.css`、`js/app.js`（全ページ共通）、`img/pixel/<動物id>.png`（AI生成のドット絵。無ければ `img/<動物id>.svg` の旧イラストに自動で戻る。`_sample.png` は見本）、`img/favicon.svg`、`img/ogp.svg`・`img/ogp.png`、`data.js`（生成物・手で編集しない）
 - 公開URLの設定：環境変数 `BASE_URL`（例 `BASE_URL=https://example.com/dcz python3 tools/build.py`）。sitemap.xml・robots.txt の Sitemap 行が作られ、HTML の og:image と 404.html の `<base>` が絶対URLになり、JS が canonical / og:url を絶対URLにする。空のままなら相対に戻る。GitHub Pages では `.github/workflows/pages.yml` が自動で渡すので手元では空でよい（手順は `公開手順.md`）。
 - OGP 画像は `img/ogp.png`（1200×630、`img/ogp.svg` を Chrome ヘッドレスで書き出したもの）。ogp.svg を直したら PNG も作り直す。`site/.nojekyll` は GitHub Pages 用の目印（消さない）。
+- Google AdSense：各 HTML の `</head>` 直前にタグ（pub-9990610420404495、自動広告）、`ads.txt` をサイト直下に置いた（2026-11-06）。404.html には入れない。広告と Cookie の説明は about の「広告について」（`js/app.js`）。
 - お気に入りは localStorage（キー dcz-favs）。店の `image` に画像パスを入れるとイラストの代わりに表示される。
 
 ## 見た目（v3）
