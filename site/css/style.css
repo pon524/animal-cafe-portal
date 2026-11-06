@@ -205,6 +205,7 @@ table.info{width:100%;border-collapse:separate;border-spacing:0;background:#fff;
 .about-page p,.about-page li{font-size:15px}
 .about-page ul{padding-left:1.3em;margin:8px 0}
 .about-page .box{background:#fff;border-radius:var(--r);box-shadow:var(--shadow);padding:16px 20px;font-size:14px}
+.about-page .box p{margin:0 0 10px}.about-page .box p:last-child{margin:0}.about-page .box .note{color:var(--sub);font-size:13px}
 
 /* footer */
 .ftr{position:relative;margin-top:0;padding:44px 0 48px;background:var(--forest);color:#F6F1E6;font-size:12px}

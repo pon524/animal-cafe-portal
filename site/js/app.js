@@ -439,7 +439,7 @@
       <li>各店の「確認日」は、公式情報を見た日です。その後に変わっていることがあります。</li></ul>
       <h2>掲載内容の修正依頼</h2>
       <p>店名・料金・営業時間などの間違いや、閉店・休業のお知らせがあれば、修正をお願いできます。</p>
-      <div class="box">連絡先：準備中です。受付を始めるときは、このページでお知らせします。</div>
+      <div class="box"><p>修正依頼は GitHub の Issues で受け付けています（GitHub のアカウントが必要です）。店名と、どこがどう違うかを書いてください。</p><p><a class="btn" href="https://github.com/pon524/animal-cafe-portal/issues/new?title=%E6%8E%B2%E8%BC%89%E5%86%85%E5%AE%B9%E3%81%AE%E4%BF%AE%E6%AD%A3%E4%BE%9D%E9%A0%BC&amp;body=%E5%BA%97%E5%90%8D%EF%BC%9A%0A%E7%9B%B4%E3%81%97%E3%81%A6%E3%81%BB%E3%81%97%E3%81%84%E3%81%A8%E3%81%93%E3%82%8D%EF%BC%9A%0A%E6%AD%A3%E3%81%97%E3%81%84%E6%83%85%E5%A0%B1%E3%81%8C%E5%88%86%E3%81%8B%E3%82%8B%E5%85%AC%E5%BC%8F%E3%83%9A%E3%83%BC%E3%82%B8%EF%BC%9A%0A" target="_blank" rel="noopener">修正を依頼する</a></p><p class="note">店の運営者の方も、同じ窓口から掲載の取り下げや追加をお知らせください。</p></div>
       <h2>免責</h2>
       ${SITE.disclaimer ? `<p>${esc(SITE.disclaimer)}</p>` : ''}
       <p>このサイトの情報を使って生じた損害について、運営は責任を負えません。最終的な判断は、各店の公式の案内をもとにしてください。</p></article>`));
