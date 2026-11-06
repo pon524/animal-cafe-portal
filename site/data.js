@@ -1,5 +1,6 @@
 /* build.py が生成。手で編集しない */
 window.BASE_URL = "";
+window.CLEAN_URLS = false;
 window.SITE = {
  "name": "どうぶつカフェ図鑑",
  "tagline": "会いたい動物から、日本の動物カフェを探す",

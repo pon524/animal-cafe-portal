@@ -2,6 +2,8 @@
   'use strict';
   const SITE = window.SITE || {}, ANIMALS = window.ANIMALS || [], CAFES = window.CAFES || [];
   const BASE = String(window.BASE_URL || '').replace(/\/+$/, '');
+  // 拡張子なしURLで配信される置き場（Cloudflare Pages）では canonical / og:url も拡張子なしにする
+  const cleanPath = p => window.CLEAN_URLS ? p.replace(/^index\.html$/, '').replace(/^(\w+)\.html/, '$1') : p;
   const AMAP = Object.fromEntries(ANIMALS.map(a => [a.id, a]));
   const PRICE = { 1: '〜1,000円', 2: '〜2,000円', 3: '〜3,000円', 4: '3,000円超' };
   const FKEY = 'dcz-favs';
@@ -88,10 +90,10 @@
     metaTag('property', 'og:type', o.type || 'website');
     metaTag('property', 'og:image', absUrl('img/ogp.png'));
     if (BASE && o.path) {
-      metaTag('property', 'og:url', absUrl(o.path));
+      metaTag('property', 'og:url', absUrl(cleanPath(o.path)));
       let l = document.head.querySelector('link[rel="canonical"]');
       if (!l) { l = document.createElement('link'); l.rel = 'canonical'; document.head.appendChild(l); }
-      l.href = absUrl(o.path);
+      l.href = absUrl(cleanPath(o.path));
     }
   }
 
