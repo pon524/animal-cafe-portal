@@ -804,5 +804,59 @@
     "source_note": "公式サイト https://100kiya50.my.canva.site/ （Playwrightで表示のみ確認）で住所・料金・営業時間・定休日を確認。ふれあいは多くの種類で不可、混雑時は断る旨の記載あり",
     "image": null,
     "checked": "2026-11-06"
+  },
+  {
+    "id": "kanagawa-other-ikimono-tankentai-shonan",
+    "name": "いきもの探検隊 OSC湘南シティ店",
+    "animals": [
+      "other"
+    ],
+    "prefecture": "神奈川県",
+    "area": "平塚",
+    "address": "神奈川県平塚市代官町33-1 OSC湘南シティ 2F",
+    "access": "平塚市代官町のOSC湘南シティ内（最寄駅は公式ページに記載なし）",
+    "url": "https://shonan-city.com/shopguide/ikimono",
+    "price": "入場800円で当日は出入り自由（2歳以下無料）。おやつは別料金",
+    "price_level": 1,
+    "hours": "10:00〜19:00",
+    "closed": "毎月第3水曜（祝日や夏・冬休みにあたる場合は営業）",
+    "reservation": "不要",
+    "features": [
+      "ふれあいOK",
+      "えさやり体験",
+      "子ども可",
+      "複数の動物"
+    ],
+    "description": "ショッピングモールの中にある、約30種類の生き物とふれあえる施設だ。一度入れば当日は出入り自由で、買い物の合間に何度でも戻れる。おやつをあげる体験は別料金になる。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "モール公式 https://shonan-city.com/shopguide/ikimono （店舗案内ページ）で営業時間・定休日・料金・住所を確認。店の公式Instagram @ikimonotankentai.shounan はあるが未ログインでは投稿日が読めず、料金はモール公式の記載による。種名一覧の記載なし、おやつ料金は別サイトの口コミで1個100円とされるが公式未確認"
+  },
+  {
+    "id": "chiba-other-ikimono-tankentai-inage",
+    "name": "いきもの探検隊 フレスポ稲毛店",
+    "animals": [
+      "other"
+    ],
+    "prefecture": "千葉県",
+    "area": "稲毛区・長沼原町",
+    "address": "千葉県千葉市稲毛区長沼原町731-17 フレスポ稲毛 1F",
+    "access": "フレスポ稲毛内（最寄駅は公式ページに記載なし）",
+    "url": "https://www.e-frespo.com/inage/shop/index.jsp?bf=1&fmt=1&shopid=2046",
+    "price": "入場800円（2歳以下無料）。おやつは1つ100円",
+    "price_level": 1,
+    "hours": "10:00〜19:00（最終受付18:30）",
+    "closed": "公式ページに記載なし（来店前に確認を）",
+    "reservation": "不要",
+    "features": [
+      "ふれあいOK",
+      "えさやり体験",
+      "子ども可",
+      "複数の動物"
+    ],
+    "description": "ショッピングセンター1階にある、水の生き物から鳥や小さな哺乳類まで30種類ほどに会えるふれあい施設だ。おやつをあげる体験ができ、入場料が低めなので家族でふらりと入る使い方に合う。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "施設公式 https://www.e-frespo.com/inage/shop/index.jsp?bf=1&fmt=1&shopid=2046 の店舗ページで営業時間・料金・住所を確認。店の公式Instagram @ikimonotankentai_inage はあるが未ログインでは投稿日が読めない。定休日・種名一覧の記載なし"
   }
 ]
