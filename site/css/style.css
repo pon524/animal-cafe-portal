@@ -237,3 +237,4 @@ table.info{width:100%;border-collapse:separate;border-spacing:0;background:#fff;
 
 .hero .fact{margin:10px 0 0;font-size:14px;font-weight:700;color:var(--teal-d,#1D6A63);letter-spacing:.02em}
 .hero .fact b{font-family:var(--serif);font-size:1.35em;font-weight:700;margin:0 2px}
+.about-page p a:not(.btn){color:var(--teal);text-decoration:underline;text-underline-offset:3px}
