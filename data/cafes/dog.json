@@ -317,5 +317,580 @@
     "image": null,
     "checked": "2026-11-06",
     "source_note": "店舗ページ https://wan-time.jp/store/anella-cafe-hiroshimamidorii/ で確認"
+  },
+  {
+    "id": "okayama-dog-samoyed-park-okayama",
+    "name": "サモエドパーク岡山店",
+    "animals": [
+      "dog"
+    ],
+    "prefecture": "岡山県",
+    "area": "岡山市北区・幸町",
+    "address": "岡山県岡山市北区幸町8-26 L'AVON 1F",
+    "access": "岡山市北区幸町（公式ページに最寄駅の記載なし）",
+    "url": "https://samoyedcafe.net/shop/samoyed-park-okayama/",
+    "price": "1時間 平日2,200円／土日祝2,600円（事前予約・税込）",
+    "price_level": 3,
+    "hours": "公式ページに記載なし（来店前に確認を）",
+    "closed": "なし（サモエドの体調により不定休あり）",
+    "reservation": "推奨",
+    "features": [
+      "ふれあいOK"
+    ],
+    "description": "白いサモエド犬と過ごせる犬カフェで、岡山市の中心部にある。料金は事前予約が前提なので、来店前にネット予約するのが基本。不定期で、サモエドと街を歩く散歩企画も開かれる。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "店舗ページ https://samoyedcafe.net/shop/samoyed-park-okayama/ で確認。営業時間は同ページに記載なし"
+  },
+  {
+    "id": "hokkaido-dog-samoedos-sapporo",
+    "name": "サモエドカフェ SAMOEDO'S 札幌店",
+    "animals": [
+      "dog"
+    ],
+    "prefecture": "北海道",
+    "area": "札幌・すすきの周辺",
+    "address": "北海道札幌市中央区南三条西4-12-1 4階",
+    "access": "札幌市中央区南3条西4丁目（公式ページに最寄駅の記載なし）",
+    "url": "https://samoyedcafe.net/shop/samoedos-sapporo/",
+    "price": "1時間 平日2,200円／土日祝2,600円（事前予約・税込）、1時間貸切プランあり",
+    "price_level": 3,
+    "hours": "平日11:00〜19:00／土日祝10:00〜19:00（最終入店18:00）",
+    "closed": "なし（サモエドの体調により不定休あり）",
+    "reservation": "推奨",
+    "features": [
+      "ふれあいOK",
+      "貸切可"
+    ],
+    "description": "札幌中心部のビルの4階にあるサモエド犬のカフェ。店のサモエドが複数頭いて、1時間のチケット制で過ごす。大きくて白い犬が好きな人や、冬の札幌で屋内で動物と遊びたい人に向く。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "店舗ページ https://samoyedcafe.net/shop/samoedos-sapporo/ で確認"
+  },
+  {
+    "id": "miyagi-dog-samos-cafe-sendai",
+    "name": "サモエドカフェ SAMOS CAFE 仙台店",
+    "animals": [
+      "dog"
+    ],
+    "prefecture": "宮城県",
+    "area": "仙台・一番町",
+    "address": "宮城県仙台市青葉区一番町3-6-10 Foresta大町102",
+    "access": "仙台市青葉区一番町（公式ページに最寄駅の記載なし）",
+    "url": "https://samoyedcafe.net/shop/%e3%82%b5%e3%83%a2%e3%82%a8%e3%83%89%e3%82%ab%e3%83%95%e3%82%a7-samos-cafe-%e4%bb%99%e5%8f%b0%e5%ba%97/",
+    "price": "1時間 平日2,500円／土日祝2,900円（事前予約・税込）、1時間貸切プランあり",
+    "price_level": 3,
+    "hours": "平日11:00〜20:00／土日祝10:00〜20:00（最終入店19:00）",
+    "closed": "なし（サモエドの体調により不定休あり）",
+    "reservation": "推奨",
+    "features": [
+      "ふれあいOK",
+      "抱っこOK",
+      "貸切可",
+      "写真OK"
+    ],
+    "description": "仙台の一番町にあるサモエド犬のカフェ。おやつや抱っこ、チェキ撮影のオプションがあり、スマホでの撮影もできる。貸切プランもあるので、仲間で過ごしたい人にも向く。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "店舗ページ https://samoyedcafe.net/shop/%e3%82%b5%e3%83%a2%e3%82%a8%e3%83%89%e3%82%ab%e3%83%95%e3%82%a7-samos-cafe-%e4%bb%99%e5%8f%b0%e5%ba%97/ で確認"
+  },
+  {
+    "id": "osaka-dog-samoedos-osaka-shinsaibashi",
+    "name": "サモエドカフェ SAMOEDO'S 大阪心斎橋店",
+    "animals": [
+      "dog"
+    ],
+    "prefecture": "大阪府",
+    "area": "心斎橋・アメリカ村",
+    "address": "大阪府大阪市中央区西心斎橋2-10-31 ASUKAアメリカ村ビル 1階",
+    "access": "大阪市中央区西心斎橋（公式ページに最寄駅の記載なし）",
+    "url": "https://samoyedcafe.net/shop/samoedoscafe-osaka/",
+    "price": "1時間 平日2,500円／土日祝2,750円（事前予約・税込）、1時間貸切プランあり",
+    "price_level": 3,
+    "hours": "平日11:00〜20:00／土日祝10:00〜20:00（最終入店19:00）",
+    "closed": "なし（サモエドの体調により不定休あり）",
+    "reservation": "必須",
+    "features": [
+      "ふれあいOK",
+      "抱っこOK",
+      "貸切可",
+      "写真OK",
+      "予約制"
+    ],
+    "description": "アメリカ村にあるサモエド犬のカフェで、同じ心斎橋でも別系列のmoffuとは別の店。おやつ、抱っこ、チェキなどのオプションがあり、スマホ撮影もできる。予約が前提の作りになっている。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "店舗ページ https://samoyedcafe.net/shop/samoedoscafe-osaka/ で確認"
+  },
+  {
+    "id": "kanagawa-dog-kamakura-mameshiba-cafe",
+    "name": "鎌倉乃豆柴カフェ",
+    "animals": [
+      "dog"
+    ],
+    "prefecture": "神奈川県",
+    "area": "鎌倉・小町通り",
+    "address": "神奈川県鎌倉市小町2-10-4 東洋ビル2階",
+    "access": "鎌倉駅東口から、鶴岡八幡宮へ向かう小町通り沿い",
+    "url": "https://owls-cats-forest.com/free/mameshiba-kamakura",
+    "price": "大人（13歳以上）1,200円／30分、小人（4〜12歳）800円（ワンドリンク付き）",
+    "price_level": 2,
+    "hours": "平日11:00〜17:30／土日祝11:00〜18:00（最終入場は閉店30分前）",
+    "closed": "公式ページに記載なし（来店前に確認を）",
+    "reservation": "不要",
+    "features": [
+      "ふれあいOK",
+      "ドリンク込み",
+      "子ども可"
+    ],
+    "description": "小町通り沿いのビルにある豆柴のカフェで、入場は原則30分、ドリンクが付く。予約は受けず当日券を店頭で買う方式で、完売することもある。0〜3歳は入れない。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "店舗ページ https://owls-cats-forest.com/free/mameshiba-kamakura で確認（予約不可、当日券のみと記載）"
+  },
+  {
+    "id": "shizuoka-dog-anella-cafe-hamamatsu-chuo",
+    "name": "ANELLA CAFE 浜松中央店",
+    "animals": [
+      "dog",
+      "cat"
+    ],
+    "prefecture": "静岡県",
+    "area": "浜松・中央",
+    "address": "静岡県浜松市中央区中央1丁目16-9 シュテルンバウ東田町1F",
+    "access": "JR浜松駅から徒歩10分",
+    "url": "https://wan-time.jp/store/anella-cafe-hamamatsuchuo/",
+    "price": "一般30分1,000円（延長15分400円）、小学生30分500円、未就学児無料",
+    "price_level": 2,
+    "hours": "平日・土日祝とも12:00〜18:00",
+    "closed": "年中無休",
+    "reservation": "推奨",
+    "features": [
+      "保護動物",
+      "複数の動物",
+      "ふれあいOK",
+      "子ども可"
+    ],
+    "description": "浜松駅から歩ける場所にある、保護犬と保護猫のふれあいカフェ。公式には保護犬・保護猫の一覧ページがあり、どんな子がいるか事前に見られる。30分から気軽に入れる。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "店舗ページ https://wan-time.jp/store/anella-cafe-hamamatsuchuo/ で確認。予約の記載はなし"
+  },
+  {
+    "id": "kyoto-dog-anella-cafe-kyoto-karasuma",
+    "name": "ANELLA CAFE 京都烏丸店",
+    "animals": [
+      "dog"
+    ],
+    "prefecture": "京都府",
+    "area": "烏丸御池",
+    "address": "京都府京都市中京区両替町通姉小路上ル龍池町448番地4",
+    "access": "京都市営地下鉄 烏丸御池駅2番出口から徒歩1分",
+    "url": "https://wan-time.jp/store/anella-cafe-kyotokarasuma/",
+    "price": "一般30分1,000円（延長15分400円）、小学生30分500円、未就学児無料",
+    "price_level": 2,
+    "hours": "12:00〜18:00（平日・土日祝とも）",
+    "closed": "年中無休",
+    "reservation": "推奨",
+    "features": [
+      "保護動物",
+      "ふれあいOK",
+      "子ども可",
+      "駅近"
+    ],
+    "description": "烏丸御池駅からすぐの、保護犬がいるふれあいカフェ（保護猫は時期によって不在）。観光や買い物の合間に30分だけ立ち寄るような使い方がしやすい。譲渡活動を行う団体のカフェとして運営されている。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "店舗ページ https://wan-time.jp/store/anella-cafe-kyotokarasuma/ で確認。予約の記載はなし"
+  },
+  {
+    "id": "oita-dog-anella-cafe-oita",
+    "name": "ANELLA CAFE 大分店",
+    "animals": [
+      "dog",
+      "cat"
+    ],
+    "prefecture": "大分県",
+    "area": "大分市・毛井",
+    "address": "大分県大分市毛井553-1",
+    "access": "大分バス 毛井バス停から徒歩1分",
+    "url": "https://wan-time.jp/store/anella-cafe-oita/",
+    "price": "一般30分1,000円（延長15分400円）、小学生30分500円、未就学児無料",
+    "price_level": 2,
+    "hours": "平日12:00〜18:00／土日祝11:00〜18:00",
+    "closed": "年中無休",
+    "reservation": "推奨",
+    "features": [
+      "保護動物",
+      "複数の動物",
+      "ふれあいOK",
+      "子ども可"
+    ],
+    "description": "大分市の郊外にある保護犬・保護猫のふれあいカフェ。最寄りは鉄道駅ではなくバス停で、車で行くほうが現実的。保護された犬猫と30分から過ごせる。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "店舗ページ https://wan-time.jp/store/anella-cafe-oita/ で確認。予約の記載はなし"
+  },
+  {
+    "id": "hokkaido-dog-anella-cafe-hakodate",
+    "name": "ANELLA CAFE 函館店",
+    "animals": [
+      "dog",
+      "cat"
+    ],
+    "prefecture": "北海道",
+    "area": "函館・花園町",
+    "address": "北海道函館市花園町23-3",
+    "access": "函館市電 湯の川線 深堀町駅から徒歩14分",
+    "url": "https://wan-time.jp/store/anella-cafe-hakodate/",
+    "price": "一般30分1,000円（延長15分400円）、小学生30分500円、未就学児無料",
+    "price_level": 2,
+    "hours": "平日12:00〜18:30／土日祝11:00〜18:30",
+    "closed": "年中無休",
+    "reservation": "推奨",
+    "features": [
+      "保護動物",
+      "複数の動物",
+      "ふれあいOK",
+      "子ども可"
+    ],
+    "description": "函館市電の沿線にある保護犬・保護猫のふれあいカフェ。閉店が18:30と、この系列の中ではやや遅め。旅行中に動物とふれあいたい人にも寄りやすい。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "店舗ページ https://wan-time.jp/store/anella-cafe-hakodate/ で確認。予約の記載はなし"
+  },
+  {
+    "id": "aichi-dog-anella-cafe-aichi-ama",
+    "name": "ANELLA CAFE 愛知海部店",
+    "animals": [
+      "dog",
+      "cat"
+    ],
+    "prefecture": "愛知県",
+    "area": "海部郡・大治町",
+    "address": "愛知県海部郡大治町西條柳原82-2",
+    "access": "名鉄津島線 七宝駅から徒歩20分",
+    "url": "https://wan-time.jp/store/anella-cafe-aichiama/",
+    "price": "一般30分1,000円（延長15分400円）、小学生30分500円、未就学児無料",
+    "price_level": 2,
+    "hours": "平日12:00〜18:00／土日祝11:00〜18:00",
+    "closed": "年中無休",
+    "reservation": "推奨",
+    "features": [
+      "保護動物",
+      "複数の動物",
+      "ふれあいOK",
+      "子ども可"
+    ],
+    "description": "名古屋の西、大治町にある保護犬・保護猫のふれあいカフェ。駅から徒歩20分ほどかかるので、車での来店が向く。名古屋近郊で保護動物と会いたい人に。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "店舗ページ https://wan-time.jp/store/anella-cafe-aichiama/ で確認。予約の記載はなし"
+  },
+  {
+    "id": "saga-dog-anella-cafe-saga",
+    "name": "ANELLA CAFE 佐賀店",
+    "animals": [
+      "dog",
+      "cat"
+    ],
+    "prefecture": "佐賀県",
+    "area": "佐賀市・中の小路",
+    "address": "佐賀県佐賀市中の小路6番26号 佐嘉栄ビル1階",
+    "access": "JR佐賀駅から徒歩24分",
+    "url": "https://wan-time.jp/store/anella-cafe-saga/",
+    "price": "一般30分1,000円（延長15分400円）、小学生30分500円、未就学児無料",
+    "price_level": 2,
+    "hours": "11:00〜17:00（平日・土日祝とも）",
+    "closed": "年中無休",
+    "reservation": "推奨",
+    "features": [
+      "保護動物",
+      "複数の動物",
+      "ふれあいOK",
+      "子ども可"
+    ],
+    "description": "佐賀市の中心部にある保護犬・保護猫のふれあいカフェ。営業は17:00までと早めに閉まるので、午後の早い時間に行くとよい。30分1,000円から。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "店舗ページ https://wan-time.jp/store/anella-cafe-saga/ で確認。予約の記載はなし"
+  },
+  {
+    "id": "chiba-dog-anella-cafe-narashino",
+    "name": "ANELLA CAFE 習志野店",
+    "animals": [
+      "dog"
+    ],
+    "prefecture": "千葉県",
+    "area": "習志野・大久保",
+    "address": "千葉県習志野市大久保1-25-18 1階",
+    "access": "京成本線 京成大久保駅から徒歩1分",
+    "url": "https://wan-time.jp/store/anella-cafe-narashino/",
+    "price": "一般30分1,000円（延長15分400円）、小学生30分500円、未就学児無料",
+    "price_level": 2,
+    "hours": "平日12:00〜18:00／土日祝11:00〜18:00",
+    "closed": "年中無休",
+    "reservation": "推奨",
+    "features": [
+      "保護動物",
+      "ふれあいOK",
+      "子ども可",
+      "駅近"
+    ],
+    "description": "京成大久保駅の目の前にある、保護犬のふれあいカフェ（保護猫は時期によって不在）。現金のほかカードや電子マネーも使える。千葉県西部で保護動物とふれあいたい人向け。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "店舗ページ https://wan-time.jp/store/anella-cafe-narashino/ で確認。予約の記載はなし"
+  },
+  {
+    "id": "okayama-dog-anella-cafe-okayama-senoo",
+    "name": "ANELLA CAFE 岡山妹尾店",
+    "animals": [
+      "dog",
+      "cat"
+    ],
+    "prefecture": "岡山県",
+    "area": "岡山市南区・妹尾",
+    "address": "岡山県岡山市南区妹尾3390-7",
+    "access": "JR宇野線 妹尾駅から徒歩21分",
+    "url": "https://wan-time.jp/store/anella-cafe-okayamasenoo/",
+    "price": "一般30分1,000円（延長15分400円）、小学生30分500円、未就学児無料",
+    "price_level": 2,
+    "hours": "平日12:00〜18:00／土日祝11:00〜18:00",
+    "closed": "年中無休",
+    "reservation": "推奨",
+    "features": [
+      "保護動物",
+      "複数の動物",
+      "ふれあいOK",
+      "子ども可"
+    ],
+    "description": "保護犬と保護猫がいる福祉型のふれあいカフェで、猫と犬の両方に会える。2026年6月に開いた新しい店で、未就学児は無料、小学生は半額なので家族連れにも向く。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "店舗ページ https://wan-time.jp/store/anella-cafe-okayamasenoo/ で確認"
+  },
+  {
+    "id": "kanagawa-dog-anella-cafe-yokohama-chukagai",
+    "name": "ANELLA CAFE 横浜中華街店",
+    "animals": [
+      "dog",
+      "cat"
+    ],
+    "prefecture": "神奈川県",
+    "area": "横浜・中華街",
+    "address": "神奈川県横浜市中区山下町200-1 ボヌール山下町1F・2F",
+    "access": "みなとみらい線 日本大通り駅から徒歩6分",
+    "url": "https://wan-time.jp/store/anella-cafe-yokohamachukagai/",
+    "price": "一般30分1,000円（延長15分400円）、小学生30分500円、未就学児無料",
+    "price_level": 2,
+    "hours": "11:00〜18:00（平日・土日祝とも）",
+    "closed": "年中無休",
+    "reservation": "推奨",
+    "features": [
+      "保護動物",
+      "複数の動物",
+      "ふれあいOK",
+      "子ども可",
+      "駅近"
+    ],
+    "description": "保護犬と保護猫がいる福祉型のふれあいカフェで、中華街観光のあいまに寄りやすい。1階と2階の二層で、猫にも犬にも会える。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "店舗ページ https://wan-time.jp/store/anella-cafe-yokohamachukagai/ で確認"
+  },
+  {
+    "id": "hokkaido-dog-anella-cafe-sapporo-kiyota",
+    "name": "ANELLA CAFE 札幌清田店",
+    "animals": [
+      "dog",
+      "cat"
+    ],
+    "prefecture": "北海道",
+    "area": "札幌・清田区",
+    "address": "北海道札幌市清田区平岡6条1丁目5-26",
+    "access": "中央バス（平岡ニュータウン線）北野4条5丁目から徒歩1分",
+    "url": "https://wan-time.jp/store/anella-cafe-sapporo-kiyota/",
+    "price": "一般30分1,000円（延長15分400円）、小学生30分500円、未就学児無料",
+    "price_level": 2,
+    "hours": "12:00〜18:00（平日・土日祝とも）",
+    "closed": "年中無休",
+    "reservation": "推奨",
+    "features": [
+      "保護動物",
+      "複数の動物",
+      "ふれあいOK",
+      "子ども可"
+    ],
+    "description": "保護犬と保護猫がいる福祉型のふれあいカフェで、札幌市の郊外、清田区にある。駐車場があり、車で家族と立ち寄りやすい。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "店舗ページ https://wan-time.jp/store/anella-cafe-sapporo-kiyota/ で確認"
+  },
+  {
+    "id": "saitama-dog-anella-cafe-koshigaya",
+    "name": "ANELLA CAFE 越谷店",
+    "animals": [
+      "dog",
+      "cat"
+    ],
+    "prefecture": "埼玉県",
+    "area": "越谷市",
+    "address": "埼玉県越谷市越ヶ谷5-2-5",
+    "access": "東武スカイツリーライン 越谷駅から徒歩8分",
+    "url": "https://wan-time.jp/store/anella-cafe-koshigaya/",
+    "price": "一般30分1,000円（延長15分400円）、小学生30分500円、未就学児無料",
+    "price_level": 2,
+    "hours": "平日12:00〜18:00／土日祝11:00〜18:00",
+    "closed": "年中無休",
+    "reservation": "推奨",
+    "features": [
+      "保護動物",
+      "複数の動物",
+      "ふれあいOK",
+      "子ども可"
+    ],
+    "description": "保護犬と保護猫に会える福祉型のふれあいカフェで、2026年10月に開いたばかりの店。未就学児は無料、小学生は半額で、家族連れにも向く。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "店舗ページ https://wan-time.jp/store/anella-cafe-koshigaya/ で確認。猫の頭数は公式ページに記載なし"
+  },
+  {
+    "id": "niigata-dog-anella-cafe-shibata",
+    "name": "ANELLA CAFE 新潟新発田店",
+    "animals": [
+      "dog",
+      "cat"
+    ],
+    "prefecture": "新潟県",
+    "area": "新発田市",
+    "address": "新潟県新発田市豊町2-6-21",
+    "access": "JR新発田駅から徒歩10分",
+    "url": "https://wan-time.jp/store/anella-cafe-shibata/",
+    "price": "一般30分1,000円（延長15分400円）、小学生30分500円、未就学児無料",
+    "price_level": 2,
+    "hours": "平日・祝日12:00〜18:00／土日11:00〜18:00",
+    "closed": "年中無休",
+    "reservation": "推奨",
+    "features": [
+      "保護動物",
+      "複数の動物",
+      "ふれあいOK",
+      "子ども可"
+    ],
+    "description": "保護犬と保護猫に会える福祉型のふれあいカフェ。ドリンク飲み放題（300円）のオプションがある。新潟県北部で動物とふれあえる数少ない場所。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "店舗ページ https://wan-time.jp/store/anella-cafe-shibata/ で確認。猫の頭数は公式ページに記載なし"
+  },
+  {
+    "id": "kagawa-dog-anella-cafe-takamatsu-chuo",
+    "name": "ANELLA CAFE 高松中央店",
+    "animals": [
+      "dog",
+      "cat"
+    ],
+    "prefecture": "香川県",
+    "area": "高松市・松縄町",
+    "address": "香川県高松市松縄町50-14",
+    "access": "琴電琴平線 三条駅から徒歩17分",
+    "url": "https://wan-time.jp/store/anella-cafe-takamatsuchuo/",
+    "price": "一般30分1,000円（延長15分400円）、小学生30分500円、未就学児無料",
+    "price_level": 2,
+    "hours": "平日12:00〜18:00／土日祝11:00〜18:00",
+    "closed": "年中無休",
+    "reservation": "推奨",
+    "features": [
+      "保護動物",
+      "複数の動物",
+      "ふれあいOK",
+      "子ども可"
+    ],
+    "description": "保護犬と保護猫に会える福祉型のふれあいカフェで、犬の部屋と猫の部屋が分かれている。未就学児は無料、小学生は半額で家族連れにも向く。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "店舗ページ https://wan-time.jp/store/anella-cafe-takamatsuchuo/ で確認。猫の頭数は公式ページに記載なし"
+  },
+  {
+    "id": "wakayama-dog-anella-cafe-wakayama-hashimoto",
+    "name": "ANELLA CAFE 和歌山橋本駅前店",
+    "animals": [
+      "dog",
+      "cat"
+    ],
+    "prefecture": "和歌山県",
+    "area": "橋本市",
+    "address": "和歌山県橋本市古佐田1-3-13",
+    "access": "JR和歌山線 橋本駅から徒歩1分",
+    "url": "https://wan-time.jp/store/anella-cafe-wakayamahashimoto/",
+    "price": "一般30分1,000円（延長15分400円）、小学生30分500円、未就学児無料",
+    "price_level": 2,
+    "hours": "平日12:00〜18:00／土日祝11:00〜18:00",
+    "closed": "年中無休",
+    "reservation": "推奨",
+    "features": [
+      "保護動物",
+      "ふれあいOK",
+      "子ども可",
+      "駅近"
+    ],
+    "description": "保護猫と触れ合える福祉型のカフェで、橋本駅から歩いてすぐ。未就学児は無料、小学生は半額。高野山方面への行き帰りにも寄れる。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "店舗ページ https://wan-time.jp/store/anella-cafe-wakayamahashimoto/ で確認。猫の頭数は公式ページに記載なし"
+  },
+  {
+    "id": "tochigi-dog-anella-cafe-ashikaga",
+    "name": "ANELLA CAFE 足利店",
+    "animals": [
+      "dog",
+      "cat"
+    ],
+    "prefecture": "栃木県",
+    "area": "足利市",
+    "address": "栃木県足利市朝倉町2-1-11",
+    "access": "東武伊勢崎線 東武和泉駅から徒歩12分（駐車場あり）",
+    "url": "https://wan-time.jp/store/anella-cafe-ashikaga/",
+    "price": "一般30分1,000円（延長15分400円）、小学生30分500円、未就学児無料",
+    "price_level": 2,
+    "hours": "平日12:00〜18:00／土日祝11:00〜18:00",
+    "closed": "年中無休",
+    "reservation": "推奨",
+    "features": [
+      "保護動物",
+      "ふれあいOK",
+      "子ども可"
+    ],
+    "description": "保護猫と触れ合える福祉型のカフェで、足利市の郊外にある。駐車場があり、車で出かけやすい。未就学児は無料、小学生は半額。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "店舗ページ https://wan-time.jp/store/anella-cafe-ashikaga/ で確認。猫の頭数は公式ページに記載なし"
+  },
+  {
+    "id": "ibaraki-dog-anella-cafe-hitachi",
+    "name": "ANELLA CAFE 日立店",
+    "animals": [
+      "dog",
+      "cat"
+    ],
+    "prefecture": "茨城県",
+    "area": "日立市",
+    "address": "茨城県日立市大沼町3-17-26",
+    "access": "JR常磐線 大甕駅から車で5分（駐車場あり）",
+    "url": "https://wan-time.jp/store/anella-cafe-hitachi/",
+    "price": "一般30分1,000円（延長15分400円）、小学生30分500円、未就学児無料",
+    "price_level": 2,
+    "hours": "平日12:00〜18:00／土日祝11:00〜18:00",
+    "closed": "年中無休",
+    "reservation": "推奨",
+    "features": [
+      "保護動物",
+      "ふれあいOK",
+      "子ども可"
+    ],
+    "description": "保護猫と触れ合える福祉型のカフェで、日立市にある。現金のほかクレジットカードや電子マネー、QR決済が使える。未就学児は無料、小学生は半額。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "店舗ページ https://wan-time.jp/store/anella-cafe-hitachi/ で確認。猫の頭数は公式ページに記載なし"
   }
 ]

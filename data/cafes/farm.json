@@ -246,5 +246,219 @@
     "image": null,
     "checked": "2026-11-06",
     "source_note": "公式 https://www.takachiho-bokujou.co.jp/oneday/fureai/（動物・おやつ）、/oneday/restaurant/（レストラン）、/access/（住所・営業時間）で確認。小動物（モルモット等）は公式で確認できないため smallanimal を外した（2026-11-06）"
+  },
+  {
+    "id": "toyama-farm-mipig-cafe-aeon-takaoka",
+    "name": "mipig cafe イオンモール高岡店",
+    "animals": [
+      "farm"
+    ],
+    "prefecture": "富山県",
+    "area": "高岡",
+    "address": "富山県高岡市下伏間江383 イオンモール高岡 西館2F",
+    "access": "イオンモール高岡 西館2階",
+    "url": "https://mipig.cafe/locations/toyama-takaoka/",
+    "price": "一般1,760円／25分、2,310円／55分（小学生1,210円〜、未就学児660円）",
+    "price_level": 3,
+    "hours": "10:30〜20:00",
+    "closed": "公式ページに記載なし（予約枠で確認）",
+    "reservation": "必須",
+    "features": [
+      "ふれあいOK",
+      "子ども可",
+      "予約制"
+    ],
+    "description": "2026年4月に北陸で初めて開いたマイクロブタのカフェで、モールの西館2階にある。予約はWebのみで、25分と55分から選ぶ。北陸でブタと触れ合いたい家族連れや、買い物ついでの人向け。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "公式 https://mipig.cafe/locations/toyama-takaoka/ で住所・営業時間・料金・予約を確認（店舗一覧 https://mipig.cafe/ ）"
+  },
+  {
+    "id": "hyogo-farm-mipig-cafe-kobe-sannomiya",
+    "name": "mipig cafe 神戸三宮店",
+    "animals": [
+      "farm"
+    ],
+    "prefecture": "兵庫県",
+    "area": "三宮",
+    "address": "兵庫県神戸市中央区三宮町3-9-8",
+    "access": "三宮エリア",
+    "url": "https://mipig.cafe/locations/kobe-sannomiya/",
+    "price": "一般1,760円／25分、2,310円／55分（小学生1,210円〜、未就学児660円）",
+    "price_level": 3,
+    "hours": "11:00〜19:00",
+    "closed": "公式ページに記載なし（予約枠で確認）",
+    "reservation": "必須",
+    "features": [
+      "ふれあいOK",
+      "子ども可",
+      "予約制"
+    ],
+    "description": "三宮の路面の建物で、1階と2階を使ってマイクロブタと過ごせる店。モール内の店舗と違い、営業は11時から19時までと短め。自転車での来店は断られるので、徒歩か公共交通で行く。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "公式 https://mipig.cafe/locations/kobe-sannomiya/ で住所・営業時間・料金・予約を確認（店舗一覧 https://mipig.cafe/ ）"
+  },
+  {
+    "id": "tochigi-farm-mipig-cafe-utsunomiya-interpark",
+    "name": "mipig cafe 宇都宮インターパークビレッジ店",
+    "animals": [
+      "farm"
+    ],
+    "prefecture": "栃木県",
+    "area": "宇都宮",
+    "address": "栃木県宇都宮市インターパーク4-1-3 IPSビレッジ",
+    "access": "IPSビレッジ内（インターパーク）",
+    "url": "https://mipig.cafe/locations/utsunomiya/",
+    "price": "一般1,760円／25分、2,310円／55分（小学生1,210円〜、未就学児660円）",
+    "price_level": 3,
+    "hours": "10:00〜20:00",
+    "closed": "公式ページに記載なし（予約枠で確認）",
+    "reservation": "必須",
+    "features": [
+      "ふれあいOK",
+      "子ども可",
+      "貸切可",
+      "予約制"
+    ],
+    "description": "宇都宮のショッピングエリア内にあるマイクロブタのカフェで、2025年秋に開業した。フロア全体が見渡せる作りで、個室プランもある。車で出かける家族や、栃木で小さなブタに会いたい人向け。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "公式 https://mipig.cafe/locations/utsunomiya/ で住所・営業時間・料金・予約を確認（店舗一覧 https://mipig.cafe/ ）"
+  },
+  {
+    "id": "miyagi-farm-mipig-cafe-aeon-natori",
+    "name": "mipig cafe イオンモール名取店",
+    "animals": [
+      "farm"
+    ],
+    "prefecture": "宮城県",
+    "area": "名取",
+    "address": "宮城県名取市杜せきのした5-3-1 イオンモール名取 1F",
+    "access": "イオンモール名取 1階",
+    "url": "https://mipig.cafe/locations/sendai-natori/",
+    "price": "一般1,760円／25分、2,310円／55分（小学生1,210円〜、未就学児660円）",
+    "price_level": 3,
+    "hours": "10:00〜20:00",
+    "closed": "公式ページに記載なし（予約枠で確認）",
+    "reservation": "必須",
+    "features": [
+      "ふれあいOK",
+      "子ども可",
+      "貸切可",
+      "予約制"
+    ],
+    "description": "仙台空港に近い大型モールの1階にある、マイクロブタのふれあいカフェ。予約はWebのみで、個室プランもある。東北でブタと触れ合える数少ない場所なので、仙台周辺の家族連れに向く。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "公式 https://mipig.cafe/locations/sendai-natori/ で住所・営業時間・料金・予約を確認（店舗一覧 https://mipig.cafe/ ）"
+  },
+  {
+    "id": "saitama-farm-mipig-cafe-mallage-shobu",
+    "name": "mipig cafe モラージュ菖蒲店",
+    "animals": [
+      "farm"
+    ],
+    "prefecture": "埼玉県",
+    "area": "久喜・菖蒲",
+    "address": "埼玉県久喜市菖蒲町菖蒲6005番地1 モラージュ菖蒲 1F",
+    "access": "モラージュ菖蒲 1階",
+    "url": "https://mipig.cafe/locations/mallage-shobu/",
+    "price": "一般1,760円／25分、2,310円／55分（小学生1,210円〜、未就学児660円）",
+    "price_level": 3,
+    "hours": "10:30〜20:00",
+    "closed": "公式ページに記載なし（予約枠で確認）",
+    "reservation": "必須",
+    "features": [
+      "ふれあいOK",
+      "子ども可",
+      "貸切可",
+      "予約制"
+    ],
+    "description": "埼玉北東部のモール1階にあるマイクロブタのカフェで、25分か55分を事前にWebで予約する。個室プランもあるので、小さな子どもと落ち着いて過ごしたい人に向く。自転車での来店は不可。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "公式 https://mipig.cafe/locations/mallage-shobu/ で住所・営業時間・料金・予約を確認（店舗一覧 https://mipig.cafe/ ）"
+  },
+  {
+    "id": "fukuoka-farm-mipig-cafe-aeon-fukuoka",
+    "name": "mipig cafe イオンモール福岡店",
+    "animals": [
+      "farm"
+    ],
+    "prefecture": "福岡県",
+    "area": "粕屋",
+    "address": "福岡県糟屋郡粕屋町大字酒殿字老ノ木192-1 イオンモール福岡 2階",
+    "access": "イオンモール福岡 2階",
+    "url": "https://mipig.cafe/locations/aeon-fukuoka/",
+    "price": "一般1,760円／25分、2,310円／55分（小学生1,210円〜、未就学児660円）（個室は別途25分550円）",
+    "price_level": 3,
+    "hours": "10:30〜20:00",
+    "closed": "公式ページに記載なし（予約枠で確認）",
+    "reservation": "必須",
+    "features": [
+      "ふれあいOK",
+      "子ども可",
+      "貸切可",
+      "予約制"
+    ],
+    "description": "福岡市の東隣、粕屋町のモール2階にあるマイクロブタのカフェ。個室プランは通常料金に25分あたり550円が加わる。天神店とは別の場所なので、福岡東部や郊外に住む人が行きやすい。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "公式 https://mipig.cafe/locations/aeon-fukuoka/ で住所・営業時間・料金・予約を確認（店舗一覧 https://mipig.cafe/ ）"
+  },
+  {
+    "id": "chiba-farm-mipig-cafe-aeon-makuhari",
+    "name": "mipig cafe イオンモール幕張新都心店",
+    "animals": [
+      "farm"
+    ],
+    "prefecture": "千葉県",
+    "area": "幕張新都心",
+    "address": "千葉県千葉市美浜区豊砂1-5 イオンモール幕張新都心 エキマエモール2階",
+    "access": "イオンモール幕張新都心 エキマエモール2階",
+    "url": "https://mipig.cafe/locations/makuharinewcity/",
+    "price": "一般1,760円／25分、2,310円／55分（小学生1,210円〜、未就学児660円）",
+    "price_level": 3,
+    "hours": "10:30〜20:00",
+    "closed": "公式ページに記載なし（予約枠で確認）",
+    "reservation": "必須",
+    "features": [
+      "ふれあいOK",
+      "子ども可",
+      "貸切可",
+      "予約制"
+    ],
+    "description": "幕張新都心のモール、エキマエモールの2階にあるマイクロブタのカフェ。受付とフロア全体のスペースがあり、個室プランも選べる。都内から京葉線で行ける距離なので、買い物と組み合わせたい人向け。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "公式 https://mipig.cafe/locations/makuharinewcity/ で住所・営業時間・料金・予約を確認（店舗一覧 https://mipig.cafe/ ）"
+  },
+  {
+    "id": "saitama-farm-mipig-cafe-aeon-laketown",
+    "name": "mipig cafe イオンレイクタウン店",
+    "animals": [
+      "farm"
+    ],
+    "prefecture": "埼玉県",
+    "area": "越谷レイクタウン",
+    "address": "埼玉県越谷市レイクタウン4-2-2 イオンレイクタウン KAZE 1F 100",
+    "access": "JR武蔵野線 越谷レイクタウン駅（駐車場からは距離があるためレイクタウンゲートが目安）",
+    "url": "https://mipig.cafe/locations/aeonlaketown/",
+    "price": "一般1,760円／25分、2,310円／55分（小学生1,210円〜、未就学児660円）",
+    "price_level": 3,
+    "hours": "10:00〜20:00",
+    "closed": "公式ページに記載なし（予約枠で確認）",
+    "reservation": "必須",
+    "features": [
+      "ふれあいOK",
+      "子ども可",
+      "駅近",
+      "予約制"
+    ],
+    "description": "日本最大級のモール、レイクタウンのKAZE棟1階にあるマイクロブタのカフェ。10時開店の時間帯は立体駐車場の出入口が閉まっているため、公式が案内する経路で向かう。埼玉南部で家族連れにちょうどよい店。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "公式 https://mipig.cafe/locations/aeonlaketown/ で住所・営業時間・料金・予約を確認（店舗一覧 https://mipig.cafe/ ）"
   }
 ]

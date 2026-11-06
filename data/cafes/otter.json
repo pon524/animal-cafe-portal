@@ -136,5 +136,62 @@
     "image": null,
     "checked": "2026-11-06",
     "source_note": "トップ https://ktm-kawaii.com/ 、池袋店 https://ktm-kawaii.com/s/ikebukuro 、料金表画像 https://ktm-kawaii.com/images/top-price-20240614.jpg で確認（お知らせは2026-10-21付）。料金表画像の作成日は2024年6月。福岡大名店は公式の店舗一覧に見当たらず"
+  },
+  {
+    "id": "tokyo-otter-wakabayashi-no-ie-harajuku",
+    "name": "カワウソ 若林の家 in 原宿",
+    "animals": [
+      "otter"
+    ],
+    "prefecture": "東京都",
+    "area": "原宿",
+    "address": "東京都渋谷区神宮前1-6-8 ローリエビル 地下1階",
+    "access": "JR原宿駅 竹下口から徒歩約3分",
+    "url": "https://otter.tokyo/",
+    "price": "一般 25分2,700円／50分4,700円、12歳以下 25分1,000円／50分2,000円",
+    "price_level": 4,
+    "hours": "10:45〜19:00（最終入場は閉店30分前。月ごとに変わるため公式で確認）",
+    "closed": "公式ページに記載なし（来店前に確認を）",
+    "reservation": "不要",
+    "features": [
+      "ふれあいOK",
+      "駅近",
+      "子ども可"
+    ],
+    "description": "原宿の地下にあるカワウソの店で、予約は受け付けず順番に入る。4歳以上から入場でき、混雑時は25分に区切られることがある。短い時間でカワウソと遊びたい人向けで、料金は高め。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "公式 https://otter.tokyo/ で料金・営業時間・予約不可・年齢条件を確認（お知らせ最新は2026-06-19の料金改定告知）"
+  },
+  {
+    "id": "kanagawa-otter-kawauso-to-fukurou-no-ouchi-kamakura",
+    "name": "かわうそとふくろうのおうち（OWL OTTER CAFE）鎌倉",
+    "animals": [
+      "otter",
+      "owl"
+    ],
+    "prefecture": "神奈川県",
+    "area": "鎌倉・長谷",
+    "address": "神奈川県鎌倉市長谷2-14-12",
+    "access": "江ノ電「長谷駅」から徒歩すぐ",
+    "url": "https://www.owlottercafe.com/",
+    "price": "大人（13歳以上）2,000円、4〜12歳1,000円、3歳以下無料（ドリンク飲み放題・時間制限なし）",
+    "price_level": 3,
+    "hours": "10:00〜19:00",
+    "closed": "無休",
+    "reservation": "推奨",
+    "features": [
+      "ふれあいOK",
+      "えさやり体験",
+      "ドリンク込み",
+      "時間無制限プランあり",
+      "駅近",
+      "子ども可",
+      "複数の動物"
+    ],
+    "description": "1階でコツメカワウソと握手やエサやりができ、2階には放し飼いのフクロウの部屋がある。ドリンク飲み放題で時間の制限がなく、同じ日なら再入場もできる。鎌倉観光のついでに、カワウソとフクロウをゆっくり楽しみたい人向け。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "公式 https://www.owlottercafe.com/ で料金（画像）・営業時間・無休・再入場を確認。予約の要否は公式に記載なしのため推奨とした。カワウソは約15頭とする公式Instagramの投稿あり"
   }
 ]

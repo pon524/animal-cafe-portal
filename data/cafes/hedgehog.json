@@ -168,5 +168,79 @@
     "image": null,
     "checked": "2026-11-06",
     "source_note": "https://pottachick.jimdofree.com/ （営業案内・住所・アクセス）と料金表 https://pottachick.jimdofree.com/%E3%81%B5%E3%82%8C%E3%81%82%E3%81%84%E4%BD%93%E9%A8%93/%E6%96%99%E9%87%91%E8%A1%A8/ で確認。2026年のシルバーウィーク営業告知あり"
+  },
+  {
+    "id": "tokyo-hedgehog-haripara-akihabara",
+    "name": "ハリネズミパラダイス 秋葉原店",
+    "animals": [
+      "hedgehog"
+    ],
+    "prefecture": "東京都",
+    "area": "秋葉原",
+    "address": "東京都千代田区外神田4-4-10 Mビル秋葉原2",
+    "access": "秋葉原駅から徒歩3分",
+    "url": "http://hari-para.com/",
+    "price": "チャージ10分220円＋フリードリンク385円（税込）",
+    "price_level": 2,
+    "hours": "平日11:00〜20:00（L.O.19:30）／土日祝10:00〜20:00（L.O.19:30）",
+    "closed": "公式ページに記載なし（来店前に確認を）",
+    "reservation": "推奨",
+    "features": [
+      "ふれあいOK",
+      "ドリンク込み"
+    ],
+    "description": "ハリネズミとふれあえるペットカフェで、店名のとおり「ハリネズミのいるカフェ」としてコーヒーやドリンクにも力を入れている。秋葉原駅から歩ける立地で、買い物のついでに寄りやすい。チャージは10分単位の時間制で、Wi-Fiと充電が自由に使える。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "公式 http://hari-para.com/ （PRICE・店舗情報。ページ更新は2024-05）で確認。運営会社 https://www.pet-coo.com/88957-2/ （最新ニュース 2026-10-31）が現行の店として掲載。予約の要否は公式に記載なし"
+  },
+  {
+    "id": "tokyo-hedgehog-haripara-asakusa",
+    "name": "ハリネズミパラダイス 浅草店",
+    "animals": [
+      "hedgehog"
+    ],
+    "prefecture": "東京都",
+    "area": "浅草",
+    "address": "東京都台東区浅草1-23-7 浅草一丁目ビル",
+    "access": "TX浅草駅から徒歩3分",
+    "url": "http://hari-para.com/",
+    "price": "チャージ10分330円＋フリードリンク385円（税込）",
+    "price_level": 3,
+    "hours": "全日11:00〜20:00（L.O.19:30）",
+    "closed": "公式ページに記載なし（来店前に確認を）",
+    "reservation": "推奨",
+    "features": [
+      "ふれあいOK",
+      "ドリンク込み"
+    ],
+    "description": "ハリネズミとふれあえるペットカフェで、店名のとおり「ハリネズミのいるカフェ」としてコーヒーやドリンクにも力を入れている。浅草観光のあとに立ち寄れる場所にある。チャージは10分単位の時間制で、Wi-Fiと充電が自由に使える。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "公式 http://hari-para.com/ （PRICE・店舗情報。ページ更新は2024-05）で確認。運営会社 https://www.pet-coo.com/88957-2/ （最新ニュース 2026-10-31）が現行の店として掲載。予約の要否は公式に記載なし"
+  },
+  {
+    "id": "kanagawa-hedgehog-haripara-enoshima",
+    "name": "ハリネズミパラダイス 江の島店",
+    "animals": [
+      "hedgehog"
+    ],
+    "prefecture": "神奈川県",
+    "area": "江の島・片瀬",
+    "address": "神奈川県藤沢市片瀬海岸3-22-17",
+    "access": "片瀬江ノ島駅から徒歩7分",
+    "url": "http://hari-para.com/",
+    "price": "チャージ10分220円＋1オーダー制（ドリンク418円〜、税込）",
+    "price_level": 2,
+    "hours": "平日11:00〜20:00（L.O.19:30）／土日祝10:00〜20:00（L.O.19:30）",
+    "closed": "公式ページに記載なし（来店前に確認を）",
+    "reservation": "推奨",
+    "features": [
+      "ふれあいOK"
+    ],
+    "description": "ハリネズミとふれあえるペットカフェで、店名のとおり「ハリネズミのいるカフェ」としてコーヒーやドリンクにも力を入れている。江の島観光の合間に寄れる。チャージは10分単位の時間制で、Wi-Fiと充電が自由に使える。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "公式 http://hari-para.com/ （PRICE・店舗情報。ページ更新は2024-05）で確認。運営会社 https://www.pet-coo.com/88957-2/ （最新ニュース 2026-10-31）が現行の店として掲載。予約の要否は公式に記載なし"
   }
 ]

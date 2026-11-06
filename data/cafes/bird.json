@@ -183,5 +183,112 @@
     "image": null,
     "checked": "2026-11-06",
     "source_note": "料金・定休日・営業時間 https://torikago.shopinfo.jp/pages/1153499/profile 、お知らせ（2026年1月から予約制、2026/8/18価格改定、2026/9/13の記事あり）https://torikago.shopinfo.jp/pages/1347596/page_201710151311 で確認。最寄り駅の記載なし"
+  },
+  {
+    "id": "saitama-bird-parrot-freak",
+    "name": "オウムのカフェ FREAK",
+    "animals": [
+      "bird"
+    ],
+    "prefecture": "埼玉県",
+    "area": "川口・東川口",
+    "address": "埼玉県川口市戸塚2-26-18 103",
+    "access": "JR武蔵野線・埼玉高速鉄道 東川口駅南口から徒歩4分",
+    "url": "https://www.parrot-freak.com/",
+    "price": "ふれあい 5分400円／10分650円、ドリンク650円〜（税込）",
+    "price_level": 2,
+    "hours": "12:00〜18:00",
+    "closed": "火・水・木（祝日は営業）",
+    "reservation": "推奨",
+    "features": [
+      "ふれあいOK",
+      "写真OK",
+      "駅近",
+      "子ども可"
+    ],
+    "description": "中型から大型のインコやオウムが中心の鳥カフェ。飲み物を頼んで鳥を眺めるほか、別料金で5分または10分のふれあいができ、腕に乗せてもらえる。中学生未満は保護者同伴で、フラッシュ撮影は不可。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "公式 https://www.parrot-freak.com/menu/ ・/concept/ ・/shop/ で確認（お知らせ最新 2026-10-31）。予約の要否は公式に記載なし"
+  },
+  {
+    "id": "aichi-bird-torikoya",
+    "name": "鳥茶かふぇ TORIKOYA",
+    "animals": [
+      "bird"
+    ],
+    "prefecture": "愛知県",
+    "area": "豊田",
+    "address": "愛知県豊田市住吉町前邸10",
+    "access": "豊田市住吉町（最寄り駅は公式ページに記載なし。店舗前に駐車場）",
+    "url": "http://torikoya.net/",
+    "price": "30分1,100円／1時間1,300円／フリータイム1,700円（延長30分500円）",
+    "price_level": 2,
+    "hours": "13:00〜18:00（4〜9月）／13:00〜17:30（10〜3月）",
+    "closed": "火・金・祝日（臨時休業あり。公式ブログで案内）",
+    "reservation": "推奨",
+    "features": [
+      "ふれあいOK",
+      "貸切可",
+      "時間無制限プランあり",
+      "子ども可"
+    ],
+    "description": "鳥を眺めながらお茶ができ、食事のあとに鳥とのふれあいもできるカフェ。小さなスペースで鳥の販売も行っている。来店前に一度連絡してほしいと公式が案内しており、臨時休業も多めなのでブログの確認が安心。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "公式 http://torikoya.net/menu ・/store で確認（お知らせ最新 2026-10-26）。予約制ではなく来店前の連絡を案内、推奨とした"
+  },
+  {
+    "id": "niigata-bird-torinchi",
+    "name": "バードカフェ とりん家",
+    "animals": [
+      "bird"
+    ],
+    "prefecture": "新潟県",
+    "area": "新潟市西区・寺尾",
+    "address": "新潟県新潟市西区寺尾上3丁目2-2",
+    "access": "JR寺尾駅の近く",
+    "url": "https://torinti.amebaownd.com/",
+    "price": "ふれあい30分500円（10分200円コースも）、ドリンク440円〜",
+    "price_level": 1,
+    "hours": "11:30〜17:00",
+    "closed": "不定休（公式サイトに月ごとの休業日を掲載）",
+    "reservation": "推奨",
+    "features": [
+      "ふれあいOK",
+      "えさやり体験",
+      "子ども可"
+    ],
+    "description": "ガラス越しに小鳥を眺めながら、自家焙煎のコーヒーやケーキを楽しめる、新潟初のバードカフェ。別室のふれあいコーナーでは人に慣れたインコと遊べ、おやつやりもできる。小学生未満は保護者同伴。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "公式 https://torinti.amebaownd.com/ （料金・時間）と公式Instagram @birdcafe.torinchi（最終投稿 2026-11-05）で確認。予約の要否は記載なし。最寄り駅は掲載サイトの情報"
+  },
+  {
+    "id": "kanagawa-bird-chorakuen",
+    "name": "鳥の遊び場 鳥楽園",
+    "animals": [
+      "bird"
+    ],
+    "prefecture": "神奈川県",
+    "area": "茅ヶ崎",
+    "address": "神奈川県茅ヶ崎市浜之郷551-1",
+    "access": "茅ヶ崎市浜之郷（最寄り駅は公式ページに記載なし。無料駐車場6台）",
+    "url": "https://www.chorakuen.com/",
+    "price": "1時間 大人1,100円・小学生以下550円、延長30分550円、フリータイム2,200円",
+    "price_level": 2,
+    "hours": "水・金 13:00〜17:00／土日 13:00〜18:00／木曜は前日16時までの予約制（13:00〜17:00）",
+    "closed": "月・火",
+    "reservation": "推奨",
+    "features": [
+      "ふれあいOK",
+      "えさやり体験",
+      "時間無制限プランあり",
+      "子ども可"
+    ],
+    "description": "放し飼いのインコたちと過ごせる、鳥の遊び場。1時間の入場料のみで鳥と存分にふれあえ、えさやりは100円。鳥が噛んだり服を傷つけたりすることがあるため、気をつけて過ごしたい。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "公式 https://www.chorakuen.com/ （料金・時間。サイト表記は2023年）と公式Instagram @torino_asobiba（最終投稿 2026-10-31）で確認。3名以上や木曜は予約が必要と案内"
   }
 ]

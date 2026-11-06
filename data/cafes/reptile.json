@@ -186,5 +186,146 @@
     "image": null,
     "checked": "2026-11-06",
     "source_note": "料金画像 https://reptiles-resort.com/料金/ 、アクセス https://reptiles-resort.com/access/ 、営業案内 https://reptiles-resort.com/information/ で確認（2026-11-04付の営業予定が最新）。予約は必須ではないと公式投稿に記載"
+  },
+  {
+    "id": "tokyo-reptile-tokyo-snake-center-harajuku",
+    "name": "東京スネークセンター（cafe & snake）",
+    "animals": [
+      "reptile"
+    ],
+    "prefecture": "東京都",
+    "area": "原宿",
+    "address": "東京都渋谷区神宮前6-5-6 サンポウ綜合ビル8F",
+    "access": "明治通り沿い。1階カラオケ館の入口横のエレベーターで8階へ",
+    "url": "https://snakecenter.jp/",
+    "price": "入場1,980円（ドリンク付・時間制限なし）、ヘビとのふれあい2匹770円〜",
+    "price_level": 2,
+    "hours": "11:00〜20:00",
+    "closed": "火曜（祝日の場合は営業）",
+    "reservation": "推奨",
+    "features": [
+      "ふれあいOK",
+      "えさやり体験",
+      "ドリンク込み",
+      "時間無制限プランあり",
+      "子ども可",
+      "写真OK"
+    ],
+    "description": "ヘビ専門のカフェで、100匹以上のヘビがいるとされる。席にヘビのケースを持ってきてもらい、追加料金でふれあいやエサやり体験もできる。ヘビが好きな人にも、まず見てみたい人にも向く。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "公式 https://snakecenter.jp/?page_id=231 （Cafe service：料金）、https://snakecenter.jp/?page_id=222 （住所・営業時間）で確認。予約の要否はQ&Aの本文が読めず、予約ページがあるため推奨とした"
+  },
+  {
+    "id": "saitama-reptile-fukaya-reptile-house",
+    "name": "深谷爬虫類館",
+    "animals": [
+      "reptile"
+    ],
+    "prefecture": "埼玉県",
+    "area": "深谷",
+    "address": "埼玉県深谷市荒川13-1",
+    "access": "JR高崎線ふかや花園駅から徒歩約25分（タクシー約10分）、関越道 花園ICから車で約5分",
+    "url": "https://gustavewani.wixsite.com/fukayahachu",
+    "price": "大人90分2,000円（ドリンク付）、小学生まで1,000円、ふれあい2分500円・エサやり300〜500円（現金のみ）",
+    "price_level": 3,
+    "hours": "10:00〜17:00",
+    "closed": "不定休（営業日は公式Xで案内）",
+    "reservation": "不要",
+    "features": [
+      "ふれあいOK",
+      "えさやり体験",
+      "ドリンク込み",
+      "子ども可"
+    ],
+    "description": "トカゲ・ヘビ・カメ・ワニなど100種類以上の爬虫類・両生類を展示する小さな爬虫類館。入館料にドリンクがつき、有料でふれあいやエサやりができる。車で行ける郊外で、じっくり見て回りたい人向け。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "公式 https://gustavewani.wixsite.com/fukayahachu で住所・料金・営業時間を確認。公式X（2026-11-04の投稿）で「予約不要」と営業日程の案内を確認。定休日は不定休のため記載なし"
+  },
+  {
+    "id": "niigata-reptile-tokage-kissa-life-murakami",
+    "name": "蜥蜴喫茶LIFE",
+    "animals": [
+      "reptile"
+    ],
+    "prefecture": "新潟県",
+    "area": "村上",
+    "address": "新潟県村上市藤沢32-6",
+    "access": "公式ページに最寄駅の記載なし（来店前に地図で確認を）",
+    "url": "https://tokagelife.com/",
+    "price": "大人1,500円（会員1,000円）、小〜高校生500円（ドリンク1杯・爬虫類とのふれあい5分付き）",
+    "price_level": 2,
+    "hours": "14:00〜18:00（ラストオーダー17:30）",
+    "closed": "隔週の主に水曜（営業カレンダーで案内）",
+    "reservation": "推奨",
+    "features": [
+      "ふれあいOK",
+      "ドリンク込み",
+      "子ども可",
+      "写真OK"
+    ],
+    "description": "NPO法人が運営する、フトアゴヒゲトカゲを中心にヘビ・カメレオン・ヤモリなどがいる喫茶店。入場料にドリンクと短いふれあい時間が含まれ、触れる子は限られる。村上を訪れる際に、のんびり爬虫類を見たい人向け。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "公式 https://tokagelife.com/ で料金・営業時間・定休日・住所を確認（お知らせ最新は2026-10-28）。予約の要否は公式に記載なしのため推奨とした"
+  },
+  {
+    "id": "kagawa-reptile-locus-elle-fureai-cafe-takamatsu",
+    "name": "Locus ELLE ふれあいカフェ（爬虫類カフェ）",
+    "animals": [
+      "reptile",
+      "smallanimal"
+    ],
+    "prefecture": "香川県",
+    "area": "高松",
+    "address": "香川県高松市檀紙町1629-2",
+    "access": "公式ページに最寄駅の記載なし（来店前に地図で確認を）",
+    "url": "https://locuselle.net/cafe/",
+    "price": "60分 大人1,600円／子ども850円（ドリンク付・ふれあい制限なし）",
+    "price_level": 2,
+    "hours": "土日祝のみ 12:00〜18:00（最終入店17:00）",
+    "closed": "平日（ショップの定休は火・水）",
+    "reservation": "推奨",
+    "features": [
+      "ふれあいOK",
+      "えさやり体験",
+      "ドリンク込み",
+      "子ども可",
+      "複数の動物"
+    ],
+    "description": "爬虫類ショップに併設されたふれあいカフェで、レオパ・フトアゴ・ヘビのほか、フクロモモンガやハリネズミ、ウサギ、ハムスターなどにも触れる。営業は土日祝のみで、電話での予約が案内されている。四国で爬虫類や小動物と触れ合いたい人向け。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "公式 https://locuselle.net/cafe/ で料金・予約方法、https://locuselle.net/reptile-cafe/ で営業日を確認（お知らせ最新は2025-04-25）。営業時間は2ページで開始時刻が異なり、ふれあいカフェのページの12:00を採用"
+  },
+  {
+    "id": "wakayama-reptile-country-owl-plus-iwade",
+    "name": "カントリーオウルぷらす",
+    "animals": [
+      "reptile",
+      "owl"
+    ],
+    "prefecture": "和歌山県",
+    "area": "岩出",
+    "address": "和歌山県岩出市備前42 プチツール2F",
+    "access": "JR和歌山線 岩出駅から徒歩約20分（車なら京和道 岩出根来ICから約5分、無料駐車場あり）",
+    "url": "https://www.countryowl.co/",
+    "price": "ドリンク付1,250円〜（60分。フクロウ・爬虫類とふれあい可）、延長30分500円",
+    "price_level": 2,
+    "hours": "平日11:00〜19:00（最終入店18:00）、土日祝11:00〜20:00（最終入店19:00）",
+    "closed": "月曜・金曜（月曜が祝日の場合は営業し翌火曜休み）",
+    "reservation": "推奨",
+    "features": [
+      "ふれあいOK",
+      "えさやり体験",
+      "ドリンク込み",
+      "子ども可",
+      "複数の動物"
+    ],
+    "description": "フクロウと爬虫類が同じお店にいるカフェで、トカゲ・カメレオン・ヤモリ・カメ・ヘビなどを手に乗せて楽しめる。料金プランにドリンクがつき、フクロウのえさやりなどのオプションもある。和歌山で両方に触れたい人向け。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "公式 https://www.countryowl.co/ 、料金 https://www.countryowl.co/blank-1 、アクセス https://www.countryowl.co/blank-6 で確認。予約は電話などで受付、必須の記載はないため推奨とした。公式サイトのお知らせに2026年4月の更新あり（営業中の根拠）"
   }
 ]

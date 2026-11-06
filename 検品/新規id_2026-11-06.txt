@@ -1,0 +1,83 @@
+bird.json	saitama-bird-parrot-freak	オウムのカフェ FREAK
+bird.json	aichi-bird-torikoya	鳥茶かふぇ TORIKOYA
+bird.json	niigata-bird-torinchi	バードカフェ とりん家
+bird.json	kanagawa-bird-chorakuen	鳥の遊び場 鳥楽園
+capybara.json	tokyo-capybara-capybara-cafe-moffu-harajuku	カピバラカフェ moffu（原宿）
+capybara.json	tokyo-capybara-capyvillage-sendagaya	カピヴィレッジ（Capyvillage）
+cat.json	gunma-cat-moff-takasaki-opa	Cat Café MOFF 高崎オーパ店
+cat.json	saitama-cat-moff-aeon-kawaguchi-maekawa	Cat Café MOFF イオンモール川口前川店
+cat.json	saitama-cat-moff-cocoon-saitama-shintoshin	Cat Café MOFF コクーンシティさいたま新都心店
+cat.json	saitama-cat-moff-morage-shobu	Cat Café MOFF モラージュ菖蒲店
+cat.json	chiba-cat-moff-seven-park-ario-kashiwa	Cat Café MOFF セブンパークアリオ柏店
+cat.json	chiba-cat-moff-aeon-narita	Moff animal cafe イオンモール成田店
+cat.json	kanagawa-cat-moff-coaska-bayside	Cat Café MOFF コースカベイサイドストアーズ店
+cat.json	nagano-cat-moff-aeon-suzaka	Cat Café MOFF イオンモール須坂店
+cat.json	shizuoka-cat-moff-shizuoka-parco	Cat Café MOFF 静岡PARCO店
+cat.json	okayama-cat-moff-ario-kurashiki	Cat Café MOFF アリオ倉敷店
+cat.json	okinawa-cat-moff-kokusaidori	Cat Café MOFF 沖縄国際通り店
+cat.json	shiga-cat-neco-republic-shiga	保護猫カフェ ネコリパブリック滋賀
+cat.json	chiba-cat-neco-republic-chiba-mofmof	ネコリパブリックちば CAFE&CATS MOF MOF
+cat.json	nagano-cat-mocha-aeon-matsumoto	猫カフェMOCHA イオンモール松本店
+cat.json	ibaraki-cat-mocha-aeon-mito-uchihara	猫カフェMOCHA イオンモール水戸内原店
+cat.json	shizuoka-cat-mocha-aeon-hamamatsu-ichino	猫カフェMOCHA イオンモール浜松市野店
+cat.json	tokushima-cat-mocha-aeon-tokushima	猫カフェMOCHA イオンモール徳島店
+cat.json	saitama-cat-anella-cafe-koshigaya	ANELLA CAFE 越谷店
+cat.json	niigata-cat-anella-cafe-shibata	ANELLA CAFE 新潟新発田店
+cat.json	kagawa-cat-anella-cafe-takamatsu-chuo	ANELLA CAFE 高松中央店
+cat.json	wakayama-cat-anella-cafe-wakayama-hashimoto	ANELLA CAFE 和歌山橋本駅前店
+cat.json	tochigi-cat-anella-cafe-ashikaga	ANELLA CAFE 足利店
+cat.json	ibaraki-cat-anella-cafe-hitachi	ANELLA CAFE 日立店
+dog.json	okayama-dog-samoyed-park-okayama	サモエドパーク岡山店
+dog.json	hokkaido-dog-samoedos-sapporo	サモエドカフェ SAMOEDO'S 札幌店
+dog.json	miyagi-dog-samos-cafe-sendai	サモエドカフェ SAMOS CAFE 仙台店
+dog.json	osaka-dog-samoedos-osaka-shinsaibashi	サモエドカフェ SAMOEDO'S 大阪心斎橋店
+dog.json	kanagawa-dog-kamakura-mameshiba-cafe	鎌倉乃豆柴カフェ
+dog.json	shizuoka-dog-anella-cafe-hamamatsu-chuo	ANELLA CAFE 浜松中央店
+dog.json	kyoto-dog-anella-cafe-kyoto-karasuma	ANELLA CAFE 京都烏丸店
+dog.json	oita-dog-anella-cafe-oita	ANELLA CAFE 大分店
+dog.json	hokkaido-dog-anella-cafe-hakodate	ANELLA CAFE 函館店
+dog.json	aichi-dog-anella-cafe-aichi-ama	ANELLA CAFE 愛知海部店
+dog.json	saga-dog-anella-cafe-saga	ANELLA CAFE 佐賀店
+dog.json	chiba-dog-anella-cafe-narashino	ANELLA CAFE 習志野店
+farm.json	toyama-farm-mipig-cafe-aeon-takaoka	mipig cafe イオンモール高岡店
+farm.json	hyogo-farm-mipig-cafe-kobe-sannomiya	mipig cafe 神戸三宮店
+farm.json	tochigi-farm-mipig-cafe-utsunomiya-interpark	mipig cafe 宇都宮インターパークビレッジ店
+farm.json	miyagi-farm-mipig-cafe-aeon-natori	mipig cafe イオンモール名取店
+farm.json	saitama-farm-mipig-cafe-mallage-shobu	mipig cafe モラージュ菖蒲店
+farm.json	fukuoka-farm-mipig-cafe-aeon-fukuoka	mipig cafe イオンモール福岡店
+farm.json	chiba-farm-mipig-cafe-aeon-makuhari	mipig cafe イオンモール幕張新都心店
+farm.json	saitama-farm-mipig-cafe-aeon-laketown	mipig cafe イオンレイクタウン店
+farm.json	chiba-farm-moff-animal-world-inzai	Moff animal world BIGHOPガーデンモール印西店
+hedgehog.json	tokyo-hedgehog-haripara-akihabara	ハリネズミパラダイス 秋葉原店
+hedgehog.json	tokyo-hedgehog-haripara-asakusa	ハリネズミパラダイス 浅草店
+hedgehog.json	kanagawa-hedgehog-haripara-enoshima	ハリネズミパラダイス 江の島店
+other.json	gunma-other-anitouch-park-aeon-ota	アニタッチPARK イオンモール太田
+other.json	kyoto-other-noahs-ark-gion	Cat & Animal Cafe Noah's Ark 京都祇園店
+other.json	hyogo-other-mofiina-kobe-konan	ふれあいカフェ MOFiiNA（モフィーナ）
+otter.json	tokyo-otter-wakabayashi-no-ie-harajuku	カワウソ 若林の家 in 原宿
+otter.json	kanagawa-otter-kawauso-to-fukurou-no-ouchi-kamakura	かわうそとふくろうのおうち（OWL OTTER CAFE）鎌倉
+owl.json	aichi-owl-moonlight-garden	ムーンライトガーデン（ふくろう＆エキゾチックアニマルカフェ）
+owl.json	saitama-owl-raptorland-rala	Raptor Land（ふくろうカフェ RaLa）
+owl.json	toyama-owl-aqua-forest-mizunomori	ふくろうカフェ富山 アクアフォレスト水の森
+owl.json	ibaraki-owl-fukurou-no-ie	ふくろうの家（House of Owl）
+owl.json	saitama-owl-fukaya-kacho-cafe	深谷花鳥カフェ
+owl.json	tokyo-owl-mohumohu-ginza	フクロウカフェ もふもふ 銀座店
+owl.json	yamaguchi-owl-owl-no-shiro	フクロウカフェ アウルの城
+rabbit.json	hokkaido-rabbit-monlapin-sapporo	うさぎカフェ モンラパン
+rabbit.json	kanagawa-rabbit-rabbit-house-sunny-yokosuka	ラビットハウスサニー
+rabbit.json	osaka-rabbit-usagi-house-daniel-sakuranomiya	うさぎハウスDaniel
+rabbit.json	okinawa-rabbit-healing-bunny-naha	うさぎと癒しの遊び場 Healing Bunny
+rabbit.json	ishikawa-rabbit-tsuki-usagi-no-sato-kaga	月うさぎの里
+rabbit.json	hyogo-rabbit-mofu-no-ie-akashi	うさぎ専門店とかふぇ もふのいえ
+reptile.json	tokyo-reptile-tokyo-snake-center-harajuku	東京スネークセンター（cafe & snake）
+reptile.json	saitama-reptile-fukaya-reptile-house	深谷爬虫類館
+reptile.json	niigata-reptile-tokage-kissa-life-murakami	蜥蜴喫茶LIFE
+reptile.json	kagawa-reptile-locus-elle-fureai-cafe-takamatsu	Locus ELLE ふれあいカフェ（爬虫類カフェ）
+reptile.json	wakayama-reptile-country-owl-plus-iwade	カントリーオウルぷらす
+smallanimal.json	saitama-smallanimal-chillas-land-kawagoe	Chilla's Land（チラズランド）
+smallanimal.json	ibaraki-smallanimal-moff-animal-cafe-iias-tsukuba	Moff animal cafe イーアスつくば店
+smallanimal.json	chiba-smallanimal-moff-animal-cafe-aeon-makuhari-shintoshin	Moff animal cafe イオンモール幕張新都心店
+smallanimal.json	miyagi-smallanimal-moff-animal-cafe-aeon-shinrifu	Moff animal cafe イオンモール新利府店
+smallanimal.json	kanagawa-smallanimal-moff-animal-cafe-ebina-vinawalk	Moff animal cafe 海老名ビナウォーク店
+smallanimal.json	kanagawa-smallanimal-moff-animal-cafe-odawara-dynacity	Moff animal cafe 小田原ダイナシティ店
+smallanimal.json	tokyo-smallanimal-moff-animal-cafe-iias-takao	Moff animal cafe イーアス高尾店

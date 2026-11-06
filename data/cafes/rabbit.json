@@ -183,5 +183,167 @@
     "image": null,
     "checked": "2026-11-06",
     "source_note": "公式サイト https://happyrabbit.amebaownd.com/ 、https://happyrabbit.amebaownd.com/pages/6197949/STATIC で確認"
+  },
+  {
+    "id": "hokkaido-rabbit-monlapin-sapporo",
+    "name": "うさぎカフェ モンラパン",
+    "animals": [
+      "rabbit"
+    ],
+    "prefecture": "北海道",
+    "area": "札幌・大通",
+    "address": "北海道札幌市中央区南1条西1丁目15 丸美ビル1F",
+    "access": "地下鉄大通駅から徒歩5分",
+    "url": "https://www.usagi-monlapin.com/",
+    "price": "おとな30分2,500円（ドリンク込み）、中学生以下1,500円、延長15分700円",
+    "price_level": 4,
+    "hours": "平日15:00〜20:00／土日祝13:00〜19:00（臨時休業あり）",
+    "closed": "毎週月曜日（祝日の場合は翌日が休み）",
+    "reservation": "推奨",
+    "features": [
+      "ふれあいOK",
+      "ドリンク込み",
+      "子ども可",
+      "駅近"
+    ],
+    "description": "札幌のうさぎ専門店に併設されたカフェで、好きなうさぎを選んでドリンクを飲みながら過ごす。うさぎの種類は多いが、頭数は公式に書かれていない。予約客が優先で、混むと待つことがある。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "料金ページ https://www.usagi-monlapin.com/information/ で確認。予約は優先と記載"
+  },
+  {
+    "id": "kanagawa-rabbit-rabbit-house-sunny-yokosuka",
+    "name": "ラビットハウスサニー",
+    "animals": [
+      "rabbit"
+    ],
+    "prefecture": "神奈川県",
+    "area": "横須賀・県立大学駅",
+    "address": "神奈川県横須賀市安浦町2-27 アットマーク1階",
+    "access": "京急線 県立大学駅から徒歩1分",
+    "url": "https://rabbithousesunny.com/",
+    "price": "スタッフうさぎと遊ぶ遊び場 30分1,100円・60分1,650円、ふれあい体験は約10分330円。初回に会員登録550円（SNS投稿で無料）",
+    "price_level": 2,
+    "hours": "11:00〜17:30（時短営業の日あり）",
+    "closed": "火曜・水曜",
+    "reservation": "推奨",
+    "features": [
+      "ふれあいOK",
+      "抱っこOK",
+      "子ども可",
+      "駅近"
+    ],
+    "description": "横須賀のうさぎ専門店で、店のうさぎを膝に乗せるふれあい体験ができる。10歳未満の子どもはこの体験が中心。カフェではなく専門店のふれあいコーナーなので、短時間で気軽に立ち寄る使い方に向く。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "サービスページ https://rabbithousesunny.com/menu とアクセスページで確認。公式のお知らせは2025-12に更新あり。予約の記載はなし"
+  },
+  {
+    "id": "osaka-rabbit-usagi-house-daniel-sakuranomiya",
+    "name": "うさぎハウスDaniel",
+    "animals": [
+      "rabbit"
+    ],
+    "prefecture": "大阪府",
+    "area": "桜ノ宮・都島",
+    "address": "大阪府大阪市都島区中野町5-9-3",
+    "access": "JR環状線 桜ノ宮駅から徒歩3分",
+    "url": "https://usapecodaniel.square.site/",
+    "price": "入場500円／20分（エサやり付き）、延長20分300円",
+    "price_level": 1,
+    "hours": "土日祝のみ 13:00〜18:00（変更・臨時休業あり）",
+    "closed": "平日",
+    "reservation": "推奨",
+    "features": [
+      "ふれあいOK",
+      "えさやり体験",
+      "子ども可",
+      "駅近"
+    ],
+    "description": "桜ノ宮駅近くの小さなうさぎ専門店で、看板うさぎや子うさぎとふれあえる。20分500円と安く、全年齢が入れる。営業は土日祝のみなので、行く前に最新の営業時間を確認したい。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "公式サイト https://usapecodaniel.square.site/ と旧サイト https://usagihousedaniel.simdif.com/ で確認。予約の要否は記載なし"
+  },
+  {
+    "id": "okinawa-rabbit-healing-bunny-naha",
+    "name": "うさぎと癒しの遊び場 Healing Bunny",
+    "animals": [
+      "rabbit"
+    ],
+    "prefecture": "沖縄県",
+    "area": "那覇・壷川",
+    "address": "沖縄県那覇市壷川3丁目4-1 田崎ビル3F",
+    "access": "ゆいレール 壷川駅から徒歩4分",
+    "url": "https://healing-bunny.com/",
+    "price": "大人30分1,200円／60分1,600円（フリードリンク付き）、中高生30分900円、12歳未満30分600円",
+    "price_level": 2,
+    "hours": "平日13:00〜20:00（最終入場19:00）／土日祝11:00〜19:00（最終入場18:00）",
+    "closed": "月曜・火曜（祝日は営業）、12/30〜1/3",
+    "reservation": "推奨",
+    "features": [
+      "ふれあいOK",
+      "ドリンク込み",
+      "子ども可",
+      "駅近"
+    ],
+    "description": "2023年10月に開いた、沖縄初のうさぎ専門の動物カフェ。ふれあい広場でうさぎと過ごし、フリードリンクが付く。予約が優先で、12歳未満だけでの入店はできない。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "料金ページ https://www4.hp-ez.com/hp/healingbunny/page5 と店舗紹介ページで確認。新サイト https://healing-bunny.com/ も公開あり"
+  },
+  {
+    "id": "ishikawa-rabbit-tsuki-usagi-no-sato-kaga",
+    "name": "月うさぎの里",
+    "animals": [
+      "rabbit"
+    ],
+    "prefecture": "石川県",
+    "area": "加賀",
+    "address": "石川県加賀市永井町43-41",
+    "access": "JR加賀温泉駅から車で約15分",
+    "url": "https://www.tsukiusaginosato.com/play",
+    "price": "うさぎ広場入場 大人（中学生以上）500円・小学生以下300円（3歳以下無料）、おひざタイム200円",
+    "price_level": 1,
+    "hours": "9:00〜16:00（うさぎ広場の最終入場15:40）",
+    "closed": "年中無休（臨時休業あり）",
+    "reservation": "不要",
+    "features": [
+      "ふれあいOK",
+      "抱っこOK",
+      "えさやり体験",
+      "子ども可",
+      "写真OK"
+    ],
+    "description": "約50匹のうさぎが広場で自由に過ごす施設で、カフェではなくふれあいの広場。決まった時間にうさぎを膝に乗せられる「おひざタイム」があり、予約は不要。屋根付きのエリアがあり雨の日も行きやすい。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "ふれあいページ https://www.tsukiusaginosato.com/play と施設情報 https://www.tsukiusaginosato.com/facility で確認"
+  },
+  {
+    "id": "hyogo-rabbit-mofu-no-ie-akashi",
+    "name": "うさぎ専門店とかふぇ もふのいえ",
+    "animals": [
+      "rabbit"
+    ],
+    "prefecture": "兵庫県",
+    "area": "明石・大久保",
+    "address": "兵庫県明石市大久保町駅前1丁目3-12",
+    "access": "明石市大久保町の駅前エリア（公式ページに最寄駅名の記載なし）",
+    "url": "https://mofunoie.com/",
+    "price": "ふれあい30分1,100円／60分1,650円（ワンドリンク付き）、小学生以下30分770円、延長15分275円",
+    "price_level": 2,
+    "hours": "13:00〜18:00",
+    "closed": "水曜・木曜",
+    "reservation": "推奨",
+    "features": [
+      "ふれあいOK",
+      "ドリンク込み",
+      "子ども可"
+    ],
+    "description": "うさぎ専門店にカフェが併設された店で、ワンドリンク付きの時間制でうさぎとふれあう。45分や60分のコースもあり、小学生以下は割安。予約は外部の予約サイトで受け付けている。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "カフェページ https://mofunoie.com/%E3%81%8B%E3%81%B5%E3%81%87/ で確認。公式の更新は2026-10-26"
   }
 ]

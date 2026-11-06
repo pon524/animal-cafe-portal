@@ -321,88 +321,449 @@
     "source_note": "公式サイト https://hidamari-cat.com/ 、https://hidamari-cat.com/cafe/ で確認"
   },
   {
-    "id": "okayama-cat-anella-cafe-okayama-senoo",
-    "name": "ANELLA CAFE 岡山妹尾店",
+    "id": "gunma-cat-moff-takasaki-opa",
+    "name": "Cat Café MOFF 高崎オーパ店",
     "animals": [
-      "cat",
-      "dog"
+      "cat"
     ],
-    "prefecture": "岡山県",
-    "area": "岡山市南区・妹尾",
-    "address": "岡山県岡山市南区妹尾3390-7",
-    "access": "JR宇野線 妹尾駅から徒歩21分",
-    "url": "https://wan-time.jp/store/anella-cafe-okayamasenoo/",
-    "price": "一般30分1,000円（延長15分400円）、小学生30分500円、未就学児無料",
+    "prefecture": "群馬県",
+    "area": "高崎駅",
+    "address": "群馬県高崎市八島町46-1 高崎オーパ4F",
+    "access": "JR高崎駅西口デッキ直結",
+    "url": "https://moff-moff.jp/cat-cafe/shop/takasaki/",
+    "price": "入園700円／30分（ワンドリンクオーダー制）、以降10分250円、最大平日1,900円・土日祝2,900円",
     "price_level": 2,
-    "hours": "平日12:00〜18:00／土日祝11:00〜18:00",
-    "closed": "年中無休",
-    "reservation": "推奨",
+    "hours": "10:00〜20:00（最終入園19:30）",
+    "closed": "高崎オーパの定休日に準ずる",
+    "reservation": "不要",
     "features": [
-      "保護動物",
-      "複数の動物",
-      "ふれあいOK",
+      "駅近",
       "子ども可"
     ],
-    "description": "保護犬と保護猫がいる福祉型のふれあいカフェで、猫と犬の両方に会える。2026年6月に開いた新しい店で、未就学児は無料、小学生は半額なので家族連れにも向く。",
+    "description": "高崎駅の西口から屋根続きで行ける商業施設の4階にある猫カフェ。公式ページでは約25匹が紹介され、ドリンクを頼んで過ごす方式。買い物や電車の待ち時間に寄りやすい。",
     "image": null,
     "checked": "2026-11-06",
-    "source_note": "店舗ページ https://wan-time.jp/store/anella-cafe-okayamasenoo/ で確認"
+    "source_note": "公式店舗ページ https://moff-moff.jp/cat-cafe/shop/takasaki/ で確認"
   },
   {
-    "id": "kanagawa-cat-anella-cafe-yokohama-chukagai",
-    "name": "ANELLA CAFE 横浜中華街店",
+    "id": "saitama-cat-moff-aeon-kawaguchi-maekawa",
+    "name": "Cat Café MOFF イオンモール川口前川店",
     "animals": [
-      "cat",
-      "dog"
+      "cat"
+    ],
+    "prefecture": "埼玉県",
+    "area": "川口市・前川",
+    "address": "埼玉県川口市前川1丁目1-11 イオンモール川口前川 3F",
+    "access": "イオンモール川口前川 3階",
+    "url": "https://moff-moff.jp/cat-cafe/shop/kawaguchi/",
+    "price": "入園700円／30分（ワンドリンクオーダー制）、以降10分250円、最大平日1,900円・土日祝2,900円",
+    "price_level": 2,
+    "hours": "10:00〜20:00（最終入園19:30）",
+    "closed": "イオンモール川口前川の定休日に準ずる",
+    "reservation": "不要",
+    "features": [
+      "子ども可"
+    ],
+    "description": "ショッピングモール3階にある猫カフェで、公式ページには約25匹が載っている。予約なしで入れ、時間料金に上限があるため、買い物ついでに長めに過ごすこともできる。抱っこはできず、眺めたりおやつをあげたりして楽しむ。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "公式店舗ページ https://moff-moff.jp/cat-cafe/shop/kawaguchi/ で確認"
+  },
+  {
+    "id": "saitama-cat-moff-cocoon-saitama-shintoshin",
+    "name": "Cat Café MOFF コクーンシティさいたま新都心店",
+    "animals": [
+      "cat"
+    ],
+    "prefecture": "埼玉県",
+    "area": "さいたま新都心",
+    "address": "埼玉県さいたま市大宮区吉敷町4-263-1 コクーンシティ コクーン2 3F",
+    "access": "JRさいたま新都心駅東口からすぐ",
+    "url": "https://moff-moff.jp/cat-cafe/shop/cc-saitama/",
+    "price": "入園700円／30分（ワンドリンクオーダー制）、以降10分250円、最大平日1,900円・土日祝2,900円",
+    "price_level": 2,
+    "hours": "10:00〜20:00（最終入園19:30）",
+    "closed": "コクーンシティの定休日に準ずる",
+    "reservation": "不要",
+    "features": [
+      "駅近",
+      "子ども可"
+    ],
+    "description": "さいたま新都心駅東口の商業施設にある猫カフェで、公式ページでは約30匹が紹介されている。ブリティッシュやラグドールなど猫種が幅広く、駅から近いので仕事帰りにも寄りやすい。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "公式店舗ページ https://moff-moff.jp/cat-cafe/shop/cc-saitama/ で確認"
+  },
+  {
+    "id": "saitama-cat-moff-morage-shobu",
+    "name": "Cat Café MOFF モラージュ菖蒲店",
+    "animals": [
+      "cat"
+    ],
+    "prefecture": "埼玉県",
+    "area": "久喜市・菖蒲",
+    "address": "埼玉県久喜市菖蒲町菖蒲6005-1 モラージュ菖蒲3F",
+    "access": "モラージュ菖蒲の3階（車での来店は施設の駐車場を利用）",
+    "url": "https://moff-moff.jp/cat-cafe/shop/shobu/",
+    "price": "入園700円／30分（ワンドリンクオーダー制）、以降10分250円、最大平日1,900円・土日祝2,900円",
+    "price_level": 2,
+    "hours": "10:00〜20:00（最終入園19:30）",
+    "closed": "モラージュ菖蒲の定休日に準ずる",
+    "reservation": "不要",
+    "features": [
+      "子ども可"
+    ],
+    "description": "大型商業施設の3階にある猫カフェで、公式ページでは約28匹が紹介されている。メインクーンやベンガルなど大きめの猫種もいる。車で家族と出かけるときの立ち寄り先に向く。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "公式店舗ページ https://moff-moff.jp/cat-cafe/shop/shobu/ で確認"
+  },
+  {
+    "id": "chiba-cat-moff-seven-park-ario-kashiwa",
+    "name": "Cat Café MOFF セブンパークアリオ柏店",
+    "animals": [
+      "cat"
+    ],
+    "prefecture": "千葉県",
+    "area": "柏市・大島田",
+    "address": "千葉県柏市大島田1-6-1 セブンパークアリオ柏 3F",
+    "access": "セブンパークアリオ柏の3階（車での来店は施設の駐車場を利用）",
+    "url": "https://moff-moff.jp/cat-cafe/shop/kashiwa/",
+    "price": "入園700円／30分（ワンドリンクオーダー制）、以降10分250円、最大平日1,900円・土日祝2,900円",
+    "price_level": 2,
+    "hours": "10:00〜20:00（最終入園19:30）",
+    "closed": "セブンパークアリオ柏の定休日に準ずる",
+    "reservation": "不要",
+    "features": [
+      "子ども可"
+    ],
+    "description": "大型モールの3階にある猫カフェで、公式ページでは約29匹が紹介されている。メインクーン、ラグドール、ベンガルなど猫種が多く、ドリンクを1杯頼んで過ごす。買い物のついでに立ち寄りたい人向け。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "公式店舗ページ https://moff-moff.jp/cat-cafe/shop/kashiwa/ で確認"
+  },
+  {
+    "id": "chiba-cat-moff-aeon-narita",
+    "name": "Moff animal cafe イオンモール成田店",
+    "animals": [
+      "cat"
+    ],
+    "prefecture": "千葉県",
+    "area": "成田市",
+    "address": "千葉県成田市ウイング土屋24 イオンモール成田 2F",
+    "access": "京成成田駅から直行バスで約10分（成田IC から約3.5km）",
+    "url": "https://moff-moff.jp/cat-cafe/shop/narita/",
+    "price": "入園700円／30分＋ドリンクバー380円（必須）、以降10分250円、最大平日1,900円・土日祝2,900円",
+    "price_level": 2,
+    "hours": "10:00〜20:00（最終入園19:30）",
+    "closed": "イオンモール成田の定休日に準ずる",
+    "reservation": "不要",
+    "features": [
+      "子ども可"
+    ],
+    "description": "成田空港に近いイオンモールの2階にある、猫のいる動物カフェ。公式ページでは約23匹が紹介され、ドリンクバーが必須の料金体系になっている。旅行の前後や買い物のついでに寄りやすい。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "公式店舗ページ https://moff-moff.jp/cat-cafe/shop/narita/ で確認"
+  },
+  {
+    "id": "kanagawa-cat-moff-coaska-bayside",
+    "name": "Cat Café MOFF コースカベイサイドストアーズ店",
+    "animals": [
+      "cat"
     ],
     "prefecture": "神奈川県",
-    "area": "横浜・中華街",
-    "address": "神奈川県横浜市中区山下町200-1 ボヌール山下町1F・2F",
-    "access": "みなとみらい線 日本大通り駅から徒歩6分",
-    "url": "https://wan-time.jp/store/anella-cafe-yokohamachukagai/",
-    "price": "一般30分1,000円（延長15分400円）、小学生30分500円、未就学児無料",
+    "area": "横須賀・汐入",
+    "address": "神奈川県横須賀市本町2-1-12 コースカベイサイドストアーズ 5F",
+    "access": "京急汐入駅から徒歩3分",
+    "url": "https://moff-moff.jp/cat-cafe/shop/coaska/",
+    "price": "入園700円／30分（ワンドリンクオーダー制）、以降10分250円、最大平日1,900円・土日祝2,900円",
     "price_level": 2,
-    "hours": "11:00〜18:00（平日・土日祝とも）",
-    "closed": "年中無休",
-    "reservation": "推奨",
+    "hours": "10:00〜20:00（最終入園19:30）",
+    "closed": "コースカベイサイドストアーズの定休日に準ずる",
+    "reservation": "不要",
     "features": [
-      "保護動物",
-      "複数の動物",
-      "ふれあいOK",
-      "子ども可",
-      "駅近"
-    ],
-    "description": "保護犬と保護猫がいる福祉型のふれあいカフェで、中華街観光のあいまに寄りやすい。1階と2階の二層で、猫にも犬にも会える。",
-    "image": null,
-    "checked": "2026-11-06",
-    "source_note": "店舗ページ https://wan-time.jp/store/anella-cafe-yokohamachukagai/ で確認"
-  },
-  {
-    "id": "hokkaido-cat-anella-cafe-sapporo-kiyota",
-    "name": "ANELLA CAFE 札幌清田店",
-    "animals": [
-      "cat",
-      "dog"
-    ],
-    "prefecture": "北海道",
-    "area": "札幌・清田区",
-    "address": "北海道札幌市清田区平岡6条1丁目5-26",
-    "access": "中央バス（平岡ニュータウン線）北野4条5丁目から徒歩1分",
-    "url": "https://wan-time.jp/store/anella-cafe-sapporo-kiyota/",
-    "price": "一般30分1,000円（延長15分400円）、小学生30分500円、未就学児無料",
-    "price_level": 2,
-    "hours": "12:00〜18:00（平日・土日祝とも）",
-    "closed": "年中無休",
-    "reservation": "推奨",
-    "features": [
-      "保護動物",
-      "複数の動物",
-      "ふれあいOK",
+      "駅近",
       "子ども可"
     ],
-    "description": "保護犬と保護猫がいる福祉型のふれあいカフェで、札幌市の郊外、清田区にある。駐車場があり、車で家族と立ち寄りやすい。",
+    "description": "横須賀の港沿いの商業施設5階にある猫カフェで、公式ページでは約25匹が紹介されている。汐入駅から近く、海辺の散策や買い物とあわせて立ち寄れる。",
     "image": null,
     "checked": "2026-11-06",
-    "source_note": "店舗ページ https://wan-time.jp/store/anella-cafe-sapporo-kiyota/ で確認"
+    "source_note": "公式店舗ページ https://moff-moff.jp/cat-cafe/shop/coaska/ で確認"
+  },
+  {
+    "id": "nagano-cat-moff-aeon-suzaka",
+    "name": "Cat Café MOFF イオンモール須坂店",
+    "animals": [
+      "cat"
+    ],
+    "prefecture": "長野県",
+    "area": "須坂市",
+    "address": "長野県須坂市大字福島386-1 イオンモール須坂 3F",
+    "access": "イオンモール須坂の3階（車での来店は施設の駐車場を利用）",
+    "url": "https://moff-moff.jp/cat-cafe/shop/suzaka/",
+    "price": "入園700円／30分（ワンドリンクオーダー制）、以降10分250円、最大平日1,900円・土日祝2,900円",
+    "price_level": 2,
+    "hours": "10:00〜20:00（最終入園19:30）",
+    "closed": "イオンモール須坂の定休日に準ずる",
+    "reservation": "不要",
+    "features": [
+      "子ども可"
+    ],
+    "description": "長野市の近く、須坂市のイオンモール3階にある猫カフェ。公式ページでは約25匹が紹介され、予約なしで入れる。長野県北部でふれあい以外の猫カフェを探している人に向く。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "公式店舗ページ https://moff-moff.jp/cat-cafe/shop/suzaka/ で確認"
+  },
+  {
+    "id": "shizuoka-cat-moff-shizuoka-parco",
+    "name": "Cat Café MOFF 静岡PARCO店",
+    "animals": [
+      "cat"
+    ],
+    "prefecture": "静岡県",
+    "area": "静岡駅",
+    "address": "静岡県静岡市葵区紺屋町6-7 静岡PARCO 3F",
+    "access": "JR静岡駅から徒歩3分",
+    "url": "https://moff-moff.jp/cat-cafe/shop/shizuoka/",
+    "price": "入園700円／30分（ワンドリンクオーダー制）、以降10分250円、最大平日1,900円・土日祝2,900円",
+    "price_level": 2,
+    "hours": "平日10:30〜19:30／土日祝10:00〜19:30（最終入園19:00）",
+    "closed": "静岡PARCOの定休日に準ずる",
+    "reservation": "不要",
+    "features": [
+      "駅近",
+      "子ども可"
+    ],
+    "description": "静岡駅から歩いて行ける商業施設の3階にある猫カフェで、公式ページでは約31匹が紹介されている。ドリンク1杯の注文制で、最大料金の上限もある。静岡観光の合間にも寄りやすい。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "公式店舗ページ https://moff-moff.jp/cat-cafe/shop/shizuoka/ で確認"
+  },
+  {
+    "id": "okayama-cat-moff-ario-kurashiki",
+    "name": "Cat Café MOFF アリオ倉敷店",
+    "animals": [
+      "cat"
+    ],
+    "prefecture": "岡山県",
+    "area": "倉敷市",
+    "address": "岡山県倉敷市寿町12-2 アリオ倉敷 2F",
+    "access": "アリオ倉敷の2階（車での来店は施設の駐車場を利用）",
+    "url": "https://moff-moff.jp/cat-cafe/shop/kurashiki/",
+    "price": "入園700円／30分（ワンドリンクオーダー制）、以降10分250円、最大平日1,900円・土日祝2,900円",
+    "price_level": 2,
+    "hours": "10:00〜20:00（最終入園19:30）",
+    "closed": "アリオ倉敷の定休日に準ずる",
+    "reservation": "不要",
+    "features": [
+      "子ども可"
+    ],
+    "description": "倉敷市のショッピングモール2階にある猫カフェで、公式ページでは約21匹が紹介されている。予約不要で、買い物のついでに寄れる。抱っこはできないので、見て楽しむ人向け。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "公式店舗ページ https://moff-moff.jp/cat-cafe/shop/kurashiki/ で確認"
+  },
+  {
+    "id": "okinawa-cat-moff-kokusaidori",
+    "name": "Cat Café MOFF 沖縄国際通り店",
+    "animals": [
+      "cat"
+    ],
+    "prefecture": "沖縄県",
+    "area": "那覇・国際通り",
+    "address": "沖縄県那覇市久茂地3丁目29番2号 JMFビル沖縄国際通り01 3F",
+    "access": "ゆいレール県庁前駅から徒歩7分（駐車場なし）",
+    "url": "https://moff-moff.jp/cat-cafe/shop/kokusaidori/",
+    "price": "入園900円／30分＋ドリンクバー380円（必須）、以降10分250円、最大平日2,100円・土日祝3,100円",
+    "price_level": 3,
+    "hours": "11:00〜20:00（最終入園19:30）",
+    "closed": "JMFビル沖縄国際通り01の定休日に準ずる",
+    "reservation": "不要",
+    "features": [
+      "子ども可"
+    ],
+    "description": "那覇の国際通り近くのビル3階にある猫カフェで、公式ページでは約20匹が紹介されている。観光中に雨宿りがてら寄る使い方もできる。他の店舗より入園料はやや高めの設定。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "公式店舗ページ https://moff-moff.jp/cat-cafe/shop/kokusaidori/ で確認"
+  },
+  {
+    "id": "shiga-cat-neco-republic-shiga",
+    "name": "保護猫カフェ ネコリパブリック滋賀",
+    "animals": [
+      "cat"
+    ],
+    "prefecture": "滋賀県",
+    "area": "愛荘町",
+    "address": "滋賀県愛知郡愛荘町愛知川364-1 2F",
+    "access": "公式ページに記載なし（来店前に確認を）",
+    "url": "https://www.neco-republic.jp/shop/shiga/",
+    "price": "平日30分600円／60分1,100円（税抜）、土日祝30分760円／60分1,400円",
+    "price_level": 2,
+    "hours": "火・水・金・土 11:00〜19:00／日・祝 11:00〜18:00",
+    "closed": "月曜・木曜（祝日は営業）",
+    "reservation": "推奨",
+    "features": [
+      "保護動物",
+      "里親募集"
+    ],
+    "description": "愛荘町の建物の2階にある保護猫カフェ。公式ページでは約20匹が在籍と読み取れ、譲渡を前提にした猫たちと過ごせる。気に入った猫がいればスタッフに相談し、面談とトライアルを経て迎えることができる。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "公式店舗ページ https://www.neco-republic.jp/shop/shiga/ で確認（最新の日記投稿は2025-08）"
+  },
+  {
+    "id": "chiba-cat-neco-republic-chiba-mofmof",
+    "name": "ネコリパブリックちば CAFE&CATS MOF MOF",
+    "animals": [
+      "cat"
+    ],
+    "prefecture": "千葉県",
+    "area": "千葉市緑区・あすみが丘",
+    "address": "千葉県千葉市緑区あすみが丘東3-32-3 Nyalcon Max 103",
+    "access": "JR外房線 土気駅から徒歩19分（車の場合は駐車場4台）",
+    "url": "https://www.neco-republic.jp/shop/chiba-cafecats-mofmof/",
+    "price": "平日40分990円（延長10分165円）、土日祝40分1,320円（延長10分220円）、小学生以下の同伴は1人550円引き",
+    "price_level": 2,
+    "hours": "11:00〜19:00",
+    "closed": "月曜・木曜",
+    "reservation": "推奨",
+    "features": [
+      "保護動物",
+      "里親募集",
+      "子ども可"
+    ],
+    "description": "千葉市の住宅街にある保護猫カフェ。譲渡をめざす猫たちが在籍し、気に入った猫がいればスタッフとの面談やトライアルを経て迎えられる。入店時は透けない靴下の着用と足裏の消毒が必要。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "公式店舗ページ https://www.neco-republic.jp/shop/chiba-cafecats-mofmof/ で確認"
+  },
+  {
+    "id": "nagano-cat-mocha-aeon-matsumoto",
+    "name": "猫カフェMOCHA イオンモール松本店",
+    "animals": [
+      "cat"
+    ],
+    "prefecture": "長野県",
+    "area": "松本市",
+    "address": "長野県松本市中央4-9-51 イオンモール松本 空庭1F",
+    "access": "最寄り駅はJR松本駅（イオンモール松本内）",
+    "url": "https://www.catmocha.jp/shop/matsumoto/",
+    "price": "10分297円（平日・税込）、最大3,960円／土日祝・特定日は10分363円、最大4,290円",
+    "price_level": 2,
+    "hours": "10:00〜20:00（最終入店19:30）",
+    "closed": "年中無休",
+    "reservation": "不要",
+    "features": [
+      "子ども可",
+      "ドリンク込み"
+    ],
+    "description": "松本市のイオンモール1階にある、全国チェーンの猫カフェ。公式ページでは約24匹が紹介され、10分刻みの時間制で、予約なしで入れる。中学生未満は保護者の同伴が必要。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "公式店舗ページ https://www.catmocha.jp/shop/matsumoto/ で確認"
+  },
+  {
+    "id": "ibaraki-cat-mocha-aeon-mito-uchihara",
+    "name": "猫カフェMOCHA イオンモール水戸内原店",
+    "animals": [
+      "cat"
+    ],
+    "prefecture": "茨城県",
+    "area": "水戸市・内原",
+    "address": "茨城県水戸市内原2-1 イオンモール水戸内原 3F",
+    "access": "JR常磐線 内原駅から徒歩10分",
+    "url": "https://www.catmocha.jp/shop/mitouchihara/",
+    "price": "10分297円（平日・税込）、最大3,960円／土日祝・特定日は10分363円、最大4,290円",
+    "price_level": 2,
+    "hours": "10:00〜20:00（最終入店19:30）",
+    "closed": "年中無休",
+    "reservation": "不要",
+    "features": [
+      "子ども可",
+      "ドリンク込み"
+    ],
+    "description": "水戸市内原のイオンモール3階にある猫カフェで、公式ページでは約21匹が紹介されている。年中無休で予約も不要なので、買い物のついでに寄りやすい。飲み物の持ち込みもできる。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "公式店舗ページ https://www.catmocha.jp/shop/mitouchihara/ で確認"
+  },
+  {
+    "id": "shizuoka-cat-mocha-aeon-hamamatsu-ichino",
+    "name": "猫カフェMOCHA イオンモール浜松市野店",
+    "animals": [
+      "cat"
+    ],
+    "prefecture": "静岡県",
+    "area": "浜松市・市野",
+    "address": "静岡県浜松市中央区天王町字諏訪1981-3 イオンモール浜松市野 1F",
+    "access": "イオンモール浜松市野の1階（公式の最寄り駅表記はJR浜松駅）",
+    "url": "https://www.catmocha.jp/shop/hamamatsuichino/",
+    "price": "10分297円（平日・税込）、最大3,960円／土日祝・特定日は10分363円、最大4,290円",
+    "price_level": 2,
+    "hours": "10:00〜20:00（最終入店19:30）",
+    "closed": "年中無休",
+    "reservation": "不要",
+    "features": [
+      "子ども可",
+      "ドリンク込み"
+    ],
+    "description": "浜松市のイオンモール1階にある猫カフェで、公式ページでは約21匹が紹介されている。年中無休・予約不要の時間制で、3歳以上から入れる。家族の買い物の合間にも使いやすい。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "公式店舗ページ https://www.catmocha.jp/shop/hamamatsuichino/ で確認"
+  },
+  {
+    "id": "tokushima-cat-mocha-aeon-tokushima",
+    "name": "猫カフェMOCHA イオンモール徳島店",
+    "animals": [
+      "cat"
+    ],
+    "prefecture": "徳島県",
+    "area": "徳島市",
+    "address": "徳島県徳島市南末広町4番1号 イオンモール徳島 5F",
+    "access": "JR徳島駅が最寄り（イオンモール徳島内）",
+    "url": "https://www.catmocha.jp/shop/tokushima/",
+    "price": "最初の30分1,045円（平日・税込、ドリンクバー込み）、延長10分220円、最大3,025円／土日祝・特定日は30分1,320円、最大3,520円",
+    "price_level": 2,
+    "hours": "10:00〜20:00（最終入店19:30）",
+    "closed": "年中無休",
+    "reservation": "不要",
+    "features": [
+      "ドリンク込み",
+      "子ども可"
+    ],
+    "description": "徳島市のイオンモール5階にある猫カフェで、公式ページでは約24匹が紹介されている。ドリンクバー込みの料金なので、飲み物を気にせず長く過ごせる。徳島県内では数少ない猫カフェ。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "公式店舗ページ https://www.catmocha.jp/shop/tokushima/ で確認"
+  },
+  {
+    "id": "kyoto-cat-noahs-ark-gion",
+    "name": "Cat & Animal Cafe Noah's Ark 京都祇園店",
+    "animals": [
+      "cat",
+      "smallanimal",
+      "other"
+    ],
+    "prefecture": "京都府",
+    "area": "祇園",
+    "address": "京都府京都市東山区祇園町北側323 祇園会館 2階東号室",
+    "access": "京阪本線「祇園四条駅」から徒歩5分",
+    "url": "https://www.purrcat.co.jp/%E4%BA%AC%E9%83%BD%E7%A5%87%E5%9C%92%E5%BA%97",
+    "price": "平日30分1,100円＋10分ごと330円（最大3,080円）、土日祝30分1,320円（最大3,520円）、別途ワンドリンク385円〜",
+    "price_level": 3,
+    "hours": "10:00〜20:00（最終入店19:30）",
+    "closed": "無休",
+    "reservation": "不要",
+    "features": [
+      "ふれあいOK",
+      "複数の動物"
+    ],
+    "description": "八坂神社の近くにある、約40匹の猫とフェレットのいる店で、ミーアキャットなど珍しい動物にも会える。予約なしでも入れる。京都観光の合間に、猫と変わった動物の両方を楽しみたい人向け。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "公式 https://www.purrcat.co.jp/京都祇園店 と料金 https://www.purrcat.co.jp/system で確認。予約不要はトップの記載による"
   }
 ]
