@@ -26,38 +26,6 @@
     "checked": "2026-11-06"
   },
   {
-    "id": "kyoto-smallanimal-luff-kyotanabe",
-    "name": "動物ふれあい Luff（Luff s.a.family）",
-    "animals": [
-      "smallanimal",
-      "hedgehog",
-      "rabbit",
-      "bird",
-      "other"
-    ],
-    "prefecture": "京都府",
-    "area": "京田辺",
-    "address": "京都府京田辺市河原受田43-8 ルーブルビル本館 2A",
-    "access": "近鉄新田辺駅から徒歩2分、JR京田辺駅から徒歩6分",
-    "url": "https://luff-safamily.com/",
-    "price": "大人2,800円／90分（おやつあげ込み）、7〜12歳1,500円",
-    "price_level": 3,
-    "hours": "13:00〜18:00",
-    "closed": "不定休（営業カレンダーで確認）",
-    "reservation": "推奨",
-    "features": [
-      "ふれあいOK",
-      "えさやり体験",
-      "子ども可",
-      "駅近",
-      "複数の動物"
-    ],
-    "description": "ミーアキャットやチンチラ、ハリネズミ、ハムスター、モルモットなど30種類以上と、90分かけてふれあえる施設です。おやつをあげる体験も料金に含まれ、スタッフが付き添ってくれます。週末や祝日は予約しておくと安心で、子ども連れにも向きます。",
-    "source_note": "公式 https://luff-safamily.com/ で住所・料金・営業時間・予約・動物を確認",
-    "image": null,
-    "checked": "2026-11-06"
-  },
-  {
     "id": "tokyo-smallanimal-harry-mogumogu-harajuku",
     "name": "HARRY mogumogu（HARRYモグモグ店）",
     "animals": [
@@ -548,5 +516,279 @@
     "reservation": "必須",
     "image": null,
     "checked": "2026-11-06"
+  },
+  {
+    "id": "tokyo-smallanimal-moff-animal-cafe-lalaport-tachikawa-tachihi",
+    "name": "Moff animal cafe ららぽーと立川立飛店",
+    "animals": [
+      "smallanimal",
+      "owl",
+      "bird",
+      "reptile",
+      "hedgehog",
+      "dog",
+      "other"
+    ],
+    "prefecture": "東京都",
+    "area": "立川",
+    "address": "東京都立川市泉町935-1 ららぽーと立川立飛2F",
+    "access": "多摩モノレール「立飛」駅直結",
+    "url": "https://moff-moff.jp/animal-cafe/shop/tachikawa-lalaport/",
+    "price": "中学生以上1,450円（時間無制限）＋ドリンクバー380円（必須）",
+    "price_level": 2,
+    "hours": "10:00〜20:00（最終入園19:30）",
+    "closed": "ららぽーと立川立飛の定休日に準ずる",
+    "reservation": "不要",
+    "features": [
+      "ふれあいOK",
+      "時間無制限プランあり",
+      "駅近",
+      "子ども可",
+      "複数の動物"
+    ],
+    "description": "フタユビナマケモノやフクロウ、インコ、爬虫類、チンチラやハムスターなどの小動物、犬までそろう商業施設型の店。入園料で時間無制限、予約も要らない。動物の抱っこはできないので、見て触れて過ごしたい人向けだ。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "公式店舗ページ https://moff-moff.jp/animal-cafe/shop/tachikawa-lalaport/ で確認"
+  },
+  {
+    "id": "tokyo-smallanimal-moff-animal-cafe-cute-cube-harajuku",
+    "name": "Moff animal cafe CUTE CUBE 原宿店",
+    "animals": [
+      "smallanimal",
+      "owl",
+      "bird",
+      "reptile",
+      "hedgehog",
+      "rabbit",
+      "other"
+    ],
+    "prefecture": "東京都",
+    "area": "原宿",
+    "address": "東京都渋谷区神宮前1-7-1 CUTE CUBE HARAJUKU 3F",
+    "access": "原宿エリア（公式ページに最寄駅の記載なし）",
+    "url": "https://moff-moff.jp/animal-cafe/shop/harajuku/",
+    "price": "中学生以上3,500円（時間無制限、ドリンクバー込み）",
+    "price_level": 4,
+    "hours": "10:00〜20:00（最終入園19:30）",
+    "closed": "CUTE CUBE 原宿の定休日に準ずる",
+    "reservation": "不要",
+    "features": [
+      "ふれあいOK",
+      "時間無制限プランあり",
+      "ドリンク込み",
+      "子ども可",
+      "複数の動物"
+    ],
+    "description": "原宿の商業施設内にある店で、フタユビナマケモノ、フクロウ、インコ、ハリネズミ、ウサギ、チンチラなどがいる。料金は他のMoffより高めだがドリンクバー込みで、予約は要らない。動物の抱っこはできない。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "公式店舗ページ https://moff-moff.jp/animal-cafe/shop/harajuku/ で確認"
+  },
+  {
+    "id": "okayama-smallanimal-garamomo-cafe-kurashiki",
+    "name": "GaraMomoCAFE（ガラモモカフェ）",
+    "animals": [
+      "smallanimal",
+      "hedgehog"
+    ],
+    "prefecture": "岡山県",
+    "area": "倉敷・美観地区",
+    "address": "岡山県倉敷市中央1-1-7 2F",
+    "access": "倉敷・美観地区（公式ページに最寄駅の記載なし）",
+    "url": "https://owls-cats-forest.com/free/garamomo",
+    "price": "大人（13歳以上）900円／小人（6〜12歳）700円（ワンドリンク付き）",
+    "price_level": 1,
+    "hours": "3〜11月 平日10:15〜16:30・土日祝10:00〜17:00／12〜2月 平日10:30〜16:30・土日祝10:30〜17:00（最終入場は閉店30分前）",
+    "closed": "公式ページに記載なし（来店前に確認を）",
+    "reservation": "不要",
+    "features": [
+      "ふれあいOK",
+      "ドリンク込み"
+    ],
+    "description": "ショウガラゴ、フクロモモンガ、ハリネズミなど夜行性の動物が暮らす店で、昼夜逆転の部屋で活動する姿を間近に見て触れられる。当日分のチケットを店頭で売る方式で、予約はできず、完売なら入れない。6歳以上が対象だ。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "公式 https://owls-cats-forest.com/free/garamomo （店舗登録 令和8年4月、サイト表記2026年）で確認"
+  },
+  {
+    "id": "tokyo-smallanimal-chipmunk-cafe-kameido",
+    "name": "シマリスカフェ アースのおみせ",
+    "animals": [
+      "smallanimal"
+    ],
+    "prefecture": "東京都",
+    "area": "亀戸",
+    "address": "東京都江東区亀戸6-57-22 平塚ビル3F",
+    "access": "JR亀戸駅東口から徒歩1分",
+    "url": "https://chipmunk-cafe.com/",
+    "price": "2時間制 平日2,750円／土日祝3,190円（税込）＋ワンオーダー。手のり体験605円・おやつ体験440円は別",
+    "price_level": 4,
+    "hours": "10:00〜18:00（最終入店16:00）",
+    "closed": "毎週月・火曜（祝日を除く）",
+    "reservation": "推奨",
+    "features": [
+      "駅近",
+      "えさやり体験"
+    ],
+    "description": "シマリスだけを飼う日本初のシマリスカフェで、公式は「ふれあい施設ではない」と明記している。見て過ごすほか、手のり体験やおやつ体験を有料で選べる。シマリスをゆっくり眺めたい人向けだ。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "公式 https://chipmunk-cafe.com/ （お知らせ 2026-11-02）で確認。Web予約は前日19時まで、当日は電話で空席確認"
+  },
+  {
+    "id": "gunma-smallanimal-marshmallow-panda-maebashi",
+    "name": "アニマルカフェ＆ショップ マシュマロパンダ",
+    "animals": [
+      "smallanimal",
+      "hedgehog",
+      "owl",
+      "reptile",
+      "dog",
+      "cat",
+      "rabbit"
+    ],
+    "prefecture": "群馬県",
+    "area": "前橋",
+    "address": "群馬県前橋市川原町2丁目35-5",
+    "access": "JR上越線「群馬総社駅」からタクシー約7分（駐車場16台あり、車での来店が中心）",
+    "url": "https://love.gunma.jp/",
+    "price": "1時間制 大人（中学生以上）1,400円／子供（3歳以上）900円（税込）",
+    "price_level": 2,
+    "hours": "平日13:00〜18:00（最終入店17:00）／土日祝11:00〜19:00（最終入店18:00）",
+    "closed": "水曜（祝日は営業）",
+    "reservation": "不要",
+    "features": [
+      "ふれあいOK",
+      "子ども可",
+      "複数の動物"
+    ],
+    "description": "犬・猫からハリネズミ、ウサギ、フェレット、フクロウ、爬虫類までふれあえる総合型のアニマルカフェで、ペットショップと動物病院を併設する。部屋ごとに動物が分かれていて、子犬や子猫とも触れられる。家族連れで多くの動物を回りたい人向けだ。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "公式 https://love.gunma.jp/ 、店舗案内 https://love.gunma.jp/access/ （お知らせ 2026-10-12）で確認。予約の要否は公式に記載なし（予約限定プランはあり）"
+  },
+  {
+    "id": "nara-smallanimal-hanahana-nara",
+    "name": "小動物カフェ はなはな",
+    "animals": [
+      "smallanimal",
+      "dog",
+      "owl",
+      "bird",
+      "reptile",
+      "rabbit"
+    ],
+    "prefecture": "奈良県",
+    "area": "奈良市",
+    "address": "奈良県奈良市角振町12 三条会館ビル2階",
+    "access": "近鉄奈良駅から徒歩圏の三条通り沿い（公式ページに最寄駅の記載なし）",
+    "url": "https://www.hanahana-nara.com/",
+    "price": "1時間 大人1,800円／子ども1,300円（1ドリンク付き、2歳以下無料）",
+    "price_level": 2,
+    "hours": "12:00〜19:00（最終入店18:00）",
+    "closed": "公式ページに記載なし（来店前に確認を）",
+    "reservation": "推奨",
+    "features": [
+      "ふれあいOK",
+      "ドリンク込み",
+      "子ども可",
+      "複数の動物"
+    ],
+    "description": "フクロウ、爬虫類、インコ、ウサギなど約60匹がいる奈良の小動物カフェ。1時間料金に1ドリンクが付き、延長もできる。完全予約制ではないが、予約すると待たずに入れる。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "公式 https://www.hanahana-nara.com/ 、料金 https://www.hanahana-nara.com/menu/ で確認（お知らせの最新は2025-12-23）"
+  },
+  {
+    "id": "hyogo-smallanimal-anipon-world-suma",
+    "name": "アニPONワールド",
+    "animals": [
+      "smallanimal",
+      "owl",
+      "reptile"
+    ],
+    "prefecture": "兵庫県",
+    "area": "神戸・須磨（妙法寺）",
+    "address": "兵庫県神戸市須磨区妙法寺字乗越200番地の6",
+    "access": "地下鉄妙法寺駅から徒歩4分",
+    "url": "https://aniponworld.com/",
+    "price": "50分制 大人2,800円／中学生以下2,200円（ふれあい・ほとんどの動物の餌やり込み）。2026年10月20日に価格改定の告知があり、改定後の額は公式に未掲載のため来店前に確認を",
+    "price_level": 3,
+    "hours": "平日・土曜13:30〜21:30（平日は予約のみ）／日・祝12:30〜19:30（最終受付18:30）",
+    "closed": "公式ページに記載なし（来店前に確認を）",
+    "reservation": "推奨",
+    "features": [
+      "ふれあいOK",
+      "えさやり体験",
+      "駅近",
+      "複数の動物"
+    ],
+    "description": "リスザル、キンカジュー、ミーアキャット、ショウガラゴ、ハリネズミ、ハリスホーク、爬虫類など多くの種類にふれあえる50分制の施設。餌やりも料金に含まれる。平日は予約が必要で、日曜・祝日は予約優先だ。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "公式 https://aniponworld.com/ （お知らせ 2026-10-11）で確認。営業日は公式カレンダー"
+  },
+  {
+    "id": "osaka-smallanimal-animalcafe-fuleca-fukushima",
+    "name": "animalcafe fuleca 福島店",
+    "animals": [
+      "smallanimal",
+      "owl",
+      "bird",
+      "reptile",
+      "hedgehog",
+      "rabbit"
+    ],
+    "prefecture": "大阪府",
+    "area": "福島",
+    "address": "大阪府大阪市福島区福島7-5-7 StoRK BLDG 2F",
+    "access": "JR福島駅から徒歩約3分",
+    "url": "https://animal-fuleca.studio.site/",
+    "price": "1時間 大人1,800円／小人（2〜12歳）1,000円＋ワンオーダー（2026-01-01改定）",
+    "price_level": 3,
+    "hours": "10:00〜20:00（最終受付19:00。18:30に閉店する場合あり）",
+    "closed": "不定休",
+    "reservation": "推奨",
+    "features": [
+      "ふれあいOK",
+      "えさやり体験",
+      "駅近",
+      "子ども可",
+      "貸切可",
+      "複数の動物"
+    ],
+    "description": "サル、ショウガラゴ、フェネック、チンチラ、ハリネズミ、フクロウ、インコ、爬虫類まで30種類以上と触れ合える店。触れたい動物をスタッフに指名する方式で、フクロウの腕乗せなどは有料オプションだ。入場料に加えてワンオーダーが必要になる。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "公式 https://animal-fuleca.studio.site/ （お知らせ 2026-06-20、料金改定 2025-12-15）で確認。予約は公式LINE、席の確保はできないが優先案内"
+  },
+  {
+    "id": "tokyo-smallanimal-kawaii-land-kyunkyun-harajuku",
+    "name": "原宿かわいいランド キュンキュン",
+    "animals": [
+      "smallanimal",
+      "hedgehog"
+    ],
+    "prefecture": "東京都",
+    "area": "原宿",
+    "address": "東京都渋谷区神宮前1-9-30 FLEG原宿B1F",
+    "access": "原宿・竹下通りエリア（公式ページに最寄駅の記載なし）",
+    "url": "https://harajukukawaiiland-kyunkyun.com/",
+    "price": "フリータイム 13歳以上2,500円／4〜12歳1,500円（3歳以下無料。混雑時は1時間まで）",
+    "price_level": 3,
+    "hours": "10:00〜19:00（公式サイト内に18:00までの表記もあり。来店前に確認を）",
+    "closed": "公式ページに記載なし（来店前に確認を）",
+    "reservation": "不要",
+    "features": [
+      "抱っこOK",
+      "ふれあいOK",
+      "時間無制限プランあり",
+      "子ども可"
+    ],
+    "description": "ハリネズミ、モルモット、ハムスター、チンチラの4種類とふれあえる原宿の小さな店。料金はフリータイム制だが、混雑時は1時間までとなる。気に入った動物はお迎えの相談もできる。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "公式 https://harajukukawaiiland-kyunkyun.com/ で確認（公式サイトに日付付きのお知らせなし、お盆期間の料金注記あり）。公式Instagram @kyunkyun_harajuku。予約の要否は公式に記載なし"
   }
 ]

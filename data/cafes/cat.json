@@ -246,7 +246,7 @@
     ],
     "prefecture": "京都府",
     "area": "新京極・河原町",
-    "address": "京都府京都市中京区東大文字町308番地 ゑり正ビル1階",
+    "address": "京都府京都市中京区寺町通東大文字町380番地",
     "access": "新京極通りから徒歩1分",
     "url": "https://owls-cats-forest.com/free/cats-kyoto",
     "price": "大人1,000円／30分（ワンドリンク付き）、以降10分単位で延長",
@@ -262,7 +262,7 @@
     "description": "ヒョウ柄の毛並みが特徴のベンガルキャットに会える、京都・新京極の猫カフェ。チケットは当日店頭のみの販売で、予約は受け付けていない。入店には靴下が必要で、4歳以上から入場できる。",
     "image": null,
     "checked": "2026-11-06",
-    "source_note": "公式店舗ページ https://owls-cats-forest.com/free/cats-kyoto で確認"
+    "source_note": "公式店舗ページ https://owls-cats-forest.com/free/cats-kyoto で確認。2026-07-06 の公式お知らせ（https://owls-cats-forest.com/info/6830176 ）で移転後の住所を確認（店舗ページの住所欄は旧表記のまま）"
   },
   {
     "id": "miyagi-cat-full-cat-sendai",
@@ -765,5 +765,778 @@
     "image": null,
     "checked": "2026-11-06",
     "source_note": "公式 https://www.purrcat.co.jp/京都祇園店 と料金 https://www.purrcat.co.jp/system で確認。予約不要はトップの記載による"
+  },
+  {
+    "id": "fukuoka-cat-mocha-aeon-chikushino",
+    "name": "猫カフェMOCHA イオンモール筑紫野店",
+    "animals": [
+      "cat"
+    ],
+    "prefecture": "福岡県",
+    "area": "筑紫野市",
+    "address": "福岡県筑紫野市立明寺434-1 イオンモール筑紫野2F",
+    "access": "JR鹿児島本線 天拝山駅すぐ／西鉄天神大牟田線 朝倉街道駅から徒歩7分",
+    "url": "https://www.catmocha.jp/shop/chikushino/",
+    "price": "10分297円（平日・税込）、最大3,960円／土日祝・特定日は10分363円、最大4,290円",
+    "price_level": 2,
+    "hours": "10:00〜21:00（最終入店20:30）",
+    "closed": "年中無休",
+    "reservation": "不要",
+    "features": [
+      "子ども可",
+      "写真OK",
+      "駅近"
+    ],
+    "description": "福岡県筑紫野市のイオンモール2階にある、全国チェーンの猫カフェ。公式ページでは約19匹の猫が紹介され、10分刻みで入れる。3歳以下は入場無料で、買い物のついでにも家族連れにも使いやすい。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "公式店舗ページ https://www.catmocha.jp/shop/chikushino/ で確認"
+  },
+  {
+    "id": "miyazaki-cat-mocha-miyazaki-tachibana",
+    "name": "猫カフェMOCHA 宮崎橘通店",
+    "animals": [
+      "cat"
+    ],
+    "prefecture": "宮崎県",
+    "area": "宮崎市・橘通",
+    "address": "宮崎県宮崎市橘通西3丁目10番32号 宮崎ナナイロ西館3F",
+    "access": "JR宮崎駅から徒歩約10分",
+    "url": "https://www.catmocha.jp/shop/miyazaki/",
+    "price": "10分297円（平日・税込）、最大3,630円／土日祝・特定日は10分363円、最大3,960円",
+    "price_level": 2,
+    "hours": "10:00〜20:00（最終入店19:30）",
+    "closed": "施設の休館日に準ずる",
+    "reservation": "不要",
+    "features": [
+      "子ども可",
+      "写真OK"
+    ],
+    "description": "宮崎駅から歩ける商業施設の3階にある猫カフェ。公式ページには約16匹の猫が載っていて、予約なしで10分単位で利用できる。九州の旅行中に短時間だけ猫と過ごしたい人にも合う。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "公式店舗ページ https://www.catmocha.jp/shop/miyazaki/ で確認"
+  },
+  {
+    "id": "hyogo-cat-mocha-himeji-piole",
+    "name": "猫カフェMOCHA ピオレ姫路店",
+    "animals": [
+      "cat"
+    ],
+    "prefecture": "兵庫県",
+    "area": "姫路駅前",
+    "address": "兵庫県姫路市駅前町188-1 ピオレ1 6F",
+    "access": "JR姫路駅北口から徒歩1分／山陽電鉄 山陽姫路駅から徒歩2分",
+    "url": "https://www.catmocha.jp/shop/himeji/",
+    "price": "入場1,045円／最初の30分（平日・税込、ドリンクバー込み）、延長10分220円。土日祝・特定日は1,210円、延長275円",
+    "price_level": 2,
+    "hours": "10:00〜20:00（最終入店19:30）",
+    "closed": "施設の休館日に準ずる",
+    "reservation": "不要",
+    "features": [
+      "ドリンク込み",
+      "駅近",
+      "子ども可",
+      "写真OK"
+    ],
+    "description": "姫路駅の北口すぐ、ピオレ姫路6階にある猫カフェで、公式ページで約18匹が紹介されている。ドリンクバー込みの30分制で、6歳から入場できる。城見物の前後に寄りやすい。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "公式店舗ページ https://www.catmocha.jp/shop/himeji/ で確認"
+  },
+  {
+    "id": "okayama-cat-mocha-aeon-okayama",
+    "name": "猫カフェMOCHA イオンモール岡山店",
+    "animals": [
+      "cat"
+    ],
+    "prefecture": "岡山県",
+    "area": "岡山駅前",
+    "address": "岡山県岡山市北区下石井1丁目2番1号 イオンモール岡山5F",
+    "access": "JR岡山駅から徒歩5分",
+    "url": "https://www.catmocha.jp/shop/okayama/",
+    "price": "10分220円（平日・税込）、最大2,640円／土日祝・特定日は10分275円、最大2,970円。ドリンクバーは別途385円",
+    "price_level": 2,
+    "hours": "10:00〜21:00（最終入店20:30）",
+    "closed": "年中無休",
+    "reservation": "不要",
+    "features": [
+      "駅近",
+      "子ども可",
+      "写真OK"
+    ],
+    "description": "岡山駅から近いイオンモール5階にある猫カフェ。公式ページで約17匹が紹介され、10分単位の料金にドリンクバーを別につける仕組み。3歳から入場でき、予約は要らない。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "公式店舗ページ https://www.catmocha.jp/shop/okayama/ で確認"
+  },
+  {
+    "id": "osaka-cat-mocha-umeda",
+    "name": "猫カフェMOCHA 梅田店",
+    "animals": [
+      "cat"
+    ],
+    "prefecture": "大阪府",
+    "area": "梅田・東梅田",
+    "address": "大阪府大阪市北区小松原町1-7 ミスターりんビル2F",
+    "access": "地下鉄 東梅田駅1番出口から徒歩2分／阪神 大阪梅田駅東出口から徒歩3分／JR大阪駅から徒歩5分",
+    "url": "https://www.catmocha.jp/shop/osakaumeda/",
+    "price": "入場1,100円／最初の30分（平日・税込、ドリンクバー込み）、延長10分220円。土日祝・特定日は1,400円、延長220円",
+    "price_level": 2,
+    "hours": "10:00〜20:00（最終入店19:30）",
+    "closed": "年中無休",
+    "reservation": "不要",
+    "features": [
+      "ドリンク込み",
+      "駅近",
+      "子ども可",
+      "写真OK"
+    ],
+    "description": "梅田の中心部、ビルの2階にある猫カフェ。公式ページに約31匹が載っていて、チェーンの中でも頭数が多いほうだ。30分の入場料にドリンクバーが含まれ、6歳から入れる。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "公式店舗ページ https://www.catmocha.jp/shop/osakaumeda/ で確認"
+  },
+  {
+    "id": "osaka-cat-mocha-shinsaibashi",
+    "name": "猫カフェMOCHA 心斎橋店",
+    "animals": [
+      "cat"
+    ],
+    "prefecture": "大阪府",
+    "area": "心斎橋",
+    "address": "大阪府大阪市中央区東心斎橋1-18-11 リバティ心斎橋ビル1F",
+    "access": "御堂筋線 心斎橋駅5号出口から徒歩3分",
+    "url": "https://www.catmocha.jp/shop/shinsaibashi/",
+    "price": "入場1,188円／最初の30分（平日・税込、ドリンクバー込み）、延長10分220円。土日祝・特定日は1,518円、延長220円",
+    "price_level": 2,
+    "hours": "10:00〜20:00（最終入店19:30）",
+    "closed": "年中無休",
+    "reservation": "不要",
+    "features": [
+      "ドリンク込み",
+      "駅近",
+      "子ども可",
+      "写真OK"
+    ],
+    "description": "心斎橋の路面1階にある猫カフェ。公式ページに約20匹が載り、ドリンクバーつきの30分制で使える。買い物や観光の合間に立ち寄る人が多い立地だ。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "公式店舗ページ https://www.catmocha.jp/shop/shinsaibashi/ で確認"
+  },
+  {
+    "id": "aichi-cat-mocha-aeon-nagoya-noritake",
+    "name": "猫カフェMOCHA イオンモール Nagoya Noritake Garden店",
+    "animals": [
+      "cat"
+    ],
+    "prefecture": "愛知県",
+    "area": "名古屋駅西・則武新町",
+    "address": "愛知県名古屋市西区則武新町3-1-17 イオンモールNagoya Noritake Garden 3F",
+    "access": "JR名古屋駅 ルーセントアベニューL4出入口から徒歩6分",
+    "url": "https://www.catmocha.jp/shop/nagoyanoritake/",
+    "price": "10分297円（平日・税込）、最大3,960円／土日祝・特定日は10分363円、最大4,290円",
+    "price_level": 2,
+    "hours": "10:00〜20:00（最終入店19:30）",
+    "closed": "年中無休",
+    "reservation": "不要",
+    "features": [
+      "子ども可",
+      "写真OK"
+    ],
+    "description": "名古屋駅から歩ける大型商業施設の3階にある猫カフェで、公式ページに約20匹が紹介されている。3歳以下は無料で、予約なしで入れる。買い物ついでに寄りやすい。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "公式店舗ページ https://www.catmocha.jp/shop/nagoyanoritake/ で確認"
+  },
+  {
+    "id": "aichi-cat-mocha-lalaport-nagoya-minato-aqls",
+    "name": "猫カフェMOCHA ららぽーと名古屋みなとアクルス店",
+    "animals": [
+      "cat"
+    ],
+    "prefecture": "愛知県",
+    "area": "名古屋市港区・みなとアクルス",
+    "address": "愛知県名古屋市港区港明2-3-2 ららぽーと名古屋みなとアクルス1F",
+    "access": "地下鉄名港線 港区役所駅2番出口から徒歩2分／東海通駅3番出口から徒歩3分",
+    "url": "https://www.catmocha.jp/shop/nagoyaminato/",
+    "price": "10分297円（平日・税込）、最大3,960円／土日祝・特定日は10分363円、最大4,290円",
+    "price_level": 2,
+    "hours": "10:00〜20:00（最終入店19:30）",
+    "closed": "年中無休",
+    "reservation": "不要",
+    "features": [
+      "駅近",
+      "子ども可",
+      "写真OK"
+    ],
+    "description": "ららぽーと1階にある猫カフェで、公式ページでは約23匹が紹介されている。10分単位の時間制で、3歳以下は無料。家族でのお出かけの途中にも入りやすい。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "公式店舗ページ https://www.catmocha.jp/shop/nagoyaminato/ で確認"
+  },
+  {
+    "id": "tokyo-cat-mocha-kichijoji",
+    "name": "猫カフェMOCHA 吉祥寺店",
+    "animals": [
+      "cat"
+    ],
+    "prefecture": "東京都",
+    "area": "吉祥寺",
+    "address": "東京都武蔵野市吉祥寺本町1-8-3 吉祥寺コスモ5F",
+    "access": "JR・京王 吉祥寺駅から徒歩3分",
+    "url": "https://www.catmocha.jp/shop/kichijoji/",
+    "price": "10分297円（平日・税込）、最大3,960円／土日祝・特定日は10分385円、最大4,620円",
+    "price_level": 2,
+    "hours": "10:00〜20:00（最終入店19:30）",
+    "closed": "施設の休館日に準ずる",
+    "reservation": "不要",
+    "features": [
+      "駅近",
+      "子ども可",
+      "写真OK"
+    ],
+    "description": "吉祥寺駅から歩いてすぐのビル5階にある猫カフェ。公式ページに約25匹が載っていて、3歳から入場できる。散歩や買い物の合間に予約なしで使える。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "公式店舗ページ https://www.catmocha.jp/shop/kichijoji/ で確認"
+  },
+  {
+    "id": "tokyo-cat-mocha-akihabara",
+    "name": "猫カフェMOCHA 秋葉原店",
+    "animals": [
+      "cat"
+    ],
+    "prefecture": "東京都",
+    "area": "秋葉原",
+    "address": "東京都千代田区外神田4-4-3 秋葉原SILビル2F",
+    "access": "JR秋葉原駅電気街口から徒歩5分",
+    "url": "https://www.catmocha.jp/shop/akihabara/",
+    "price": "10分330円（平日・税込）、最大3,960円／土日祝・特定日は10分440円、最大4,620円",
+    "price_level": 2,
+    "hours": "10:00〜21:00（最終入店20:30）",
+    "closed": "年中無休",
+    "reservation": "不要",
+    "features": [
+      "駅近",
+      "子ども可",
+      "写真OK"
+    ],
+    "description": "秋葉原駅の電気街口から歩ける雑居ビル2階にある猫カフェ。公式ページに約25匹が載っている。夜9時まで開いているので、街歩きのあとにも寄りやすい。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "公式店舗ページ https://www.catmocha.jp/shop/akihabara/ で確認"
+  },
+  {
+    "id": "fukuoka-cat-coorikuya-kokura",
+    "name": "猫喫茶 空陸家 小倉店",
+    "animals": [
+      "cat"
+    ],
+    "prefecture": "福岡県",
+    "area": "北九州市小倉南区",
+    "address": "福岡県北九州市小倉南区葛原東4-3-41",
+    "access": "JR日豊本線 下曽根駅から徒歩7分",
+    "url": "https://www.coorikuya.com/shop/kokura/",
+    "price": "30分715円／60分1,320円／フリータイム1,980円（いずれもドリンクバー込み・税込）（全店共通の案内。店舗により異なる場合あり）",
+    "price_level": 2,
+    "hours": "平日11:00〜20:00／土日祝10:00〜20:00（最終受付19:30）",
+    "closed": "公式ページに記載なし（来店前に確認を）",
+    "reservation": "不要",
+    "features": [
+      "ドリンク込み",
+      "写真OK",
+      "子ども可"
+    ],
+    "description": "ペットショップ併設の猫カフェで、北九州市の小倉南区にある。漫画やWi-Fiがそろい、予約なしで使える。ドリンクバー込みの時間制なので、読書をしながら長居したい人にも向く。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "店舗ページ https://www.coorikuya.com/shop/kokura/ と料金・利用方法ページ https://www.coorikuya.com/system/ で確認（料金は全店共通の案内で、一部店舗は異なる場合があると公式に記載）"
+  },
+  {
+    "id": "kumamoto-cat-coorikuya-carino-kikuyo",
+    "name": "猫喫茶 空陸家 カリーノ菊陽店",
+    "animals": [
+      "cat"
+    ],
+    "prefecture": "熊本県",
+    "area": "菊陽町",
+    "address": "熊本県菊池郡菊陽町大字津久礼字廣街道2422番地4 カリーノ菊陽ショッピングセンター1F",
+    "access": "JR豊肥本線 三里木駅から徒歩5分",
+    "url": "https://www.coorikuya.com/shop/kikuyo/",
+    "price": "30分715円／60分1,320円／フリータイム1,980円（いずれもドリンクバー込み・税込）（全店共通の案内。店舗により異なる場合あり）",
+    "price_level": 2,
+    "hours": "10:00〜20:00（最終受付19:30）",
+    "closed": "公式ページに記載なし（来店前に確認を）",
+    "reservation": "不要",
+    "features": [
+      "ドリンク込み",
+      "写真OK",
+      "子ども可"
+    ],
+    "description": "ショッピングセンターの1階にあるペットショップ併設の猫カフェ。ウッド調の店内に山型のステップがあり、猫たちが上り下りして遊ぶ。買い物の合間にドリンクを飲みながら過ごせる。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "店舗ページ https://www.coorikuya.com/shop/kikuyo/ と料金・利用方法ページ https://www.coorikuya.com/system/ で確認（料金は全店共通の案内で、一部店舗は異なる場合があると公式に記載）"
+  },
+  {
+    "id": "kumamoto-cat-coorikuya-carino-tamana",
+    "name": "猫喫茶 空陸家 カリーノ玉名店",
+    "animals": [
+      "cat"
+    ],
+    "prefecture": "熊本県",
+    "area": "玉名市",
+    "address": "熊本県玉名市亀甲前田110番地 カリーノ玉名1F",
+    "access": "JR鹿児島本線 玉名駅から徒歩11分",
+    "url": "https://www.coorikuya.com/shop/tamana/",
+    "price": "30分715円／60分1,320円／フリータイム1,980円（いずれもドリンクバー込み・税込）（全店共通の案内。店舗により異なる場合あり）",
+    "price_level": 2,
+    "hours": "10:00〜20:00（最終受付19:30）",
+    "closed": "公式ページに記載なし（来店前に確認を）",
+    "reservation": "不要",
+    "features": [
+      "ドリンク込み",
+      "写真OK",
+      "子ども可"
+    ],
+    "description": "玉名市のショッピングセンター内にある、和の雰囲気の猫カフェ。ペットショップに併設され、自宅のようにくつろげる造りだという。予約は不要で、車で来る人向けの駐車場もある。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "店舗ページ https://www.coorikuya.com/shop/tamana/ と料金・利用方法ページ https://www.coorikuya.com/system/ で確認（料金は全店共通の案内で、一部店舗は異なる場合があると公式に記載）"
+  },
+  {
+    "id": "kumamoto-cat-coorikuya-uto-citymall",
+    "name": "猫喫茶 空陸家 宇土シティモール店",
+    "animals": [
+      "cat"
+    ],
+    "prefecture": "熊本県",
+    "area": "宇土市",
+    "address": "熊本県宇土市善道寺町綾織95番地 シティモール 1階北棟D区画",
+    "access": "JR鹿児島本線 宇土駅から車で6分",
+    "url": "https://www.coorikuya.com/shop/utocity/",
+    "price": "30分715円／60分1,320円／フリータイム1,980円（いずれもドリンクバー込み・税込）（全店共通の案内。店舗により異なる場合あり）",
+    "price_level": 2,
+    "hours": "10:00〜20:00（最終受付19:30）",
+    "closed": "公式ページに記載なし（来店前に確認を）",
+    "reservation": "不要",
+    "features": [
+      "ドリンク込み",
+      "写真OK",
+      "子ども可"
+    ],
+    "description": "宇土市のショッピングモール1階にある、和風の猫カフェ。ペットショップに併設されている。駅からは車で行くのが基本で、モールの駐車場を使う。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "店舗ページ https://www.coorikuya.com/shop/utocity/ と料金・利用方法ページ https://www.coorikuya.com/system/ で確認（料金は全店共通の案内で、一部店舗は異なる場合があると公式に記載）"
+  },
+  {
+    "id": "hokkaido-cat-coorikuya-hakodate",
+    "name": "猫喫茶 空陸家 函館店",
+    "animals": [
+      "cat"
+    ],
+    "prefecture": "北海道",
+    "area": "函館市",
+    "address": "北海道函館市港町1-2-1 ポールスターショッピングセンター1F",
+    "access": "五稜郭駅から徒歩11分",
+    "url": "https://www.coorikuya.com/shop/hakodate/",
+    "price": "30分715円／60分1,320円／フリータイム1,980円（いずれもドリンクバー込み・税込）（全店共通の案内。店舗により異なる場合あり）",
+    "price_level": 2,
+    "hours": "平日11:00〜20:00／土日祝10:00〜20:00（最終受付19:30）",
+    "closed": "公式ページに記載なし（来店前に確認を）",
+    "reservation": "不要",
+    "features": [
+      "ドリンク込み",
+      "写真OK",
+      "子ども可"
+    ],
+    "description": "函館市のショッピングセンター1階にある、ペットショップ併設の猫カフェ。ドリンクバー込みの時間制で、猫が好きな人が何時間でも居たくなる居心地を目指している、と公式は紹介している。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "店舗ページ https://www.coorikuya.com/shop/hakodate/ と料金・利用方法ページ https://www.coorikuya.com/system/ で確認（料金は全店共通の案内で、一部店舗は異なる場合があると公式に記載）"
+  },
+  {
+    "id": "niigata-cat-coorikuya-niigata-higashi",
+    "name": "猫喫茶 空陸家 新潟東店",
+    "animals": [
+      "cat"
+    ],
+    "prefecture": "新潟県",
+    "area": "新潟市東区",
+    "address": "新潟県新潟市東区はなみずき3-1-14",
+    "access": "JR東新潟駅から車で7分",
+    "url": "https://www.coorikuya.com/shop/niigata/",
+    "price": "30分715円／60分1,320円／フリータイム1,980円（いずれもドリンクバー込み・税込）（全店共通の案内。店舗により異なる場合あり）",
+    "price_level": 2,
+    "hours": "平日11:00〜20:00／土日祝10:00〜20:00（最終受付19:30）",
+    "closed": "公式ページに記載なし（来店前に確認を）",
+    "reservation": "不要",
+    "features": [
+      "ドリンク込み",
+      "写真OK",
+      "子ども可"
+    ],
+    "description": "新潟市東区にある、ペットショップ併設の猫カフェ。市内で猫とゆっくり過ごせる店として案内されている。予約は取らず、来た順に案内される。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "店舗ページ https://www.coorikuya.com/shop/niigata/ と料金・利用方法ページ https://www.coorikuya.com/system/ で確認（料金は全店共通の案内で、一部店舗は異なる場合があると公式に記載）"
+  },
+  {
+    "id": "osaka-cat-coorikuya-plus-tennoji",
+    "name": "猫喫茶 空陸家plus 天王寺店",
+    "animals": [
+      "cat"
+    ],
+    "prefecture": "大阪府",
+    "area": "天王寺",
+    "address": "大阪府大阪市天王寺区悲田院町9-13",
+    "access": "JR関西本線 天王寺駅から徒歩1分",
+    "url": "https://www.coorikuya.com/shop/tennoji/",
+    "price": "30分880円（入場495円＋ドリンクバー385円）、延長10分165円（税込）（全店共通の案内。店舗により異なる場合あり）",
+    "price_level": 2,
+    "hours": "平日11:00〜20:00／土日祝10:00〜20:00（最終受付19:30）",
+    "closed": "公式ページに記載なし（来店前に確認を）",
+    "reservation": "不要",
+    "features": [
+      "ドリンク込み",
+      "写真OK",
+      "子ども可"
+    ],
+    "description": "天王寺駅から徒歩1分の、ブルーを基調にした猫カフェ。公式では約20頭の猫がいるとされ、猫のタイルアートが飾られている。入場料とドリンクバーを分けた料金で、スタッフが常にカフェエリアにいる。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "店舗ページ https://www.coorikuya.com/shop/tennoji/ と料金・利用方法ページ https://www.coorikuya.com/system/ で確認（料金は全店共通の案内で、一部店舗は異なる場合があると公式に記載）"
+  },
+  {
+    "id": "osaka-cat-coorikuya-shinsaibashi",
+    "name": "猫喫茶 空陸家 心斎橋店",
+    "animals": [
+      "cat"
+    ],
+    "prefecture": "大阪府",
+    "area": "心斎橋・南船場",
+    "address": "大阪府大阪市中央区南船場3-6-21 西澤ビル1階",
+    "access": "御堂筋線 心斎橋駅から徒歩4分",
+    "url": "https://www.coorikuya.com/shop/shinsaibashi/",
+    "price": "30分715円／60分1,320円／フリータイム1,980円（いずれもドリンクバー込み・税込）（全店共通の案内。店舗により異なる場合あり）",
+    "price_level": 2,
+    "hours": "平日11:00〜20:00／土日祝10:00〜20:00（最終受付19:30）",
+    "closed": "公式ページに記載なし（来店前に確認を）",
+    "reservation": "不要",
+    "features": [
+      "ドリンク込み",
+      "写真OK",
+      "子ども可"
+    ],
+    "description": "心斎橋の商店街近くの1階にある、ペットショップ併設の猫カフェ。にぎやかな街の中で、短い時間だけ猫と過ごしたいときに寄りやすい。ドリンクバー込みで、予約は不要。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "店舗ページ https://www.coorikuya.com/shop/shinsaibashi/ と料金・利用方法ページ https://www.coorikuya.com/system/ で確認（料金は全店共通の案内で、一部店舗は異なる場合があると公式に記載）"
+  },
+  {
+    "id": "hokkaido-cat-puchi-marry-lasora-sapporo",
+    "name": "猫カフェ Puchi Marry ラソラ札幌店",
+    "animals": [
+      "cat"
+    ],
+    "prefecture": "北海道",
+    "area": "札幌市白石区・東札幌",
+    "address": "北海道札幌市白石区東札幌三条1-1-1",
+    "access": "地下鉄東西線 東札幌駅1番出口から徒歩3分",
+    "url": "https://www.puchimarry.com/shop/%E3%83%A9%E3%82%BD%E3%83%A9%E6%9C%AD%E5%B9%8C%E5%BA%97/",
+    "price": "30分1,095円（ドリンクバー込み・税込）、延長10分220円。フリータイムは平日2,580円／土日祝2,800円",
+    "price_level": 2,
+    "hours": "10:00〜20:00（最終入場19:30）",
+    "closed": "公式ページに記載なし（来店前に確認を）",
+    "reservation": "不要",
+    "features": [
+      "ドリンク込み",
+      "駅近",
+      "子ども可"
+    ],
+    "description": "札幌の東札幌にある、商業施設内の猫カフェ。時間制のほか、ドリンク飲み放題のフリータイムがあり、猫のごはんタイムは12時と18時だ。電源とWi-Fiが使えるので、長居する人にも向く。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "店舗ページ https://www.puchimarry.com/shop/%E3%83%A9%E3%82%BD%E3%83%A9%E6%9C%AD%E5%B9%8C%E5%BA%97/ で確認。予約の記載はなく推奨とした"
+  },
+  {
+    "id": "aichi-cat-puchi-marry-nagoya-osu",
+    "name": "猫カフェ Puchi Marry 名古屋大須店",
+    "animals": [
+      "cat"
+    ],
+    "prefecture": "愛知県",
+    "area": "名古屋市中区・大須",
+    "address": "愛知県名古屋市中区大須三丁目25番28号 石原ビル2F〜4F",
+    "access": "名古屋市営地下鉄 大須観音駅から徒歩3分",
+    "url": "https://www.puchimarry.com/shop/%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%A4%A7%E9%A0%88%E5%BA%97/",
+    "price": "30分1,095円（ドリンクバー込み・税込）、延長10分220円。平日限定フリータイム（猫のおやつ付き）3,300円",
+    "price_level": 2,
+    "hours": "11:00〜21:00（最終入場20:30）",
+    "closed": "公式ページに記載なし（来店前に確認を）",
+    "reservation": "不要",
+    "features": [
+      "ドリンク込み",
+      "子ども可"
+    ],
+    "description": "大須の商店街エリアにある、3フロアにまたがる猫カフェ。猫のごはんタイムは12時と19時。平日限定でおやつつきのフリータイムがあり、散策のあとにゆっくりしたい人に向く。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "店舗ページ https://www.puchimarry.com/shop/%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%A4%A7%E9%A0%88%E5%BA%97/ で確認。予約の記載はなく推奨とした"
+  },
+  {
+    "id": "ibaraki-cat-puchi-marry-aeon-tsukuba",
+    "name": "猫カフェ Puchi Marry イオンモールつくば店",
+    "animals": [
+      "cat"
+    ],
+    "prefecture": "茨城県",
+    "area": "つくば市",
+    "address": "茨城県つくば市稲岡66-1 イオンモールつくば2F",
+    "access": "つくばエクスプレスの駅からバスで10分",
+    "url": "https://www.puchimarry.com/shop/%E3%82%A4%E3%82%AA%E3%83%B3%E3%83%A2%E3%83%BC%E3%83%AB%E3%81%A4%E3%81%8F%E3%81%B0%E5%BA%97/",
+    "price": "30分1,095円（ドリンクバー込み・税込）、延長10分220円。フリータイムは平日2,580円／休日2,800円",
+    "price_level": 2,
+    "hours": "10:00〜21:00（最終入場20:30）",
+    "closed": "公式ページに記載なし（来店前に確認を）",
+    "reservation": "不要",
+    "features": [
+      "ドリンク込み",
+      "子ども可"
+    ],
+    "description": "つくば市のイオンモール2階にある猫カフェ。時間制のほか、一日何度でも出入りできるフリータイムがあり、モールでの買い物と組み合わせやすい。ごはんタイムは12時と19時。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "店舗ページ https://www.puchimarry.com/shop/%E3%82%A4%E3%82%AA%E3%83%B3%E3%83%A2%E3%83%BC%E3%83%AB%E3%81%A4%E3%81%8F%E3%81%B0%E5%BA%97/ で確認。予約の記載はなく推奨とした"
+  },
+  {
+    "id": "toyama-cat-puchi-marry-aeon-takaoka",
+    "name": "猫カフェ Puchi Marry イオンモール高岡店",
+    "animals": [
+      "cat"
+    ],
+    "prefecture": "富山県",
+    "area": "高岡市",
+    "address": "富山県高岡市下伏間江383 イオンモール高岡東館1階",
+    "access": "JR新高岡駅から徒歩3分",
+    "url": "https://www.puchimarry.com/shop/%E3%82%A4%E3%82%AA%E3%83%B3%E3%83%A2%E3%83%BC%E3%83%AB%E9%AB%98%E5%B2%A1%E5%BA%97/",
+    "price": "30分1,095円（ドリンクバー込み・税込）、延長10分220円。フリータイムは平日2,580円／休日2,800円",
+    "price_level": 2,
+    "hours": "10:00〜21:00（最終入場20:30）",
+    "closed": "公式ページに記載なし（来店前に確認を）",
+    "reservation": "不要",
+    "features": [
+      "ドリンク込み",
+      "駅近",
+      "子ども可"
+    ],
+    "description": "新高岡駅から歩けるイオンモール東館1階にある猫カフェ。猫が一列に並んで食べるごはんタイム（12時と19時）が見どころ。新幹線の駅が近いので、旅行中にも立ち寄りやすい。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "店舗ページ https://www.puchimarry.com/shop/%E3%82%A4%E3%82%AA%E3%83%B3%E3%83%A2%E3%83%BC%E3%83%AB%E9%AB%98%E5%B2%A1%E5%BA%97/ で確認。予約の記載はなく推奨とした"
+  },
+  {
+    "id": "ishikawa-cat-puchi-marry-aeon-kahoku",
+    "name": "猫カフェ Puchi Marry イオンモールかほく店",
+    "animals": [
+      "cat"
+    ],
+    "prefecture": "石川県",
+    "area": "かほく市",
+    "address": "石川県かほく市内日角夕25番 イオンモールかほく1階",
+    "access": "宇野気駅が最寄り（徒歩時間は公式に記載なし）",
+    "url": "https://www.puchimarry.com/shop/%E3%82%A4%E3%82%AA%E3%83%B3%E3%83%A2%E3%83%BC%E3%83%AB%E3%81%8B%E3%81%BB%E3%81%8F%E5%BA%97/",
+    "price": "30分1,095円（ドリンクバー込み・税込）、延長10分220円。フリータイムは平日2,580円／土日祝2,800円",
+    "price_level": 2,
+    "hours": "10:00〜21:00（最終入場20:30）",
+    "closed": "公式ページに記載なし（来店前に確認を）",
+    "reservation": "不要",
+    "features": [
+      "ドリンク込み",
+      "子ども可"
+    ],
+    "description": "石川県かほく市のイオンモール1階にある猫カフェ。時間制とドリンク飲み放題のフリータイムがあり、ごはんタイムは12時と19時。北陸で気軽に猫と過ごせる店のひとつだ。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "店舗ページ https://www.puchimarry.com/shop/%E3%82%A4%E3%82%AA%E3%83%B3%E3%83%A2%E3%83%BC%E3%83%AB%E3%81%8B%E3%81%BB%E3%81%8F%E5%BA%97/ で確認。予約の記載はなく推奨とした"
+  },
+  {
+    "id": "miyagi-cat-nonnon-the-mall-sendai-nagamachi",
+    "name": "キャットラウンジ nonnon ザ・モール仙台長町店",
+    "animals": [
+      "cat"
+    ],
+    "prefecture": "宮城県",
+    "area": "仙台市太白区・長町",
+    "address": "宮城県仙台市太白区長町7丁目20-3 ザ・モール仙台長町 本館1階",
+    "access": "ザ・モール仙台長町の本館1階（駐車場あり）",
+    "url": "https://catnonnon.jp/shop/2/",
+    "price": "10分220円（平日・税込）、最大2,420円／土日祝・特定日は10分275円、最大2,750円。ドリンクバーは別途418円",
+    "price_level": 2,
+    "hours": "10:00〜20:00（最終入店19:30）",
+    "closed": "施設の定休日に準ずる",
+    "reservation": "不要",
+    "features": [
+      "子ども可"
+    ],
+    "description": "仙台市長町のショッピングモール内にある猫カフェ。猫を「キャスト」と呼び、それぞれの生年月日や猫種を公式ページで紹介している。10分刻みの料金で、ドリンクバーは別料金。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "店舗ページ https://catnonnon.jp/shop/2/ で確認（予約は承っていないと公式に記載）"
+  },
+  {
+    "id": "iwate-cat-nonnon-aeon-morioka-minami",
+    "name": "キャットラウンジ nonnon 盛岡南店",
+    "animals": [
+      "cat"
+    ],
+    "prefecture": "岩手県",
+    "area": "盛岡市",
+    "address": "岩手県盛岡市本宮7丁目1-1 イオンモール盛岡南 2階 PETEMO盛岡南店内",
+    "access": "イオンモール盛岡南の2階（駐車場あり）",
+    "url": "https://catnonnon.jp/shop/3/",
+    "price": "10分220円（平日・税込）、最大2,420円／土日祝・特定日は10分275円、最大2,750円。ドリンクバーは別途418円",
+    "price_level": 2,
+    "hours": "10:00〜20:00（最終入店19:30）",
+    "closed": "施設の定休日に準ずる",
+    "reservation": "不要",
+    "features": [
+      "子ども可"
+    ],
+    "description": "盛岡市のイオンモール2階、ペットショップ内にある猫カフェ。時間制で、スマホの充電器やWi-Fiが使える。買い物のあとに猫と過ごしたい人向けだ。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "店舗ページ https://catnonnon.jp/shop/3/ で確認（予約は承っていないと公式に記載）"
+  },
+  {
+    "id": "fukuoka-cat-cota-nishijin",
+    "name": "猫カフェ cota",
+    "animals": [
+      "cat"
+    ],
+    "prefecture": "福岡県",
+    "area": "西新",
+    "address": "福岡県福岡市早良区西新2丁目6番4号 マルエイ西新2階",
+    "access": "福岡市地下鉄空港線 西新駅7番出口から徒歩3分",
+    "url": "https://neko-cota.com/index_top",
+    "price": "昼料金（11:30〜19:00）1時間1,300円（1ドリンク付）、延長10分150円。夜料金（19:00〜20:30）1,200円",
+    "price_level": 2,
+    "hours": "11:30〜20:30",
+    "closed": "木曜日",
+    "reservation": "推奨",
+    "features": [
+      "ドリンク込み",
+      "駅近",
+      "里親募集"
+    ],
+    "description": "西新駅から歩いてすぐの、個人経営の猫カフェ。猫は5歳で卒業する決まりがあり、卒業する猫の里親募集を公式サイトで告知している。子ども連れは第1・第3・第5日曜の10:30〜13:40のキッズデーだけ予約できる。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "公式サイト https://neko-cota.com/index_top で確認（2026-11の里親募集・イベント告知あり）。通常営業日のお子さま連れは予約不可とされている"
+  },
+  {
+    "id": "miyagi-cat-ouchi-ni-oide-sendai",
+    "name": "保護猫シェルター おうちにおいで",
+    "animals": [
+      "cat"
+    ],
+    "prefecture": "宮城県",
+    "area": "仙台駅東口",
+    "address": "宮城県仙台市宮城野区榴岡4-12-5 第一さくらビル6F",
+    "access": "JR・仙台空港アクセス線 仙台駅東口から徒歩7分",
+    "url": "https://www.outinioide.jp/",
+    "price": "1時間 平日1,200円／土日祝1,500円（ドリンク付き）、延長30分 平日600円／土日祝750円",
+    "price_level": 2,
+    "hours": "13:00〜19:00（18:00受付終了）",
+    "closed": "月曜日",
+    "reservation": "不要",
+    "features": [
+      "ドリンク込み",
+      "保護動物",
+      "里親募集",
+      "駅近"
+    ],
+    "description": "多頭飼育崩壊の現場などから保護された猫たちが暮らす、里親募集型のシェルター。家族を探す人も、飼えないけれど猫と遊びたい人も歓迎している。2026年4月に料金が改定された。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "公式サイト https://www.outinioide.jp/ （2026-03-15付の価格改定告知）で確認。予約の記載はなく推奨とした"
+  },
+  {
+    "id": "hokkaido-cat-mewkies-sapporo",
+    "name": "猫カフェ ミューキーズ",
+    "animals": [
+      "cat"
+    ],
+    "prefecture": "北海道",
+    "area": "札幌市東区",
+    "address": "北海道札幌市東区北8条東6丁目24",
+    "access": "札幌市営地下鉄東豊線 東区役所前駅4番出口から徒歩約6分",
+    "url": "https://mewkies.com/",
+    "price": "30分600円、延長15分200円（最大 平日2,500円／土日祝3,000円）。90分1,600円（1ドリンク付）",
+    "price_level": 2,
+    "hours": "11:00（平日は11:45）〜21:00（最終受付19:30）",
+    "closed": "ほぼ無休（臨時休業あり。公式トップで告知）",
+    "reservation": "不要",
+    "features": [
+      "駅近"
+    ],
+    "description": "2013年に開いた、札幌市東区の猫カフェ。滞在時間で後払いする時間制で、長く居るならお得な90分パックもある。予約は取っておらず、時間帯ごとの混み具合を公式ページで見られる。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "公式サイトの料金システム https://mewkies.com/?page_id=12 、店舗情報 https://mewkies.com/?page_id=25 、予約 https://mewkies.com/?page_id=619 で確認"
+  },
+  {
+    "id": "hokkaido-cat-neko-sun-cafe-sapporo",
+    "name": "猫SUNCAFE",
+    "animals": [
+      "cat"
+    ],
+    "prefecture": "北海道",
+    "area": "札幌市白石区・南郷7丁目",
+    "address": "北海道札幌市白石区本郷通8丁目南2-8",
+    "access": "地下鉄東西線 南郷7丁目駅3番出口から徒歩5分",
+    "url": "https://nyapan.jp/cafe/",
+    "price": "30分700円／60分1,400円、延長15分350円。平日限定フリータイム3,500円。ドリンク150円〜",
+    "price_level": 2,
+    "hours": "12:00〜19:00",
+    "closed": "木曜日（譲渡会の開催日は臨時休業）",
+    "reservation": "不要",
+    "features": [
+      "保護動物",
+      "里親募集",
+      "駅近"
+    ],
+    "description": "札幌の本郷通商店街にある保護猫カフェ。時間制の料金で、平日限定のフリータイムもある。予約は不要で、支払いは現金かPayPay、専用駐車場はない。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "公式サイト https://nyapan.jp/cafe/ と、料金ページ https://nyapan.jp/cafe/?page_id=6 に掲載されたMENU画像（2025-10掲載）から料金を読み取った。営業時間・定休日・予約は公式トップで確認"
+  },
+  {
+    "id": "kyoto-cat-noahs-ark-kyoto-aquarium-mae",
+    "name": "Cat & Animal Cafe Noah's Ark 京都水族館前店",
+    "animals": [
+      "cat",
+      "smallanimal"
+    ],
+    "prefecture": "京都府",
+    "area": "京都駅西・梅小路",
+    "address": "京都府京都市下京区上之町416番2 HOTEL SUN CHLORELLA 1F",
+    "access": "京都水族館・梅小路公園から徒歩2分",
+    "url": "https://www.purrcat.co.jp/%E4%BA%AC%E9%83%BD%E6%B0%B4%E6%97%8F%E9%A4%A8%E5%89%8D%E5%BA%97",
+    "price": "平日30分1,100円＋10分ごと330円（最大3,080円）、土日祝30分1,320円＋10分ごと385円（最大3,520円）、別途ワンドリンク385円〜",
+    "price_level": 3,
+    "hours": "10:00〜18:30（最終入店18:00）",
+    "closed": "定休日なし",
+    "reservation": "不要",
+    "features": [
+      "ふれあいOK",
+      "複数の動物"
+    ],
+    "description": "京都水族館と梅小路公園の近くにある、約20匹の猫とフェレットがいる動物カフェ。祇園店より落ち着いた雰囲気で、観光の合間にゆっくり過ごせる。サラダなどのフードは2026年1月から休止中で、再開は未定。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "公式店舗ページ https://www.purrcat.co.jp/%E4%BA%AC%E9%83%BD%E6%B0%B4%E6%97%8F%E9%A4%A8%E5%89%8D%E5%BA%97 と料金 https://www.purrcat.co.jp/system で確認。予約なしでも利用可と公式トップに記載"
   }
 ]

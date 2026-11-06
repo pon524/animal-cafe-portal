@@ -345,5 +345,33 @@
     "image": null,
     "checked": "2026-11-06",
     "source_note": "カフェページ https://mofunoie.com/%E3%81%8B%E3%81%B5%E3%81%87/ で確認。公式の更新は2026-10-26"
+  },
+  {
+    "id": "kagoshima-rabbit-usa-cafe-ribi",
+    "name": "うさカフェりび",
+    "animals": [
+      "rabbit",
+      "smallanimal"
+    ],
+    "prefecture": "鹿児島県",
+    "area": "鹿児島市・西田",
+    "address": "鹿児島県鹿児島市西田2丁目6-21 井上ビル201",
+    "access": "西田エリア",
+    "url": "https://usacafe-ribi.com/",
+    "price": "25分 平日800円／土日祝1,000円、50分 平日1,200円／土日祝1,400円（大人・税込。0〜2歳は無料）",
+    "price_level": 2,
+    "hours": "10:00〜19:00",
+    "closed": "不定休（営業日は公式の予約カレンダーで確認）",
+    "reservation": "必須",
+    "features": [
+      "ふれあいOK",
+      "予約制",
+      "子ども可",
+      "複数の動物"
+    ],
+    "description": "うさぎ、ハムスター、モルモットから好きな子を選んでふれあえる、鹿児島市の予約制カフェ。25分で1匹、50分で2匹のように時間を区切り、1日に入れる組数も限られる。うさぎ好きの友達同士や、ひとりでも周りを気にせず過ごせる。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "公式サイトのふれあいシステム https://usacafe-ribi.com/ribi/system/ 、予約ページ https://usacafe-ribi.com/reserve/ （2026-11の営業予定を掲載）、店舗情報 https://usacafe-ribi.com/ribi/access/ で確認。料金は公式ページに掲載された料金表の画像（2026-03-19改定版）から読み取った"
   }
 ]

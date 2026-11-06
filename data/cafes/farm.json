@@ -460,5 +460,227 @@
     "image": null,
     "checked": "2026-11-06",
     "source_note": "公式 https://mipig.cafe/locations/aeonlaketown/ で住所・営業時間・料金・予約を確認（店舗一覧 https://mipig.cafe/ ）"
+  },
+  {
+    "id": "tokyo-farm-alpaca-fureai-land-kagurazaka",
+    "name": "アルパカふれあいランド",
+    "animals": [
+      "farm",
+      "rabbit",
+      "smallanimal"
+    ],
+    "prefecture": "東京都",
+    "area": "神楽坂",
+    "address": "東京都新宿区岩戸町19番地 一五屋ビル102",
+    "access": "都営大江戸線 牛込神楽坂駅A3出口から徒歩1分",
+    "url": "https://alpacaland.tokyo/",
+    "price": "大人1,500円／30分（土日祝1,700円）、子ども700円（土日祝800円）、えさ500円〜別売",
+    "price_level": 2,
+    "hours": "10:00〜18:00（最終入店17:30、30分ごとの入れ替え枠）",
+    "closed": "月曜（祝日の場合は翌日）",
+    "reservation": "推奨",
+    "features": [
+      "ふれあいOK",
+      "えさやり体験",
+      "駅近",
+      "子ども可",
+      "複数の動物",
+      "貸切可"
+    ],
+    "description": "神楽坂の街なかでアルパカ2頭にえさをあげたり触れたりできる専門施設だ。ウサギやチンチラもおり、有料で散歩体験や記念撮影もできる。飲食店ではなく店内での食事は不可で、アルパカを目当てに短時間立ち寄りたい人に向く。",
+    "source_note": "公式 https://alpacaland.tokyo/ で料金・営業時間・定休日・アクセスを確認。予約は専用ページか電話で、30分枠ごとに定員10名",
+    "image": null,
+    "checked": "2026-11-06"
+  },
+  {
+    "id": "hokkaido-farm-heidi-bokujo",
+    "name": "ハイジ牧場",
+    "animals": [
+      "farm",
+      "rabbit",
+      "smallanimal"
+    ],
+    "prefecture": "北海道",
+    "area": "長沼町",
+    "address": "北海道夕張郡長沼町東9線南2番地",
+    "access": "公式ページに記載なし（来店前に確認を）。駐車場無料（約150台）",
+    "url": "https://www.heidi-farm.com/",
+    "price": "大人（中学生以上）1,200円、小人（3歳〜小学生）550円。えさやり200円、仔ヤギ哺乳600円",
+    "price_level": 2,
+    "hours": "10:00〜16:00（4月は16:00、5〜9月は17:00まで。営業期間は2026年4月11日〜11月8日）",
+    "closed": "毎週水曜（祝日は営業）。冬期は休業（2026年の営業は11月8日まで。再開は公式で確認を）",
+    "reservation": "不要",
+    "features": [
+      "ふれあいOK",
+      "えさやり体験",
+      "子ども可",
+      "複数の動物"
+    ],
+    "description": "羊やヤギ、ウシ、アルパカ、ウサギ、モルモットなどと触れ合える北海道長沼町の観光牧場だ。仔ヤギの哺乳や乳しぼり、バター作りなど体験が多い。営業は雪のない時期が中心なので、冬期の営業は公式で確認してから行きたい。",
+    "source_note": "公式 https://www.heidi-farm.com/pages/2333006/profile で営業期間・料金・定休日、/pages/2333105/page_201810191411 で住所を確認。11月9日以降の営業は公式に記載なし",
+    "image": null,
+    "checked": "2026-11-06"
+  },
+  {
+    "id": "tokyo-farm-mipig-cafe-asakusa",
+    "name": "mipig cafe 浅草店",
+    "animals": [
+      "farm"
+    ],
+    "prefecture": "東京都",
+    "area": "浅草",
+    "address": "東京都台東区浅草1-36-11 シャトーアモール2F",
+    "access": "公式ページに記載なし（来店前に確認を）",
+    "url": "https://mipig.cafe/locations/asakusa/",
+    "price": "4歳以上2,200円／25分、3,300円／55分（3歳以下1,100円）",
+    "price_level": 4,
+    "hours": "9:00〜19:00",
+    "closed": "公式ページに記載なし（予約枠で確認）",
+    "reservation": "必須",
+    "features": [
+      "ふれあいOK",
+      "子ども可",
+      "予約制"
+    ],
+    "description": "浅草にあるマイクロブタのカフェで、事前予約制だ。25分と55分の時間枠があり、ブタをなでたり抱いたりして過ごす。観光の合間に小さなブタと触れ合いたい人向けで、3歳以下は半額で入れる。",
+    "source_note": "公式 https://mipig.cafe/locations/asakusa/ で住所・営業時間・料金・予約を確認（店舗一覧 https://mipig.cafe/locations/ ）",
+    "image": null,
+    "checked": "2026-11-06"
+  },
+  {
+    "id": "tokyo-farm-mipig-cafe-harajuku",
+    "name": "mipig cafe 原宿店",
+    "animals": [
+      "farm"
+    ],
+    "prefecture": "東京都",
+    "area": "原宿",
+    "address": "東京都渋谷区神宮前1-15-4",
+    "access": "原宿駅・明治神宮前駅から徒歩約5分",
+    "url": "https://mipig.cafe/locations/harajuku/",
+    "price": "4歳以上3,300円／25分、4,950円／55分（3歳以下1,100円）。個室プランは別途550円／25分",
+    "price_level": 4,
+    "hours": "10:00〜20:00",
+    "closed": "公式ページに記載なし（予約枠で確認）",
+    "reservation": "必須",
+    "features": [
+      "ふれあいOK",
+      "子ども可",
+      "貸切可",
+      "予約制",
+      "駅近"
+    ],
+    "description": "原宿エリアにあるマイクロブタのカフェで、完全予約制だ。25分または55分の枠で、ブタと間近にふれあえる。グループで使える個室プランがあり、友人同士や家族で静かに過ごしたい人に向く。",
+    "source_note": "公式 https://mipig.cafe/locations/harajuku/ で住所・営業時間・料金・予約を確認（店舗一覧 https://mipig.cafe/locations/ ）",
+    "image": null,
+    "checked": "2026-11-06"
+  },
+  {
+    "id": "tokyo-farm-mipig-cafe-harajuku-takeshita",
+    "name": "mipig cafe 原宿竹下通り店",
+    "animals": [
+      "farm"
+    ],
+    "prefecture": "東京都",
+    "area": "原宿・竹下通り",
+    "address": "東京都渋谷区神宮前1-6-10 DEAR LIFE原宿竹下通り 1階",
+    "access": "公式ページに記載なし（竹下通り内。来店前に確認を）",
+    "url": "https://mipig.cafe/locations/harajuku-takeshita/",
+    "price": "4歳以上3,300円／25分、4,950円／55分（3歳以下1,100円）",
+    "price_level": 4,
+    "hours": "10:00〜20:00",
+    "closed": "公式ページに記載なし（予約枠で確認）",
+    "reservation": "必須",
+    "features": [
+      "ふれあいOK",
+      "子ども可",
+      "予約制"
+    ],
+    "description": "竹下通りの商業ビル1階にあるマイクロブタのカフェで、事前予約制だ。25分と55分の枠があり、観光や買い物の合間に立ち寄りやすい。ブタと間近で過ごしたい人向けである。",
+    "source_note": "公式 https://mipig.cafe/locations/harajuku-takeshita/ で住所・営業時間・料金・予約を確認（店舗一覧 https://mipig.cafe/locations/ ）",
+    "image": null,
+    "checked": "2026-11-06"
+  },
+  {
+    "id": "tokyo-farm-mipig-cafe-ikebukuro-sunshine",
+    "name": "mipig cafe 池袋サンシャインシティ店",
+    "animals": [
+      "farm"
+    ],
+    "prefecture": "東京都",
+    "area": "池袋",
+    "address": "東京都豊島区東池袋3-1-1 サンシャインシティ専門店街アルパ地下1階",
+    "access": "サンシャインシティ専門店街アルパ地下1階",
+    "url": "https://mipig.cafe/locations/ikebukuro/",
+    "price": "4歳以上1,870円／25分、2,970円／55分（3歳以下770円）。個室プランは別途",
+    "price_level": 3,
+    "hours": "10:00〜20:00",
+    "closed": "公式ページに記載なし（予約枠で確認）",
+    "reservation": "必須",
+    "features": [
+      "ふれあいOK",
+      "子ども可",
+      "貸切可",
+      "予約制"
+    ],
+    "description": "サンシャインシティ内にあるマイクロブタのカフェで、事前予約制だ。25分と55分の枠があり、個室プランも選べる。池袋での買い物や水族館めぐりの合間に、ブタとゆっくり触れ合いたい家族連れに向く。",
+    "source_note": "公式 https://mipig.cafe/locations/ikebukuro/ で住所・営業時間・料金・予約を確認（店舗一覧 https://mipig.cafe/locations/ ）",
+    "image": null,
+    "checked": "2026-11-06"
+  },
+  {
+    "id": "tokyo-farm-mipig-cafe-meguro",
+    "name": "mipig cafe 目黒店",
+    "animals": [
+      "farm"
+    ],
+    "prefecture": "東京都",
+    "area": "目黒",
+    "address": "東京都目黒区目黒4-11-3",
+    "access": "目黒駅から徒歩約15分（東急バス「元競馬場前」から徒歩1分）",
+    "url": "https://mipig.cafe/locations/meguro/",
+    "price": "4歳以上1,870円／25分、2,970円／55分（3歳以下770円）",
+    "price_level": 3,
+    "hours": "10:00〜18:00",
+    "closed": "公式ページに記載なし（予約枠で確認）",
+    "reservation": "必須",
+    "features": [
+      "ふれあいOK",
+      "子ども可",
+      "予約制"
+    ],
+    "description": "目黒駅から少し離れた住宅街にあるマイクロブタのカフェで、事前予約制だ。公式は駅からバスでの来店を勧めている。観光地の店より落ち着いており、時間をかけてブタと触れ合いたい人向けである。",
+    "source_note": "公式 https://mipig.cafe/locations/meguro/ で住所・営業時間・料金・予約を確認（店舗一覧 https://mipig.cafe/locations/ ）",
+    "image": null,
+    "checked": "2026-11-06"
+  },
+  {
+    "id": "aichi-farm-aichi-bokujo",
+    "name": "愛知牧場（どうぶつ広場）",
+    "animals": [
+      "farm",
+      "rabbit",
+      "smallanimal"
+    ],
+    "prefecture": "愛知県",
+    "area": "日進",
+    "address": "愛知県日進市米野木町南山977",
+    "access": "公式サイトに最寄駅の記載なし（車でのアクセスが中心。来店前に確認を）",
+    "url": "https://aiboku.com/",
+    "price": "どうぶつ広場入場300円（2歳以下無料）、えさ200円〜（牧場自体の入場は無料）",
+    "price_level": 1,
+    "hours": "どうぶつ広場 10:00〜16:00（16:30閉園。牧場全体は9:00〜17:00）",
+    "closed": "火曜日",
+    "reservation": "不要",
+    "features": [
+      "ふれあいOK",
+      "えさやり体験",
+      "子ども可",
+      "複数の動物"
+    ],
+    "description": "名古屋近郊の牧場で、有料のどうぶつ広場ではヒツジやヤギ、ウサギ、モルモット、マーラなどにえさをあげられる。小さな子ども連れで、手軽に動物とふれあいたい人に向く。牧場には駐車料金がかかる日がある。",
+    "source_note": "公式 https://aiboku.com/activity/animal-feeding で入場料・えさ料金、https://aiboku.com/about/hours-of-operation で営業時間・定休日・住所を確認。駐車料金は土日月祝などに有料",
+    "image": null,
+    "checked": "2026-11-06"
   }
 ]

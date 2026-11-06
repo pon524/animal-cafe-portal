@@ -1,0 +1,98 @@
+capybara.json	tokyo-capybara-cappiness-oshiage	CAPPINESS 押上店
+capybara.json	tokyo-capybara-cappiness-shinjuku	CAPPINESS 新宿店（高田馬場）
+cat.json	fukuoka-cat-mocha-aeon-chikushino	猫カフェMOCHA イオンモール筑紫野店
+cat.json	miyazaki-cat-mocha-miyazaki-tachibana	猫カフェMOCHA 宮崎橘通店
+cat.json	hyogo-cat-mocha-himeji-piole	猫カフェMOCHA ピオレ姫路店
+cat.json	okayama-cat-mocha-aeon-okayama	猫カフェMOCHA イオンモール岡山店
+cat.json	osaka-cat-mocha-umeda	猫カフェMOCHA 梅田店
+cat.json	osaka-cat-mocha-shinsaibashi	猫カフェMOCHA 心斎橋店
+cat.json	aichi-cat-mocha-aeon-nagoya-noritake	猫カフェMOCHA イオンモール Nagoya Noritake Garden店
+cat.json	aichi-cat-mocha-lalaport-nagoya-minato-aqls	猫カフェMOCHA ららぽーと名古屋みなとアクルス店
+cat.json	tokyo-cat-mocha-kichijoji	猫カフェMOCHA 吉祥寺店
+cat.json	tokyo-cat-mocha-akihabara	猫カフェMOCHA 秋葉原店
+cat.json	fukuoka-cat-coorikuya-kokura	猫喫茶 空陸家 小倉店
+cat.json	kumamoto-cat-coorikuya-carino-kikuyo	猫喫茶 空陸家 カリーノ菊陽店
+cat.json	kumamoto-cat-coorikuya-carino-tamana	猫喫茶 空陸家 カリーノ玉名店
+cat.json	kumamoto-cat-coorikuya-uto-citymall	猫喫茶 空陸家 宇土シティモール店
+cat.json	hokkaido-cat-coorikuya-hakodate	猫喫茶 空陸家 函館店
+cat.json	niigata-cat-coorikuya-niigata-higashi	猫喫茶 空陸家 新潟東店
+cat.json	osaka-cat-coorikuya-plus-tennoji	猫喫茶 空陸家plus 天王寺店
+cat.json	osaka-cat-coorikuya-shinsaibashi	猫喫茶 空陸家 心斎橋店
+cat.json	hokkaido-cat-puchi-marry-lasora-sapporo	猫カフェ Puchi Marry ラソラ札幌店
+cat.json	aichi-cat-puchi-marry-nagoya-osu	猫カフェ Puchi Marry 名古屋大須店
+cat.json	ibaraki-cat-puchi-marry-aeon-tsukuba	猫カフェ Puchi Marry イオンモールつくば店
+cat.json	toyama-cat-puchi-marry-aeon-takaoka	猫カフェ Puchi Marry イオンモール高岡店
+cat.json	ishikawa-cat-puchi-marry-aeon-kahoku	猫カフェ Puchi Marry イオンモールかほく店
+cat.json	miyagi-cat-nonnon-the-mall-sendai-nagamachi	キャットラウンジ nonnon ザ・モール仙台長町店
+cat.json	iwate-cat-nonnon-aeon-morioka-minami	キャットラウンジ nonnon 盛岡南店
+cat.json	fukuoka-cat-cota-nishijin	猫カフェ cota
+cat.json	miyagi-cat-ouchi-ni-oide-sendai	保護猫シェルター おうちにおいで
+cat.json	hokkaido-cat-mewkies-sapporo	猫カフェ ミューキーズ
+cat.json	hokkaido-cat-neko-sun-cafe-sapporo	猫SUNCAFE
+cat.json	kyoto-cat-noahs-ark-kyoto-aquarium-mae	Cat & Animal Cafe Noah's Ark 京都水族館前店
+dog.json	osaka-dog-mameshiba-cafe-osaka	豆柴カフェ 大阪店
+dog.json	tokyo-dog-asakusa-mameshiba-cafe	浅草の豆柴カフェ
+dog.json	osaka-dog-dog-cafe-moff-lalaport-sakai	Dog Café MOFF ららぽーと堺店
+dog.json	aichi-dog-samoyed-cafe-al-nagoya-sakae	サモエドカフェ アル 名古屋栄店
+dog.json	tokyo-dog-cho-samoyed-harajuku	超！サモエド 原宿店
+dog.json	osaka-dog-cho-samoyed-tsutenkaku	超！サモエド 通天閣店
+dog.json	aichi-dog-smileland-osu	大型犬SMILELAND
+dog.json	aichi-dog-rio-tokoname	いぬカフェRio 常滑店
+dog.json	miyagi-dog-rio-sendai	いぬカフェRio 仙台店
+dog.json	kyoto-dog-rio-kyoto	いぬカフェRio 京都店
+dog.json	osaka-dog-rio-chayamachi	いぬカフェRio 茶屋町店
+dog.json	hiroshima-dog-rio-hiroshima	いぬカフェRio 広島店
+dog.json	fukuoka-dog-rio-fukuoka	いぬカフェRio 福岡店
+dog.json	miyazaki-dog-rio-miyazaki	いぬカフェRio 宮崎店
+dog.json	kumamoto-dog-rio-yumetown-hikarinomori	いぬねこカフェRio ゆめタウン光の森店
+dog.json	oita-dog-rio-oita	いぬカフェRio 大分店
+dog.json	tokyo-dog-rio-harajuku	いぬカフェRio 原宿店
+dog.json	tokyo-dog-rio-akihabara	いぬカフェRio 秋葉原店
+dog.json	tokyo-dog-rio-shin-okubo	いぬカフェRio 新大久保店
+dog.json	tokyo-dog-rio-shimokitazawa	いぬカフェRio 下北沢店
+dog.json	tokyo-dog-rio-kichijoji	いぬカフェRio 吉祥寺店
+dog.json	tokyo-dog-rio-shinjuku	いぬカフェRio 新宿店
+dog.json	tokyo-dog-rio-asakusa	いぬカフェRio 浅草店
+dog.json	tokyo-dog-rio-ikebukuro	いぬカフェRio 池袋店
+dog.json	kanagawa-dog-rio-kamakura-komachi	いぬカフェRio 鎌倉小町通り店
+dog.json	saitama-dog-rio-lalaport-fujimi	いぬカフェRio 富士見店
+dog.json	hiroshima-dog-rio-yumetown-hatsukaichi	いぬカフェRio 廿日市店
+dog.json	saga-dog-rio-yumetown-saga	いぬカフェRio 佐賀店
+dog.json	fukuoka-dog-rio-yumetown-kurume	いぬカフェRio 久留米店
+dog.json	okinawa-dog-rio-chatan	いぬカフェRio 沖縄北谷店
+farm.json	tokyo-farm-alpaca-fureai-land-kagurazaka	アルパカふれあいランド
+farm.json	hokkaido-farm-viva-alpaca-bokujo	ビバアルパカ牧場
+farm.json	hokkaido-farm-heidi-bokujo	ハイジ牧場
+farm.json	tokyo-farm-mipig-cafe-asakusa	mipig cafe 浅草店
+farm.json	tokyo-farm-mipig-cafe-harajuku	mipig cafe 原宿店
+farm.json	tokyo-farm-mipig-cafe-harajuku-takeshita	mipig cafe 原宿竹下通り店
+farm.json	tokyo-farm-mipig-cafe-ikebukuro-sunshine	mipig cafe 池袋サンシャインシティ店
+farm.json	tokyo-farm-mipig-cafe-meguro	mipig cafe 目黒店
+farm.json	aichi-farm-aichi-bokujo	愛知牧場（どうぶつ広場）
+other.json	tokyo-other-animeal-odaiba	動物たちが暮らす森 アニミル お台場店
+other.json	tokyo-other-anitouch-kichijoji	アニタッチ 吉祥寺
+other.json	tokyo-other-anitouch-tokyo-dome-city	アニタッチ 東京ドームシティ
+other.json	fukuoka-other-torius-fureai-zoo	トリアスふれあい動物園
+other.json	aichi-other-champagne-house-toyokawa	シャンパンハウス
+other.json	osaka-other-tempozan-anipa	天保山アニパ
+other.json	kyoto-other-luff-kyotanabe	動物ふれあい Luff（ラフ）
+other.json	osaka-other-rare-zoo-shinsaibashi	Rare ZOO（レアズー）心斎橋
+other.json	chiba-other-kabazoo-kashiwa	KABAZOO（カバズー）セブンパークアリオ柏店
+other.json	ibaraki-other-kasumigaura-doubutsu-to-minna-no-ie	霞ケ浦 どうぶつとみんなのいえ
+other.json	ishikawa-other-animal-cafe-hyakki-yako	Animal Café 百奇夜行
+otter.json	osaka-otter-loutre-sennichimae	LOUTRE（ルートル）大阪千日前店
+owl.json	osaka-owl-raptorland-shovel-namba	猛禽類カフェ raptorland Shovel（ラプターランド シャベル）
+owl.json	chiba-owl-fukurou-no-shiro-kimitsu	しあわせをよぶふくろうの城 君津店
+rabbit.json	kagoshima-rabbit-usa-cafe-ribi	うさカフェりび
+reptile.json	nara-reptile-nara-ikimono-museum	NARA IKIMONO MUSEUM（奈良いきものミュージアム）
+reptile.json	hiroshima-reptile-repl-yagi	爬虫類＆アクアリウムカフェ RePL（レプル）
+smallanimal.json	tokyo-smallanimal-moff-animal-cafe-lalaport-tachikawa-tachihi	Moff animal cafe ららぽーと立川立飛店
+smallanimal.json	tokyo-smallanimal-moff-animal-cafe-cute-cube-harajuku	Moff animal cafe CUTE CUBE 原宿店
+smallanimal.json	okayama-smallanimal-garamomo-cafe-kurashiki	GaraMomoCAFE（ガラモモカフェ）
+smallanimal.json	tokyo-smallanimal-chipmunk-cafe-kameido	シマリスカフェ アースのおみせ
+smallanimal.json	gunma-smallanimal-marshmallow-panda-maebashi	アニマルカフェ＆ショップ マシュマロパンダ
+smallanimal.json	nara-smallanimal-hanahana-nara	小動物カフェ はなはな
+smallanimal.json	hyogo-smallanimal-anipon-world-suma	アニPONワールド
+smallanimal.json	osaka-smallanimal-animalcafe-fuleca-fukushima	animalcafe fuleca 福島店
+smallanimal.json	tokyo-smallanimal-kawaii-land-kyunkyun-harajuku	原宿かわいいランド キュンキュン
+other.json	ishikawa-other-animal-cafe-hyakki-yako	Animal Café 百奇夜行

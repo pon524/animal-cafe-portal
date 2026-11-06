@@ -327,5 +327,33 @@
     "image": null,
     "checked": "2026-11-06",
     "source_note": "公式 https://www.countryowl.co/ 、料金 https://www.countryowl.co/blank-1 、アクセス https://www.countryowl.co/blank-6 で確認。予約は電話などで受付、必須の記載はないため推奨とした。公式サイトのお知らせに2026年4月の更新あり（営業中の根拠）"
+  },
+  {
+    "id": "hiroshima-reptile-repl-yagi",
+    "name": "爬虫類＆アクアリウムカフェ RePL（レプル）",
+    "animals": [
+      "reptile"
+    ],
+    "prefecture": "広島県",
+    "area": "安佐南（八木）",
+    "address": "広島県広島市安佐南区八木8丁目13-1 コンビデンス西本102",
+    "access": "JR可部線「上八木駅」の目の前",
+    "url": "https://repl-tea.shop/",
+    "price": "ふれあい30分 大人1,600円／子ども1,200円、60分 大人2,700円／子ども2,100円（ドリンクは持ち込み可で店内販売なし）",
+    "price_level": 3,
+    "hours": "公式ページに時間帯の記載なし（昼・夜の営業、夜は予約制）",
+    "closed": "公式ページに記載なし（来店前に確認を）",
+    "reservation": "推奨",
+    "features": [
+      "ふれあいOK",
+      "えさやり体験",
+      "駅近",
+      "子ども可",
+      "写真OK"
+    ],
+    "description": "ヘビ、トカゲ、ヤモリなど約40匹から好きな子を選んで触れ合える爬虫類カフェで、ヘビを首に巻いての撮影やエサやり体験もできる。時間制で、ドリンクは持ち込む形になる。2026年に移転して再開した。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "公式 https://repl-tea.shop/ （2026-11-03更新）、料金 https://repl-tea.shop/?page_id=680 （画像の料金表を目視で転記）、アクセス https://repl-tea.shop/?page_id=38 で確認"
   }
 ]

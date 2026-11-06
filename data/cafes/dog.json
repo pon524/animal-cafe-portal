@@ -110,7 +110,7 @@
     ],
     "prefecture": "京都府",
     "area": "新京極・河原町",
-    "address": "京都府京都市中京区東大文字町308番地 ゑり正ビル1階",
+    "address": "京都府京都市中京区寺町通東大文字町380番地",
     "access": "新京極通りから徒歩1分",
     "url": "https://owls-cats-forest.com/free/mameshiba-kyoto",
     "price": "大人（13歳以上）1,300円／小人（4〜12歳）800円（ワンドリンク付き）",
@@ -127,7 +127,7 @@
     "description": "京都の繁華街・新京極にある、小さな豆柴と触れ合えるカフェ。チケットは当日分を店頭で販売するのみで、予約はできない。完売すると入れないので、観光客は早めの来店が安心。",
     "image": null,
     "checked": "2026-11-06",
-    "source_note": "公式店舗ページ https://owls-cats-forest.com/free/mameshiba-kyoto で確認"
+    "source_note": "公式店舗ページ https://owls-cats-forest.com/free/mameshiba-kyoto で確認。2026-07-06 の公式お知らせ（https://owls-cats-forest.com/info/6830176 ）で移転後の住所を確認（店舗ページの住所欄は旧表記のまま）"
   },
   {
     "id": "okayama-dog-mameshiba-cafe-kurashiki",
@@ -892,5 +892,755 @@
     "image": null,
     "checked": "2026-11-06",
     "source_note": "店舗ページ https://wan-time.jp/store/anella-cafe-hitachi/ で確認。猫の頭数は公式ページに記載なし"
+  },
+  {
+    "id": "osaka-dog-mameshiba-cafe-osaka",
+    "name": "豆柴カフェ 大阪店",
+    "animals": [
+      "dog"
+    ],
+    "prefecture": "大阪府",
+    "area": "道頓堀",
+    "address": "大阪府大阪市中央区道頓堀1丁目6-13 雛ビル（受付2階、豆柴カフェは4階）",
+    "access": "道頓堀エリア",
+    "url": "https://owls-cats-forest.com/free/mameshiba-osaka",
+    "price": "大人（13歳以上）1,300円、小人（4〜12歳）800円（ワンドリンク付）。フクロウの森との共通券あり",
+    "price_level": 2,
+    "hours": "11:30〜17:30（最終入場は閉店30分前。変動あり）",
+    "closed": "公式ページに記載なし（来店前に確認を）",
+    "reservation": "不要",
+    "features": [
+      "ふれあいOK",
+      "ドリンク込み",
+      "子ども可",
+      "写真OK"
+    ],
+    "description": "道頓堀のビル4階にある、豆柴とふれあえるカフェ。入場料にドリンクが付き、フラッシュなしなら撮影もできる。予約はなく当日の店頭チケット制で売り切れると入れず、4歳未満は入場不可。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "公式ページ https://owls-cats-forest.com/free/mameshiba-osaka で確認"
+  },
+  {
+    "id": "tokyo-dog-asakusa-mameshiba-cafe",
+    "name": "浅草の豆柴カフェ",
+    "animals": [
+      "dog"
+    ],
+    "prefecture": "東京都",
+    "area": "浅草",
+    "address": "東京都台東区浅草1-29-3",
+    "access": "浅草エリア",
+    "url": "https://owls-cats-forest.com/free/mameshiba-asakusa",
+    "price": "大人（13歳以上）1,300円、小人（4〜12歳）800円（ワンドリンク付）",
+    "price_level": 2,
+    "hours": "平日11:00〜18:00／土日祝11:00〜18:40（最終入場は閉店40分前。変動あり）",
+    "closed": "公式ページに記載なし（来店前に確認を）",
+    "reservation": "不要",
+    "features": [
+      "ふれあいOK",
+      "ドリンク込み",
+      "子ども可",
+      "写真OK"
+    ],
+    "description": "浅草寺の近くにある豆柴カフェで、原宿店より広いつくりだという。ドリンク付きの入場料で、当日の店頭チケットのみ。観光の途中に立ち寄る人が多く、4歳未満は入場できない。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "公式ページ https://owls-cats-forest.com/free/mameshiba-asakusa で確認"
+  },
+  {
+    "id": "osaka-dog-dog-cafe-moff-lalaport-sakai",
+    "name": "Dog Café MOFF ららぽーと堺店",
+    "animals": [
+      "dog"
+    ],
+    "prefecture": "大阪府",
+    "area": "堺市美原区",
+    "address": "大阪府堺市美原区黒山22番1 ららぽーと堺 1F",
+    "access": "南海高野線 初芝駅からバスで約20分",
+    "url": "https://moff-moff.jp/dog-cafe/sakai-lalaport/",
+    "price": "入園料30分700円、延長10分250円（最大 平日1,900円／土日祝2,900円）。ドリンクバー380円が別に必要（税込）。3歳以下は無料",
+    "price_level": 2,
+    "hours": "10:00〜20:00（最終入園19:30。混雑時は完全入れ替え制）",
+    "closed": "ららぽーと堺の定休日に準ずる",
+    "reservation": "不要",
+    "features": [
+      "ふれあいOK",
+      "子ども可"
+    ],
+    "description": "2026年7月に開いた、Dog Café MOFFの第1号店。ガラス張りの明るい屋内パークで、コーギーやプードル、ラブラドルなど約20頭が紹介されている。予約は不要で、抱っこはできない。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "店舗ページ https://moff-moff.jp/dog-cafe/sakai-lalaport/ で確認（2026-07-16 開店の告知あり）"
+  },
+  {
+    "id": "aichi-dog-samoyed-cafe-al-nagoya-sakae",
+    "name": "サモエドカフェ アル 名古屋栄店",
+    "animals": [
+      "dog"
+    ],
+    "prefecture": "愛知県",
+    "area": "栄",
+    "address": "愛知県名古屋市中区栄2丁目15-9 モリシマビル1階",
+    "access": "栄エリア",
+    "url": "https://samoyed.jp/nagoyasakae",
+    "price": "50分 平日2,600円（事前予約・事前決済）／3,200円（予約なし）、土日祝3,600円／3,900円（税込）",
+    "price_level": 3,
+    "hours": "10:00〜19:00",
+    "closed": "公式ページに記載なし（来店前に確認を）",
+    "reservation": "推奨",
+    "features": [
+      "ふれあいOK",
+      "貸切可",
+      "写真OK"
+    ],
+    "description": "名古屋の栄にある、白いサモエドとふれあえる犬カフェ。事前予約・事前決済のほうが安く、予約なしだと割高になる。支払いはカード類が中心で、現金は使えない。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "公式店舗ページ https://samoyed.jp/nagoyasakae で確認（表示は描画後の本文）"
+  },
+  {
+    "id": "tokyo-dog-cho-samoyed-harajuku",
+    "name": "超！サモエド 原宿店",
+    "animals": [
+      "dog"
+    ],
+    "prefecture": "東京都",
+    "area": "原宿",
+    "address": "東京都渋谷区神宮前1-16-2 竹下館高松ビル2F",
+    "access": "原宿エリア",
+    "url": "https://cho-samoyed.jp/harajuku",
+    "price": "50分 平日3,200円（事前予約）／3,500円（予約なし）、土日祝3,800円／4,200円（税込。チェキかおやつと交換できるコイン2枚付き）",
+    "price_level": 4,
+    "hours": "10:00〜19:00",
+    "closed": "公式ページに記載なし（来店前に確認を）",
+    "reservation": "推奨",
+    "features": [
+      "ふれあいOK",
+      "貸切可",
+      "写真OK"
+    ],
+    "description": "原宿の竹下通り近くにあるサモエドカフェ。ふれあいのほか、竹下通りや代々木公園を犬と歩く散歩プランがある。抱っこは不可で、入店条件は公式サイトで確認したい。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "公式店舗ページ https://cho-samoyed.jp/harajuku で確認（表示は描画後の本文）"
+  },
+  {
+    "id": "osaka-dog-cho-samoyed-tsutenkaku",
+    "name": "超！サモエド 通天閣店",
+    "animals": [
+      "dog"
+    ],
+    "prefecture": "大阪府",
+    "area": "新世界・通天閣",
+    "address": "大阪府大阪市浪速区恵美須東1-13-12 通天閣ビル2・3階",
+    "access": "通天閣エリア",
+    "url": "https://cho-samoyed.jp/tsutenkaku",
+    "price": "50分 平日2,500円（事前予約）／2,900円（予約なし）、土日祝2,900円／3,200円（税込。チェキかおやつと交換できるコイン1枚付き）",
+    "price_level": 3,
+    "hours": "10:00〜19:00",
+    "closed": "公式ページに記載なし（来店前に確認を）",
+    "reservation": "推奨",
+    "features": [
+      "ふれあいOK",
+      "写真OK"
+    ],
+    "description": "通天閣のビル内にあるサモエドカフェ。ふれあいのほかに、お揃いのはっぴで犬と歩く散歩プランや、冬期を除く人力車の特別プランがある。大阪観光とあわせて寄る人向け。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "公式店舗ページ https://cho-samoyed.jp/tsutenkaku で確認（表示は描画後の本文）"
+  },
+  {
+    "id": "aichi-dog-smileland-osu",
+    "name": "大型犬SMILELAND",
+    "animals": [
+      "dog"
+    ],
+    "prefecture": "愛知県",
+    "area": "大須",
+    "address": "愛知県名古屋市中区大須3丁目24番43号 大須セントラルスクエア2階",
+    "access": "地下鉄名城線・鶴舞線 上前津駅から徒歩約4〜7分／鶴舞線 大須観音駅から徒歩約5〜7分",
+    "url": "https://smile-samoyed.com/",
+    "price": "45分 平日2,600円／土日祝3,000円（事前予約の料金・税込）",
+    "price_level": 3,
+    "hours": "月〜金10:00〜20:00／土日9:00〜20:00",
+    "closed": "なし（年末年始を除く）",
+    "reservation": "推奨",
+    "features": [
+      "ふれあいOK",
+      "写真OK"
+    ],
+    "description": "大須にある、サモエドを中心に20頭以上の大型犬が暮らす犬カフェ。おもちゃで遊んだり写真を撮ったり、散歩に出たりして過ごせる。料金は事前予約が前提で、土日は朝9時から開く。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "公式サイト https://smile-samoyed.com/ と料金ページ https://smile-samoyed.com/about で確認（表示は描画後の本文）。2026-02登録の新しい店"
+  },
+  {
+    "id": "aichi-dog-rio-tokoname",
+    "name": "いぬカフェRio 常滑店",
+    "animals": [
+      "dog",
+      "cat"
+    ],
+    "prefecture": "愛知県",
+    "area": "常滑市",
+    "address": "愛知県常滑市りんくう町2丁目20番3 イオンモール常滑1階",
+    "access": "名鉄空港線 りんくう常滑駅から徒歩5分",
+    "url": "https://rio-corp.jp/shops/tokoname/",
+    "price": "平日10分220円／土日祝10分250円（税込）。ドリンク飲み放題は425円（別料金）",
+    "price_level": 2,
+    "hours": "10:00〜20:00",
+    "closed": "公式ページに記載なし（来店前に確認を）",
+    "reservation": "不要",
+    "features": [
+      "ふれあいOK",
+      "複数の動物",
+      "駅近"
+    ],
+    "description": "常滑市のイオンモール1階にある、小型犬と猫がいるふれあいカフェ。マルチーズやチワワ、プードルなど犬は約20頭、猫もいる。10分から入れて予約は要らない。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "店舗ページ https://rio-corp.jp/shops/tokoname/ で確認。店舗ページのお知らせ欄に「予約無しで最短10分から」との記載があり、予約は不要とした"
+  },
+  {
+    "id": "miyagi-dog-rio-sendai",
+    "name": "いぬカフェRio 仙台店",
+    "animals": [
+      "dog"
+    ],
+    "prefecture": "宮城県",
+    "area": "仙台市青葉区・一番町",
+    "address": "宮城県仙台市青葉区一番町3-1-24 山一商店ビル地下1階",
+    "access": "JR仙台駅西口から徒歩8分",
+    "url": "https://rio-corp.jp/shops/sendai/",
+    "price": "平日10分220円／土日祝10分250円（税込）。ドリンク飲み放題は385円（別料金）",
+    "price_level": 2,
+    "hours": "11:00〜20:00",
+    "closed": "公式ページに記載なし（来店前に確認を）",
+    "reservation": "不要",
+    "features": [
+      "ふれあいOK"
+    ],
+    "description": "仙台の一番町、ビルの地下1階にある小型犬中心のふれあいカフェ。10分単位の料金で、予約不要でふらりと入れる。仙台駅から歩ける距離だ。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "店舗ページ https://rio-corp.jp/shops/sendai/ で確認。店舗ページのお知らせ欄に「予約不要」との記載があり、不要とした"
+  },
+  {
+    "id": "kyoto-dog-rio-kyoto",
+    "name": "いぬカフェRio 京都店",
+    "animals": [
+      "dog"
+    ],
+    "prefecture": "京都府",
+    "area": "京都河原町",
+    "address": "京都府京都市中京区新京極通三条下る桜之町398 SMJ三条共同ビル2階",
+    "access": "京都河原町駅9番出口から徒歩7分",
+    "url": "https://rio-corp.jp/shops/kyoto/",
+    "price": "平日10分250円／土日祝10分300円（税込）。ドリンク飲み放題は425円（別料金）",
+    "price_level": 2,
+    "hours": "11:00〜20:00",
+    "closed": "公式ページに記載なし（来店前に確認を）",
+    "reservation": "不要",
+    "features": [
+      "ふれあいOK"
+    ],
+    "description": "新京極の近く、ビル2階にある小型犬のふれあいカフェ。10分から利用でき、予約不要で入れる。観光の合間に短く犬と遊びたい人に向く。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "店舗ページ https://rio-corp.jp/shops/kyoto/ で確認。店舗ページのお知らせ欄に「予約不要」との記載があり、不要とした"
+  },
+  {
+    "id": "osaka-dog-rio-chayamachi",
+    "name": "いぬカフェRio 茶屋町店",
+    "animals": [
+      "dog"
+    ],
+    "prefecture": "大阪府",
+    "area": "梅田・茶屋町",
+    "address": "大阪府大阪市北区茶屋町4-13",
+    "access": "阪急大阪梅田駅から徒歩5分",
+    "url": "https://rio-corp.jp/shops/chayamachi/",
+    "price": "平日10分250円／土日祝10分300円（税込）。ドリンク飲み放題は425円（別料金）",
+    "price_level": 2,
+    "hours": "11:00〜20:00",
+    "closed": "公式ページに記載なし（来店前に確認を）",
+    "reservation": "不要",
+    "features": [
+      "ふれあいOK",
+      "駅近"
+    ],
+    "description": "梅田の茶屋町にある、小型犬のふれあいカフェ。10分単位で時間を決められ、ドリンクは飲み放題を追加できる。梅田での買い物の合間にも寄れる。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "店舗ページ https://rio-corp.jp/shops/chayamachi/ で確認。予約の記載はなく推奨とした"
+  },
+  {
+    "id": "hiroshima-dog-rio-hiroshima",
+    "name": "いぬカフェRio 広島店",
+    "animals": [
+      "dog"
+    ],
+    "prefecture": "広島県",
+    "area": "広島市南区・皆実町",
+    "address": "広島県広島市南区皆実町2丁目8-17 ゆめタウン広島1階",
+    "access": "広島電鉄 皆実町六丁目駅から徒歩5分",
+    "url": "https://rio-corp.jp/shops/hiroshima/",
+    "price": "平日10分220円／土日祝10分250円（税込）。ドリンク飲み放題は385円（別料金）",
+    "price_level": 2,
+    "hours": "10:00〜20:00",
+    "closed": "公式ページに記載なし（来店前に確認を）",
+    "reservation": "不要",
+    "features": [
+      "ふれあいOK",
+      "駅近"
+    ],
+    "description": "ゆめタウン広島1階にある、小型犬を中心としたふれあいカフェ。10分から使え、買い物のついでに犬とふれあえる。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "店舗ページ https://rio-corp.jp/shops/hiroshima/ で確認。予約の記載はなく推奨とした"
+  },
+  {
+    "id": "fukuoka-dog-rio-fukuoka",
+    "name": "いぬカフェRio 福岡店",
+    "animals": [
+      "dog"
+    ],
+    "prefecture": "福岡県",
+    "area": "糟屋郡粕屋町",
+    "address": "福岡県糟屋郡粕屋町大字酒殿字老ノ木192-1 イオンモール福岡1階",
+    "access": "酒殿駅から徒歩12分",
+    "url": "https://rio-corp.jp/shops/fukuoka/",
+    "price": "平日10分220円／土日祝10分250円（税込）。ドリンク飲み放題は385円（別料金）",
+    "price_level": 2,
+    "hours": "10:00〜20:00",
+    "closed": "公式ページに記載なし（来店前に確認を）",
+    "reservation": "不要",
+    "features": [
+      "ふれあいOK"
+    ],
+    "description": "福岡市の東隣、粕屋町のイオンモール1階にある小型犬のふれあいカフェ。10分から入れる時間制で、車で来る家族連れにも合う。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "店舗ページ https://rio-corp.jp/shops/fukuoka/ で確認。予約の記載はなく推奨とした"
+  },
+  {
+    "id": "miyazaki-dog-rio-miyazaki",
+    "name": "いぬカフェRio 宮崎店",
+    "animals": [
+      "dog"
+    ],
+    "prefecture": "宮崎県",
+    "area": "宮崎市",
+    "address": "宮崎県宮崎市新別府町江口862-1 イオンモール宮崎サウスモール2階",
+    "access": "宮崎駅大和口・イオンモール北口からバスで12分",
+    "url": "https://rio-corp.jp/shops/miyazaki/",
+    "price": "平日10分220円／土日祝10分250円（税込）。ドリンク飲み放題は385円（別料金）",
+    "price_level": 2,
+    "hours": "10:00〜20:00",
+    "closed": "公式ページに記載なし（来店前に確認を）",
+    "reservation": "不要",
+    "features": [
+      "ふれあいOK"
+    ],
+    "description": "宮崎市のイオンモール2階にある、小型犬のふれあいカフェ。10分単位で使えるので、買い物の合間に犬と遊ぶ使い方ができる。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "店舗ページ https://rio-corp.jp/shops/miyazaki/ で確認。予約の記載はなく推奨とした"
+  },
+  {
+    "id": "kumamoto-dog-rio-yumetown-hikarinomori",
+    "name": "いぬねこカフェRio ゆめタウン光の森店",
+    "animals": [
+      "dog",
+      "cat"
+    ],
+    "prefecture": "熊本県",
+    "area": "菊陽町・光の森",
+    "address": "熊本県菊池郡菊陽町光の森7丁目33番地1 ゆめタウン光の森 南館1階",
+    "access": "光の森駅から徒歩5分",
+    "url": "https://rio-corp.jp/shops/kumamoto/",
+    "price": "平日10分220円／土日祝10分250円（税込）。ドリンク飲み放題は385円（別料金）",
+    "price_level": 2,
+    "hours": "10:00〜20:00",
+    "closed": "公式ページに記載なし（来店前に確認を）",
+    "reservation": "不要",
+    "features": [
+      "ふれあいOK",
+      "複数の動物",
+      "駅近"
+    ],
+    "description": "ゆめタウン光の森の南館1階にある、犬と猫の両方がいるふれあいカフェ。公式のキャスト一覧には犬のほか多くの猫が載っている。10分単位で使え、どちらも好きな人向け。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "店舗ページ https://rio-corp.jp/shops/kumamoto/ で確認。予約の記載はなく推奨とした"
+  },
+  {
+    "id": "oita-dog-rio-oita",
+    "name": "いぬカフェRio 大分店",
+    "animals": [
+      "dog"
+    ],
+    "prefecture": "大分県",
+    "area": "大分市",
+    "address": "大分県大分市公園通り西2丁目1 パークプレイス大分 ガーデンウォーク3階",
+    "access": "大分駅から車で20分",
+    "url": "https://rio-corp.jp/shops/oita/",
+    "price": "平日10分220円／土日祝10分220円（税込）。ドリンク飲み放題は385円（別料金）",
+    "price_level": 2,
+    "hours": "10:00〜20:00",
+    "closed": "公式ページに記載なし（来店前に確認を）",
+    "reservation": "不要",
+    "features": [
+      "ふれあいOK"
+    ],
+    "description": "大分市のパークプレイス大分、ガーデンウォーク3階にある小型犬のふれあいカフェ。平日と土日祝で10分の料金が同じなのが特徴。車での来店が中心になる。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "店舗ページ https://rio-corp.jp/shops/oita/ で確認。予約の記載はなく推奨とした"
+  },
+  {
+    "id": "tokyo-dog-rio-harajuku",
+    "name": "いぬカフェRio 原宿店",
+    "animals": [
+      "dog"
+    ],
+    "prefecture": "東京都",
+    "area": "原宿",
+    "address": "東京都渋谷区神宮前1-16-1 原宿関口ビル2F",
+    "access": "JR原宿駅 竹下口から徒歩2分",
+    "url": "https://rio-corp.jp/shops/harajuku/",
+    "price": "平日10分270円／土日祝10分370円（税込）。ドリンク飲み放題は425円（別料金）",
+    "price_level": 2,
+    "hours": "平日11:00〜20:00／休日10:00〜20:00",
+    "closed": "公式ページに記載なし（来店前に確認を）",
+    "reservation": "不要",
+    "features": [
+      "ふれあいOK",
+      "駅近"
+    ],
+    "description": "原宿駅の竹下口から歩いてすぐの、ビル2階にある小型犬のふれあいカフェ。豆柴やシャルティーなど若い犬もいる。10分単位で使えるので、竹下通りの散策の合間に寄りやすい。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "店舗ページ https://rio-corp.jp/shops/harajuku/ で確認。予約の記載はなく推奨とした"
+  },
+  {
+    "id": "tokyo-dog-rio-akihabara",
+    "name": "いぬカフェRio 秋葉原店",
+    "animals": [
+      "dog"
+    ],
+    "prefecture": "東京都",
+    "area": "秋葉原",
+    "address": "東京都千代田区外神田4丁目4番2号 HULIC&New AKIHABARA 3階",
+    "access": "JR秋葉原駅 電気街口から徒歩5分",
+    "url": "https://rio-corp.jp/shops/akihabara/",
+    "price": "平日10分270円／土日祝10分370円（税込）。ドリンク飲み放題は425円（別料金）",
+    "price_level": 2,
+    "hours": "11:00〜20:00",
+    "closed": "公式ページに記載なし（来店前に確認を）",
+    "reservation": "不要",
+    "features": [
+      "ふれあいOK",
+      "駅近"
+    ],
+    "description": "秋葉原の複合ビル3階にある、小型犬を中心としたふれあいカフェ。10分から入れる時間制で、ドリンク飲み放題を追加できる。街歩きの途中に犬と遊びたい人向け。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "店舗ページ https://rio-corp.jp/shops/akihabara/ で確認。予約の記載はなく推奨とした"
+  },
+  {
+    "id": "tokyo-dog-rio-shin-okubo",
+    "name": "いぬカフェRio 新大久保店",
+    "animals": [
+      "dog"
+    ],
+    "prefecture": "東京都",
+    "area": "新大久保",
+    "address": "東京都新宿区大久保2-32-4 貴志ビル3F・4F",
+    "access": "JR新大久保駅から徒歩5分",
+    "url": "https://rio-corp.jp/shops/shin-okubo/",
+    "price": "平日10分270円／土日祝10分370円（税込）。ドリンク飲み放題は425円（別料金）",
+    "price_level": 2,
+    "hours": "平日11:00〜20:00／休日10:00〜20:00",
+    "closed": "公式ページに記載なし（来店前に確認を）",
+    "reservation": "不要",
+    "features": [
+      "ふれあいOK",
+      "駅近"
+    ],
+    "description": "新大久保の街なか、ビルの3・4階にあるふれあいカフェ。10分単位の料金で、短時間だけの利用もできる。コリアンタウン歩きとあわせて立ち寄る人にも合う。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "店舗ページ https://rio-corp.jp/shops/shin-okubo/ で確認。予約の記載はなく推奨とした"
+  },
+  {
+    "id": "tokyo-dog-rio-shimokitazawa",
+    "name": "いぬカフェRio 下北沢店",
+    "animals": [
+      "dog"
+    ],
+    "prefecture": "東京都",
+    "area": "下北沢",
+    "address": "東京都世田谷区北沢2-15-16 シャイン北沢ビル3F",
+    "access": "下北沢駅 南西口から徒歩3分",
+    "url": "https://rio-corp.jp/shops/shimokitazawa/",
+    "price": "平日10分250円／土日祝10分300円（税込）。ドリンク飲み放題は425円（別料金）",
+    "price_level": 2,
+    "hours": "11:00〜20:00",
+    "closed": "公式ページに記載なし（来店前に確認を）",
+    "reservation": "不要",
+    "features": [
+      "ふれあいOK",
+      "駅近"
+    ],
+    "description": "下北沢駅の南西口から近い、ビル3階の小型犬ふれあいカフェ。古着屋や喫茶店を回る合間に、10分から犬と過ごせる。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "店舗ページ https://rio-corp.jp/shops/shimokitazawa/ で確認。予約の記載はなく推奨とした"
+  },
+  {
+    "id": "tokyo-dog-rio-kichijoji",
+    "name": "いぬカフェRio 吉祥寺店",
+    "animals": [
+      "dog"
+    ],
+    "prefecture": "東京都",
+    "area": "吉祥寺",
+    "address": "東京都武蔵野市吉祥寺本町1丁目14-3 地下1階",
+    "access": "JR吉祥寺駅 北口から徒歩2分",
+    "url": "https://rio-corp.jp/shops/kichijoji/",
+    "price": "平日10分250円／土日祝10分300円（税込）。ドリンク飲み放題は425円（別料金）",
+    "price_level": 2,
+    "hours": "11:00〜20:00",
+    "closed": "公式ページに記載なし（来店前に確認を）",
+    "reservation": "不要",
+    "features": [
+      "ふれあいOK",
+      "駅近"
+    ],
+    "description": "吉祥寺駅の北口すぐ、地下1階にある小型犬のふれあいカフェ。10分単位で使え、散歩や買い物の途中に寄りやすい。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "店舗ページ https://rio-corp.jp/shops/kichijoji/ で確認。予約の記載はなく推奨とした"
+  },
+  {
+    "id": "tokyo-dog-rio-shinjuku",
+    "name": "いぬカフェRio 新宿店",
+    "animals": [
+      "dog"
+    ],
+    "prefecture": "東京都",
+    "area": "新宿・歌舞伎町",
+    "address": "東京都新宿区歌舞伎町1丁目15-5 地下1階",
+    "access": "JR新宿駅 東口から徒歩5分",
+    "url": "https://rio-corp.jp/shops/shinjyuku/",
+    "price": "平日10分270円／土日祝10分370円（税込）。ドリンク飲み放題は425円（別料金）",
+    "price_level": 2,
+    "hours": "11:00〜20:00",
+    "closed": "公式ページに記載なし（来店前に確認を）",
+    "reservation": "不要",
+    "features": [
+      "ふれあいOK",
+      "駅近"
+    ],
+    "description": "新宿東口から歩ける、歌舞伎町の地下1階にある小型犬ふれあいカフェ。10分から使える時間制で、ドリンク飲み放題も追加できる。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "店舗ページ https://rio-corp.jp/shops/shinjyuku/ で確認。予約の記載はなく推奨とした"
+  },
+  {
+    "id": "tokyo-dog-rio-asakusa",
+    "name": "いぬカフェRio 浅草店",
+    "animals": [
+      "dog"
+    ],
+    "prefecture": "東京都",
+    "area": "浅草",
+    "address": "東京都台東区浅草1丁目21-8 シャローグラス 地下1階",
+    "access": "浅草駅（浅草線A4出口／銀座線1番出口）から徒歩5分",
+    "url": "https://rio-corp.jp/shops/asakusa/",
+    "price": "平日10分270円／土日祝10分370円（税込）。ドリンク飲み放題は425円（別料金）",
+    "price_level": 2,
+    "hours": "11:00〜20:00",
+    "closed": "公式ページに記載なし（来店前に確認を）",
+    "reservation": "不要",
+    "features": [
+      "ふれあいOK",
+      "駅近"
+    ],
+    "description": "浅草の地下1階にある小型犬のふれあいカフェ。観光の途中に10分単位で立ち寄れる。浅草寺周辺を歩く人の休憩にも使える。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "店舗ページ https://rio-corp.jp/shops/asakusa/ で確認。予約の記載はなく推奨とした"
+  },
+  {
+    "id": "tokyo-dog-rio-ikebukuro",
+    "name": "いぬカフェRio 池袋店",
+    "animals": [
+      "dog"
+    ],
+    "prefecture": "東京都",
+    "area": "池袋・東池袋",
+    "address": "東京都豊島区東池袋1-12-11 OGSビル 地下1階",
+    "access": "池袋駅 サンシャイン口から徒歩2分",
+    "url": "https://rio-corp.jp/shops/ikebukuro/",
+    "price": "平日10分270円／土日祝10分370円（税込）。ドリンク飲み放題は425円（別料金）",
+    "price_level": 2,
+    "hours": "11:00〜20:00",
+    "closed": "公式ページに記載なし（来店前に確認を）",
+    "reservation": "不要",
+    "features": [
+      "ふれあいOK",
+      "駅近"
+    ],
+    "description": "池袋のサンシャイン口側、ビル地下1階にある小型犬ふれあいカフェ。トイプードルなど2歳前後の犬も紹介されている。10分から使える。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "店舗ページ https://rio-corp.jp/shops/ikebukuro/ で確認。予約の記載はなく推奨とした"
+  },
+  {
+    "id": "kanagawa-dog-rio-kamakura-komachi",
+    "name": "いぬカフェRio 鎌倉小町通り店",
+    "animals": [
+      "dog"
+    ],
+    "prefecture": "神奈川県",
+    "area": "鎌倉・小町通り",
+    "address": "神奈川県鎌倉市小町2丁目10-1 松喜屋小町ビル1階",
+    "access": "JR鎌倉駅 東口から徒歩2分",
+    "url": "https://rio-corp.jp/shops/kamakura/",
+    "price": "平日10分250円／土日祝10分300円（税込）。ドリンク飲み放題は385円（別料金）",
+    "price_level": 2,
+    "hours": "10:00〜19:00",
+    "closed": "公式ページに記載なし（来店前に確認を）",
+    "reservation": "不要",
+    "features": [
+      "ふれあいOK",
+      "駅近"
+    ],
+    "description": "鎌倉駅の東口から小町通りへ入ってすぐの1階にある、小型犬のふれあいカフェ。閉店は19時と早めなので、観光の予定に合わせて早めに行きたい。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "店舗ページ https://rio-corp.jp/shops/kamakura/ で確認。予約の記載はなく推奨とした"
+  },
+  {
+    "id": "saitama-dog-rio-lalaport-fujimi",
+    "name": "いぬカフェRio 富士見店",
+    "animals": [
+      "dog"
+    ],
+    "prefecture": "埼玉県",
+    "area": "富士見市",
+    "address": "埼玉県富士見市山室1-1313 ららぽーと富士見2F",
+    "access": "東武東上線 鶴瀬駅東口からバス5分（徒歩20分）",
+    "url": "https://rio-corp.jp/shops/fujimi/",
+    "price": "平日10分220円／土日祝10分250円（税込）。ドリンク飲み放題は385円（別料金）",
+    "price_level": 2,
+    "hours": "10:00〜20:00",
+    "closed": "公式ページに記載なし（来店前に確認を）",
+    "reservation": "不要",
+    "features": [
+      "ふれあいOK"
+    ],
+    "description": "ららぽーと富士見の2階にある、小型犬のふれあいカフェ。10分単位で使え、モールでの買い物や食事のあとに寄れる。駅からはバスが便利だ。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "店舗ページ https://rio-corp.jp/shops/fujimi/ で確認。予約の記載はなく推奨とした"
+  },
+  {
+    "id": "hiroshima-dog-rio-yumetown-hatsukaichi",
+    "name": "いぬカフェRio 廿日市店",
+    "animals": [
+      "dog"
+    ],
+    "prefecture": "広島県",
+    "area": "廿日市市",
+    "address": "広島県廿日市市下平良2丁目2-1 ゆめタウン廿日市2階",
+    "access": "広電廿日市市役所駅・JR宮内串戸駅から徒歩10分（直通バス13分）",
+    "url": "https://rio-corp.jp/shops/hatsukaichi/",
+    "price": "平日10分220円／土日祝10分220円（税込）。ドリンク飲み放題は385円（別料金）",
+    "price_level": 2,
+    "hours": "10:00〜20:00",
+    "closed": "公式ページに記載なし（来店前に確認を）",
+    "reservation": "不要",
+    "features": [
+      "ふれあいOK"
+    ],
+    "description": "ゆめタウン廿日市の2階にある小型犬ふれあいカフェで、チワワなど小柄な犬も紹介されている。平日と土日祝で10分の料金が同じ。宮島へ行く途中にも寄れる。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "店舗ページ https://rio-corp.jp/shops/hatsukaichi/ で確認。予約の記載はなく推奨とした"
+  },
+  {
+    "id": "saga-dog-rio-yumetown-saga",
+    "name": "いぬカフェRio 佐賀店",
+    "animals": [
+      "dog"
+    ],
+    "prefecture": "佐賀県",
+    "area": "佐賀市",
+    "address": "佐賀県佐賀市兵庫北5丁目14-1 ゆめタウン佐賀1階",
+    "access": "JR佐賀駅から佐賀市営バス（ゆめタウン佐賀行き）15分",
+    "url": "https://rio-corp.jp/shops/saga/",
+    "price": "平日10分220円／土日祝10分220円（税込）。ドリンク飲み放題は385円（別料金）",
+    "price_level": 2,
+    "hours": "10:00〜20:00",
+    "closed": "公式ページに記載なし（来店前に確認を）",
+    "reservation": "不要",
+    "features": [
+      "ふれあいOK"
+    ],
+    "description": "ゆめタウン佐賀の1階にある、小型犬のふれあいカフェ。10分から利用でき、平日・土日祝とも料金は同じ。車での来店が中心になる。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "店舗ページ https://rio-corp.jp/shops/saga/ で確認。予約の記載はなく推奨とした"
+  },
+  {
+    "id": "fukuoka-dog-rio-yumetown-kurume",
+    "name": "いぬカフェRio 久留米店",
+    "animals": [
+      "dog"
+    ],
+    "prefecture": "福岡県",
+    "area": "久留米市",
+    "address": "福岡県久留米市新合川1丁目2-1 ゆめタウン久留米2階",
+    "access": "西鉄久留米駅からバス15分",
+    "url": "https://rio-corp.jp/shops/kurume/",
+    "price": "平日10分220円／土日祝10分250円（税込）。ドリンク飲み放題は385円（別料金）",
+    "price_level": 2,
+    "hours": "10:00〜20:00",
+    "closed": "公式ページに記載なし（来店前に確認を）",
+    "reservation": "不要",
+    "features": [
+      "ふれあいOK"
+    ],
+    "description": "ゆめタウン久留米の2階にある、小型犬のふれあいカフェ。マルチーズやダックスなどがいて、10分単位で使える。モールの買い物と合わせやすい。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "店舗ページ https://rio-corp.jp/shops/kurume/ で確認。店舗ページに「予約不要」の記載があり不要とした"
+  },
+  {
+    "id": "okinawa-dog-rio-chatan",
+    "name": "いぬカフェRio 沖縄北谷店",
+    "animals": [
+      "dog"
+    ],
+    "prefecture": "沖縄県",
+    "area": "北谷町・美浜",
+    "address": "沖縄県中頭郡北谷町美浜9-8 シーサイドスクエア2階",
+    "access": "北谷町美浜エリア",
+    "url": "https://rio-corp.jp/shops/%e6%b2%96%e7%b8%84%e5%8c%97%e8%b0%b7%e5%ba%97/",
+    "price": "平日10分220円／土日祝10分250円（税込）",
+    "price_level": 2,
+    "hours": "11:00〜20:00",
+    "closed": "公式ページに記載なし（来店前に確認を）",
+    "reservation": "不要",
+    "features": [
+      "ふれあいOK"
+    ],
+    "description": "北谷の美浜エリア、シーサイドスクエア2階にある小型犬のふれあいカフェ。10分から使える時間制。観光で美浜を訪れた際に立ち寄れる。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "店舗ページ https://rio-corp.jp/shops/%e6%b2%96%e7%b8%84%e5%8c%97%e8%b0%b7%e5%ba%97/ で確認。ドリンクと最寄駅の記載はなく、予約の記載もなく推奨とした"
   }
 ]

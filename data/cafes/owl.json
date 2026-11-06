@@ -471,5 +471,63 @@
     "image": null,
     "checked": "2026-11-06",
     "source_note": "公式 https://ubeowl.jimdofree.com/ 、/ふれあいシステム/ （料金・予約）、公式Instagram @owlnosiro（最終投稿 2026-11-05）で確認"
+  },
+  {
+    "id": "osaka-owl-raptorland-shovel-namba",
+    "name": "猛禽類カフェ raptorland Shovel（ラプターランド シャベル）",
+    "animals": [
+      "owl",
+      "bird"
+    ],
+    "prefecture": "大阪府",
+    "area": "難波",
+    "address": "大阪府大阪市浪速区幸町1-1-10 リバーサイド難波105号",
+    "access": "地下鉄四ツ橋線「なんば」駅26-B出口から徒歩3分",
+    "url": "https://www.raptorland-shovel.com/",
+    "price": "お一人様2,000円〜（時間制限なし。腕乗せ・おやつ・ゼロ距離体験など5種から1つ選択込み）、ドリンク別途400円〜",
+    "price_level": 3,
+    "hours": "2026年11月：平日12:00〜17:00／土日祝12:00〜18:00",
+    "closed": "水曜・木曜（メンテナンス日。前日までの連絡で対応の場合あり）",
+    "reservation": "不要",
+    "features": [
+      "ふれあいOK",
+      "えさやり体験",
+      "時間無制限プランあり",
+      "駅近",
+      "子ども可",
+      "貸切可",
+      "写真OK"
+    ],
+    "description": "フクロウだけでなくハリスホークなどの猛禽類、大型インコがいる店。時間制限はなく、腕乗せやおやつ、ゼロ距離体験から選べる。キッズルームとおむつ交換台があり、子連れでも行きやすい。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "公式 https://www.raptorland-shovel.com/about_cafe 、トップ（お知らせ 2026-09-24、営業時間は11月分）で確認。予約制ではない（予約のみの日はカレンダーに表示）"
+  },
+  {
+    "id": "chiba-owl-fukurou-no-shiro-kimitsu",
+    "name": "しあわせをよぶふくろうの城 君津店",
+    "animals": [
+      "owl"
+    ],
+    "prefecture": "千葉県",
+    "area": "君津",
+    "address": "千葉県君津市山本549",
+    "access": "公式ページに記載なし（来店前に確認を）",
+    "url": "https://fukurounoshiro.info/cafe/",
+    "price": "入場1時間制 大人（中学生以上）1,100円／小学生770円／未就学児550円（3歳以下無料）、帰りにドリンク付き",
+    "price_level": 2,
+    "hours": "11:00〜17:00（2026年11月は祝日を除く月・木・金はふれあい休み、その他の日は11:00〜16:00・最終受付15:00の時短）",
+    "closed": "なし（突発的な休みは公式ブログ等で案内。11月は月・木・金のふれあい休みあり）",
+    "reservation": "不要",
+    "features": [
+      "ふれあいOK",
+      "えさやり体験",
+      "ドリンク込み",
+      "子ども可"
+    ],
+    "description": "人に慣れたフクロウと過ごせる店で、写真を撮ったり、腕に乗せたりできる。フクロウの販売も行っている。月によって営業日が変わるので、公式のお知らせを見てから行きたい。",
+    "image": null,
+    "checked": "2026-11-06",
+    "source_note": "公式 https://fukurounoshiro.info/cafe/ 、お知らせ https://fukurounoshiro.info/information/detail.php?seq=1517 （2026-10-30）、公式ブログ（2026-11-03）で確認。予約の要否は公式に記載なし"
   }
 ]

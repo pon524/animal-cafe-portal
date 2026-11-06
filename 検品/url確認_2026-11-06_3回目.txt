@@ -1,0 +1,5 @@
+285 店 / エラー 0 / 注意 0
+--- URL 生存確認 ---
+URL  ishikawa-rabbit-tsuki-usagi-no-sato-kaga: 429 https://www.tsukiusaginosato.com/play
+URL  tokyo-reptile-tokyo-snake-center-harajuku: 0 https://snakecenter.jp/
+URL 不通/要確認 2 件

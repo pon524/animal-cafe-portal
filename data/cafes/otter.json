@@ -193,5 +193,31 @@
     "image": null,
     "checked": "2026-11-06",
     "source_note": "公式 https://www.owlottercafe.com/ で料金（画像）・営業時間・無休・再入場を確認。予約の要否は公式に記載なしのため推奨とした。カワウソは約15頭とする公式Instagramの投稿あり"
+  },
+  {
+    "id": "osaka-otter-loutre-sennichimae",
+    "name": "LOUTRE（ルートル）大阪千日前店",
+    "animals": [
+      "otter"
+    ],
+    "prefecture": "大阪府",
+    "area": "なんば・千日前",
+    "address": "大阪府大阪市中央区難波1-2-3 e-bld 3階東",
+    "access": "大阪メトロ御堂筋線・千日前線 なんば駅15番出口から徒歩約3分",
+    "url": "https://www.loutre-kyoto.com/",
+    "price": "50分3,000円（現金のみ）",
+    "price_level": 3,
+    "hours": "13:00〜19:00（最終受付18:00）",
+    "closed": "公式ページに記載なし（11月は休みなしの告知。カワウソの体調で急に休むことあり）",
+    "reservation": "不要",
+    "features": [
+      "ふれあいOK",
+      "写真OK",
+      "駅近"
+    ],
+    "description": "なんば駅から歩いて数分のビルにある、LOUTREの大阪2店舗目だ。ペットとして育ったカワウソとふれあえ、50分制で抱っこはできない。予約は受け付けず、15歳未満は入れないため、大人が混雑の少ない時間に訪れたい店である。",
+    "source_note": "アクセス https://www.loutre-kyoto.com/アクセス/ で住所を、トップ https://www.loutre-kyoto.com/ で料金・営業時間・予約不可・年齢制限を確認",
+    "image": null,
+    "checked": "2026-11-06"
   }
 ]

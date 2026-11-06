@@ -240,5 +240,62 @@
     "image": null,
     "checked": "2026-11-06",
     "source_note": "公式 https://capyvillage.com/ で料金・営業時間・予約導線（TableCheckまたは電話）を確認（お知らせ最新は2026-10-06）。45分・60分の対象動物はページ表記がややあいまい"
+  },
+  {
+    "animals": [
+      "capybara"
+    ],
+    "prefecture": "東京都",
+    "price": "4,000円／40分（カピバラのおやつ込み、全年齢同額）",
+    "price_level": 4,
+    "hours": "10:15〜13:00／15:00〜17:30（予約制の入れ替え枠）",
+    "closed": "無休",
+    "reservation": "必須",
+    "url": "https://cappiness.jp/",
+    "id": "tokyo-capybara-cappiness-oshiage",
+    "name": "CAPPINESS 押上店",
+    "area": "押上・向島",
+    "address": "東京都墨田区向島3-43-10 JU SKYTOWER MUKOJIMA 5F",
+    "access": "押上駅から徒歩約6分、とうきょうスカイツリー駅から徒歩約3分",
+    "features": [
+      "ふれあいOK",
+      "えさやり体験",
+      "駅近",
+      "予約制",
+      "英語対応",
+      "子ども可"
+    ],
+    "description": "カピバラ3頭と40分間、少人数で触れたり餌をあげたりできる専門店だ。内装は明るく広めで、案内は英語で行われる。オンライン予約のみで当日の飛び込みはできないため、旅行の予定に組み込みたい人に向く。",
+    "source_note": "公式 https://cappiness.jp/capybara_cafe/cappiness_oshiage で料金・営業時間・予約方式を確認（予約はTableCheckのみ、5〜12歳は保護者同伴）",
+    "image": null,
+    "checked": "2026-11-06"
+  },
+  {
+    "animals": [
+      "capybara"
+    ],
+    "prefecture": "東京都",
+    "price": "4,000円／40分（カピバラのおやつ込み、全年齢同額）",
+    "price_level": 4,
+    "hours": "10:15〜13:00／15:00〜17:30（予約制の入れ替え枠）",
+    "closed": "無休",
+    "reservation": "必須",
+    "url": "https://cappiness.jp/",
+    "id": "tokyo-capybara-cappiness-shinjuku",
+    "name": "CAPPINESS 新宿店（高田馬場）",
+    "area": "高田馬場",
+    "address": "東京都新宿区高田馬場4-40-12 9F",
+    "access": "東京メトロ東西線 落合駅から徒歩10分／高田馬場駅から徒歩12分",
+    "features": [
+      "ふれあいOK",
+      "えさやり体験",
+      "予約制",
+      "英語対応",
+      "子ども可"
+    ],
+    "description": "高田馬場にあるカピバラ専門店で、3頭と40分間ふれあえる。和風の落ち着いた室内と広いバルコニーが特徴で、家庭的な雰囲気だ。オンライン予約のみの少人数制で、じっくり触れたい人向けである。",
+    "source_note": "公式 https://cappiness.jp/capybara_cafe/cappiness_shinjuku で料金・営業時間・予約方式を確認（予約はTableCheckのみ、5〜12歳は保護者同伴）",
+    "image": null,
+    "checked": "2026-11-06"
   }
 ]
