@@ -470,5 +470,83 @@
     "image": null,
     "checked": "2026-11-06",
     "source_note": "公式店舗ページ https://moff-moff.jp/animal-cafe/shop/takao/ で確認"
+  },
+  {
+    "id": "tokyo-smallanimal-mamomura-kichijoji",
+    "name": "マーモット村 東京・吉祥寺（MaMo Terrace）",
+    "prefecture": "東京都",
+    "area": "吉祥寺",
+    "address": "東京都武蔵野市吉祥寺本町2-28-7 マモテラス3F",
+    "access": "JR吉祥寺駅から徒歩8分",
+    "price": "満喫プラン60分 2,800円（税込、1Fカフェのワンドリンク券・お土産付き）",
+    "hours": "10:00〜18:00（12:00〜13:00は休憩、入場は10:00〜12:00／13:00〜18:00の枠）",
+    "closed": "公式ページに記載なし（予約カレンダーで営業日を確認）",
+    "features": [
+      "予約制",
+      "ドリンク込み",
+      "写真OK"
+    ],
+    "description": "マーモットを見て過ごす60分制の施設で、公式サイトには6頭のプロフィールが載っている。ふれあいは行わず、寝る・食べる・立ち上がるといった自由な姿を眺めるスタイルだ。同じ建物の1階カフェでドリンク券が使え、2階ではマーモットをテーマにしたアート展示もある。",
+    "source_note": "料金 https://mamomura.com/products/1-hour-kichijoji 、住所・営業 https://mamomura.com/pages/access 、館内案内 https://mamomura.com/pages/mamomura-tokyo で確認（2026-11-06）。ふれあいは行わないと公式に明記",
+    "animals": [
+      "smallanimal"
+    ],
+    "url": "https://mamomura.com/",
+    "price_level": 3,
+    "reservation": "必須",
+    "image": null,
+    "checked": "2026-11-06"
+  },
+  {
+    "id": "tokyo-smallanimal-mamomura-nakano",
+    "name": "マーモット村 東京・中野（野方）",
+    "prefecture": "東京都",
+    "area": "中野・野方",
+    "address": "東京都中野区野方4-46-10",
+    "access": "西武新宿線野方駅から約500m",
+    "price": "満喫プラン60分 2,800円（税込、ワンドリンク・お土産付き）",
+    "hours": "予約枠による（営業は土日祝のみ）",
+    "closed": "平日（土日祝のみ営業）",
+    "features": [
+      "予約制",
+      "ドリンク込み"
+    ],
+    "description": "保護と日々のケアを軸にした拠点で、土日祝だけ予約制で公開している。公式によると、現在会えるのは人馴れトレーニング中のヒマラヤマーモットだ。ふれあいはなく、落ち着いて見守りたい人に向く。",
+    "source_note": "料金・営業日 https://mamomura.com/products/1-hour 、住所・最寄駅 https://mamomura.com/pages/access で確認（2026-11-06）。時間帯は予約画面で選ぶ形式で、公式ページに具体的な営業時間の記載なし",
+    "animals": [
+      "smallanimal"
+    ],
+    "url": "https://mamomura.com/",
+    "price_level": 3,
+    "reservation": "必須",
+    "image": null,
+    "checked": "2026-11-06"
+  },
+  {
+    "id": "osaka-smallanimal-mamomura-moriguchi",
+    "name": "マーモット村 大阪（守口）",
+    "prefecture": "大阪府",
+    "area": "守口",
+    "address": "大阪府守口市浜町2-1-21 2階",
+    "access": "大阪メトロ谷町線守口駅から徒歩5分／京阪本線守口市駅から徒歩9分",
+    "price": "満喫プラン60分 2,800円（税込、ワンドリンク・お土産付き）",
+    "hours": "10:00〜18:00（12:00〜13:00は休憩）",
+    "closed": "公式ページに記載なし（予約カレンダーで営業日を確認）",
+    "features": [
+      "予約制",
+      "ドリンク込み",
+      "写真OK",
+      "駅近"
+    ],
+    "description": "大阪で唯一のマーモット村で、60分の予約制だ。窓辺や切り株など思い思いの場所で過ごす姿を眺める形で、ふれあいは行っていない。入口は建物の外階段を上がった2階で、6歳未満は専用のファミリーデーの日に入れる。",
+    "source_note": "料金 https://mamomura.com/products/1-hour-osaka 、住所・営業 https://mamomura.com/pages/access 、https://mamomura.com/pages/mamomura-osaka で確認（2026-11-06）",
+    "animals": [
+      "smallanimal"
+    ],
+    "url": "https://mamomura.com/",
+    "price_level": 3,
+    "reservation": "必須",
+    "image": null,
+    "checked": "2026-11-06"
   }
 ]

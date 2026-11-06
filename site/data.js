@@ -4364,6 +4364,84 @@ window.CAFES = [
   "source_note": "公式店舗ページ https://moff-moff.jp/animal-cafe/shop/takao/ で確認"
  },
  {
+  "id": "tokyo-smallanimal-mamomura-kichijoji",
+  "name": "マーモット村 東京・吉祥寺（MaMo Terrace）",
+  "prefecture": "東京都",
+  "area": "吉祥寺",
+  "address": "東京都武蔵野市吉祥寺本町2-28-7 マモテラス3F",
+  "access": "JR吉祥寺駅から徒歩8分",
+  "price": "満喫プラン60分 2,800円（税込、1Fカフェのワンドリンク券・お土産付き）",
+  "hours": "10:00〜18:00（12:00〜13:00は休憩、入場は10:00〜12:00／13:00〜18:00の枠）",
+  "closed": "公式ページに記載なし（予約カレンダーで営業日を確認）",
+  "features": [
+   "予約制",
+   "ドリンク込み",
+   "写真OK"
+  ],
+  "description": "マーモットを見て過ごす60分制の施設で、公式サイトには6頭のプロフィールが載っている。ふれあいは行わず、寝る・食べる・立ち上がるといった自由な姿を眺めるスタイルだ。同じ建物の1階カフェでドリンク券が使え、2階ではマーモットをテーマにしたアート展示もある。",
+  "source_note": "料金 https://mamomura.com/products/1-hour-kichijoji 、住所・営業 https://mamomura.com/pages/access 、館内案内 https://mamomura.com/pages/mamomura-tokyo で確認（2026-11-06）。ふれあいは行わないと公式に明記",
+  "animals": [
+   "smallanimal"
+  ],
+  "url": "https://mamomura.com/",
+  "price_level": 3,
+  "reservation": "必須",
+  "image": null,
+  "checked": "2026-11-06"
+ },
+ {
+  "id": "tokyo-smallanimal-mamomura-nakano",
+  "name": "マーモット村 東京・中野（野方）",
+  "prefecture": "東京都",
+  "area": "中野・野方",
+  "address": "東京都中野区野方4-46-10",
+  "access": "西武新宿線野方駅から約500m",
+  "price": "満喫プラン60分 2,800円（税込、ワンドリンク・お土産付き）",
+  "hours": "予約枠による（営業は土日祝のみ）",
+  "closed": "平日（土日祝のみ営業）",
+  "features": [
+   "予約制",
+   "ドリンク込み"
+  ],
+  "description": "保護と日々のケアを軸にした拠点で、土日祝だけ予約制で公開している。公式によると、現在会えるのは人馴れトレーニング中のヒマラヤマーモットだ。ふれあいはなく、落ち着いて見守りたい人に向く。",
+  "source_note": "料金・営業日 https://mamomura.com/products/1-hour 、住所・最寄駅 https://mamomura.com/pages/access で確認（2026-11-06）。時間帯は予約画面で選ぶ形式で、公式ページに具体的な営業時間の記載なし",
+  "animals": [
+   "smallanimal"
+  ],
+  "url": "https://mamomura.com/",
+  "price_level": 3,
+  "reservation": "必須",
+  "image": null,
+  "checked": "2026-11-06"
+ },
+ {
+  "id": "osaka-smallanimal-mamomura-moriguchi",
+  "name": "マーモット村 大阪（守口）",
+  "prefecture": "大阪府",
+  "area": "守口",
+  "address": "大阪府守口市浜町2-1-21 2階",
+  "access": "大阪メトロ谷町線守口駅から徒歩5分／京阪本線守口市駅から徒歩9分",
+  "price": "満喫プラン60分 2,800円（税込、ワンドリンク・お土産付き）",
+  "hours": "10:00〜18:00（12:00〜13:00は休憩）",
+  "closed": "公式ページに記載なし（予約カレンダーで営業日を確認）",
+  "features": [
+   "予約制",
+   "ドリンク込み",
+   "写真OK",
+   "駅近"
+  ],
+  "description": "大阪で唯一のマーモット村で、60分の予約制だ。窓辺や切り株など思い思いの場所で過ごす姿を眺める形で、ふれあいは行っていない。入口は建物の外階段を上がった2階で、6歳未満は専用のファミリーデーの日に入れる。",
+  "source_note": "料金 https://mamomura.com/products/1-hour-osaka 、住所・営業 https://mamomura.com/pages/access 、https://mamomura.com/pages/mamomura-osaka で確認（2026-11-06）",
+  "animals": [
+   "smallanimal"
+  ],
+  "url": "https://mamomura.com/",
+  "price_level": 3,
+  "reservation": "必須",
+  "image": null,
+  "checked": "2026-11-06"
+ },
+ {
   "id": "kyoto-farm-mipig-cafe-kyoto",
   "name": "mipig cafe 京都店",
   "animals": [
@@ -5192,5 +5270,82 @@ window.CAFES = [
   "image": null,
   "checked": "2026-11-06",
   "source_note": "公式 https://moff-moff.jp/animal-cafe/shop/moff-animal-world/ で住所・営業時間・料金・動物を確認（一覧 https://moff-moff.jp/animal-cafe/shop ）"
+ },
+ {
+  "id": "tokyo-other-fennec-house-shinokubo",
+  "name": "Fennec House 新大久保店（フェネックハウス）",
+  "prefecture": "東京都",
+  "area": "新大久保",
+  "address": "東京都新宿区百人町2-11-2 新戸山アネックス 2階",
+  "access": "公式ページに記載なし（来店前に確認を）",
+  "hours": "平日 11:00〜19:00／土日祝 10:00〜19:00",
+  "description": "フェネックと同じ部屋で過ごす小さな施設で、公式によると6匹が在籍している。無理のない範囲で触れ合えて、一緒に写真も撮れる。入退場は毎時の決まった時刻に限られ、完全キャッシュレスなので注意したい。",
+  "source_note": "公式 https://fennechouse.com/home/ で料金・営業時間・住所・予約（なしでも入店可、予約推奨）・頭数を確認（2026-11-06）",
+  "animals": [
+   "other"
+  ],
+  "url": "https://fennechouse.com/home/",
+  "price": "フリータイム制 大人3,500円・高校生以下2,000円（未就学児は入場不可）、おやつ1,000円",
+  "price_level": 4,
+  "closed": "公式ページに記載なし（来店前に確認を）",
+  "reservation": "推奨",
+  "features": [
+   "ふれあいOK",
+   "写真OK"
+  ],
+  "image": null,
+  "checked": "2026-11-06"
+ },
+ {
+  "id": "tokyo-other-fennec-house-harajuku",
+  "name": "Fennec House 原宿店（フェネックハウス）",
+  "prefecture": "東京都",
+  "area": "原宿",
+  "address": "東京都渋谷区神宮前1-9-30 FLEG原宿 B1F",
+  "access": "公式ページに記載なし（来店前に確認を）",
+  "hours": "10:00〜18:00",
+  "description": "新大久保店と同じ運営のフェネックのふれあい店で、原宿の地下にある。料金は両店共通で、触れ合いは無理のない範囲に限られる。写真撮影ができ、未就学児は入れない。",
+  "source_note": "公式 https://fennechouse.com/home/ の店舗一覧と料金表で確認（2026-11-06）。同住所に併設の「原宿かわいいランド キュンキュン」は別施設のため未収録",
+  "animals": [
+   "other"
+  ],
+  "url": "https://fennechouse.com/home/",
+  "price": "フリータイム制 大人3,500円・高校生以下2,000円（未就学児は入場不可）、おやつ1,000円",
+  "price_level": 4,
+  "closed": "公式ページに記載なし（来店前に確認を）",
+  "reservation": "推奨",
+  "features": [
+   "ふれあいOK",
+   "写真OK"
+  ],
+  "image": null,
+  "checked": "2026-11-06"
+ },
+ {
+  "id": "aichi-other-penguin-cafe-tail",
+  "name": "ペンギンカフェ TAIL（テイル）",
+  "animals": [
+   "other"
+  ],
+  "prefecture": "愛知県",
+  "area": "高畑",
+  "address": "愛知県名古屋市中川区高畑2丁目330",
+  "access": "名古屋市営地下鉄東山線高畑駅5番出口から徒歩1分",
+  "url": "https://www.instagram.com/penguincafe.tail/",
+  "price": "入場40分 2,500円（税込、ドリンク付き。高校生以上も中学生以下も同額）",
+  "price_level": 3,
+  "hours": "10:00〜18:00（最終受付17:00）",
+  "closed": "火曜・金曜",
+  "reservation": "推奨",
+  "features": [
+   "ふれあいOK",
+   "ドリンク込み",
+   "子ども可",
+   "駅近"
+  ],
+  "description": "名古屋市で本物のペンギンに触れられる小さなカフェだ。公式SNSでは数羽のペンギンの名前と、触り方の紹介が発信されている。入場は40分制で、予約はDM・じゃらん・電話で受け付けている。",
+  "image": null,
+  "checked": "2026-11-06",
+  "source_note": "公式Instagram @penguincafe.tail【公式】（最終投稿 2026-11-04）で営業時間・定休日・予約方法を確認。料金は同アカウントの価格改定のお知らせ（2026-07-31、2026-08-01改定）で確認。住所は公式SNSに記載がなく、じゃらん等の掲載による。別アカウント @penguincafetail は2025-08で更新停止で旧情報（火・水休）のため不採用"
  }
 ];
