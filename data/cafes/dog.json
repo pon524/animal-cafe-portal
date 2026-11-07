@@ -277,7 +277,7 @@
     "price_level": 2,
     "hours": "平日12:00〜18:00／土日祝11:00〜18:00",
     "closed": "年中無休",
-    "reservation": "推奨",
+    "reservation": "不要",
     "features": [
       "保護動物",
       "複数の動物",
@@ -288,7 +288,7 @@
     "description": "保護犬と保護猫がいる福祉型のふれあいカフェで、大濠公園の散歩とあわせやすい。30分800円からと、今回の中では入りやすい料金。",
     "image": null,
     "checked": "2026-11-06",
-    "source_note": "店舗ページ https://wan-time.jp/store/anella-cafe-fukuoka-ohori/ で確認"
+    "source_note": "店舗ページ https://wan-time.jp/store/anella-cafe-fukuoka-ohori/ で確認／公式FAQ https://wan-time.jp/faq/ に「各施設予約不要」とあり、2026-11-07 に reservation を不要に修正"
   },
   {
     "id": "hiroshima-dog-anella-cafe-hiroshima-midorii",
@@ -306,7 +306,7 @@
     "price_level": 2,
     "hours": "平日12:00〜18:00／土日祝11:00〜18:00",
     "closed": "年中無休",
-    "reservation": "推奨",
+    "reservation": "不要",
     "features": [
       "保護動物",
       "複数の動物",
@@ -316,7 +316,7 @@
     "description": "保護犬と保護猫がいる福祉型のふれあいカフェで、広島市の北部、安佐南区にある。犬も猫もいるので、どちらも好きな人や家族連れ向け。",
     "image": null,
     "checked": "2026-11-06",
-    "source_note": "店舗ページ https://wan-time.jp/store/anella-cafe-hiroshimamidorii/ で確認"
+    "source_note": "店舗ページ https://wan-time.jp/store/anella-cafe-hiroshimamidorii/ で確認／公式FAQ https://wan-time.jp/faq/ に「各施設予約不要」とあり、2026-11-07 に reservation を不要に修正"
   },
   {
     "id": "okayama-dog-samoyed-park-okayama",
@@ -464,7 +464,7 @@
     "price_level": 2,
     "hours": "平日・土日祝とも12:00〜18:00",
     "closed": "年中無休",
-    "reservation": "推奨",
+    "reservation": "不要",
     "features": [
       "保護動物",
       "複数の動物",
@@ -474,7 +474,7 @@
     "description": "浜松駅から歩ける場所にある、保護犬と保護猫のふれあいカフェ。公式には保護犬・保護猫の一覧ページがあり、どんな子がいるか事前に見られる。30分から気軽に入れる。",
     "image": null,
     "checked": "2026-11-06",
-    "source_note": "店舗ページ https://wan-time.jp/store/anella-cafe-hamamatsuchuo/ で確認。予約の記載はなし"
+    "source_note": "店舗ページ https://wan-time.jp/store/anella-cafe-hamamatsuchuo/ で確認。予約の記載はなし／公式FAQ https://wan-time.jp/faq/ に「各施設予約不要」とあり、2026-11-07 に reservation を不要に修正"
   },
   {
     "id": "kyoto-dog-anella-cafe-kyoto-karasuma",
@@ -491,7 +491,7 @@
     "price_level": 2,
     "hours": "12:00〜18:00（平日・土日祝とも）",
     "closed": "年中無休",
-    "reservation": "推奨",
+    "reservation": "不要",
     "features": [
       "保護動物",
       "ふれあいOK",
@@ -501,7 +501,7 @@
     "description": "烏丸御池駅からすぐの、保護犬がいるふれあいカフェ（保護猫は時期によって不在）。観光や買い物の合間に30分だけ立ち寄るような使い方がしやすい。譲渡活動を行う団体のカフェとして運営されている。",
     "image": null,
     "checked": "2026-11-06",
-    "source_note": "店舗ページ https://wan-time.jp/store/anella-cafe-kyotokarasuma/ で確認。予約の記載はなし"
+    "source_note": "店舗ページ https://wan-time.jp/store/anella-cafe-kyotokarasuma/ で確認。予約の記載はなし／公式FAQ https://wan-time.jp/faq/ に「各施設予約不要」とあり、2026-11-07 に reservation を不要に修正"
   },
   {
     "id": "oita-dog-anella-cafe-oita",
@@ -519,7 +519,7 @@
     "price_level": 2,
     "hours": "平日12:00〜18:00／土日祝11:00〜18:00",
     "closed": "年中無休",
-    "reservation": "推奨",
+    "reservation": "不要",
     "features": [
       "保護動物",
       "複数の動物",
@@ -529,7 +529,7 @@
     "description": "大分市の郊外にある保護犬・保護猫のふれあいカフェ。最寄りは鉄道駅ではなくバス停で、車で行くほうが現実的。保護された犬猫と30分から過ごせる。",
     "image": null,
     "checked": "2026-11-06",
-    "source_note": "店舗ページ https://wan-time.jp/store/anella-cafe-oita/ で確認。予約の記載はなし"
+    "source_note": "店舗ページ https://wan-time.jp/store/anella-cafe-oita/ で確認。予約の記載はなし／公式FAQ https://wan-time.jp/faq/ に「各施設予約不要」とあり、2026-11-07 に reservation を不要に修正"
   },
   {
     "id": "hokkaido-dog-anella-cafe-hakodate",
@@ -547,7 +547,7 @@
     "price_level": 2,
     "hours": "平日12:00〜18:30／土日祝11:00〜18:30",
     "closed": "年中無休",
-    "reservation": "推奨",
+    "reservation": "不要",
     "features": [
       "保護動物",
       "複数の動物",
@@ -557,7 +557,7 @@
     "description": "函館市電の沿線にある保護犬・保護猫のふれあいカフェ。閉店が18:30と、この系列の中ではやや遅め。旅行中に動物とふれあいたい人にも寄りやすい。",
     "image": null,
     "checked": "2026-11-06",
-    "source_note": "店舗ページ https://wan-time.jp/store/anella-cafe-hakodate/ で確認。予約の記載はなし"
+    "source_note": "店舗ページ https://wan-time.jp/store/anella-cafe-hakodate/ で確認。予約の記載はなし／公式FAQ https://wan-time.jp/faq/ に「各施設予約不要」とあり、2026-11-07 に reservation を不要に修正"
   },
   {
     "id": "aichi-dog-anella-cafe-aichi-ama",
@@ -575,7 +575,7 @@
     "price_level": 2,
     "hours": "平日12:00〜18:00／土日祝11:00〜18:00",
     "closed": "年中無休",
-    "reservation": "推奨",
+    "reservation": "不要",
     "features": [
       "保護動物",
       "複数の動物",
@@ -585,7 +585,7 @@
     "description": "名古屋の西、大治町にある保護犬・保護猫のふれあいカフェ。駅から徒歩20分ほどかかるので、車での来店が向く。名古屋近郊で保護動物と会いたい人に。",
     "image": null,
     "checked": "2026-11-06",
-    "source_note": "店舗ページ https://wan-time.jp/store/anella-cafe-aichiama/ で確認。予約の記載はなし"
+    "source_note": "店舗ページ https://wan-time.jp/store/anella-cafe-aichiama/ で確認。予約の記載はなし／公式FAQ https://wan-time.jp/faq/ に「各施設予約不要」とあり、2026-11-07 に reservation を不要に修正"
   },
   {
     "id": "saga-dog-anella-cafe-saga",
@@ -603,7 +603,7 @@
     "price_level": 2,
     "hours": "11:00〜17:00（平日・土日祝とも）",
     "closed": "年中無休",
-    "reservation": "推奨",
+    "reservation": "不要",
     "features": [
       "保護動物",
       "複数の動物",
@@ -613,7 +613,7 @@
     "description": "佐賀市の中心部にある保護犬・保護猫のふれあいカフェ。営業は17:00までと早めに閉まるので、午後の早い時間に行くとよい。30分1,000円から。",
     "image": null,
     "checked": "2026-11-06",
-    "source_note": "店舗ページ https://wan-time.jp/store/anella-cafe-saga/ で確認。予約の記載はなし"
+    "source_note": "店舗ページ https://wan-time.jp/store/anella-cafe-saga/ で確認。予約の記載はなし／公式FAQ https://wan-time.jp/faq/ に「各施設予約不要」とあり、2026-11-07 に reservation を不要に修正"
   },
   {
     "id": "chiba-dog-anella-cafe-narashino",
@@ -630,7 +630,7 @@
     "price_level": 2,
     "hours": "平日12:00〜18:00／土日祝11:00〜18:00",
     "closed": "年中無休",
-    "reservation": "推奨",
+    "reservation": "不要",
     "features": [
       "保護動物",
       "ふれあいOK",
@@ -640,7 +640,7 @@
     "description": "京成大久保駅の目の前にある、保護犬のふれあいカフェ（保護猫は時期によって不在）。現金のほかカードや電子マネーも使える。千葉県西部で保護動物とふれあいたい人向け。",
     "image": null,
     "checked": "2026-11-06",
-    "source_note": "店舗ページ https://wan-time.jp/store/anella-cafe-narashino/ で確認。予約の記載はなし"
+    "source_note": "店舗ページ https://wan-time.jp/store/anella-cafe-narashino/ で確認。予約の記載はなし／公式FAQ https://wan-time.jp/faq/ に「各施設予約不要」とあり、2026-11-07 に reservation を不要に修正"
   },
   {
     "id": "okayama-dog-anella-cafe-okayama-senoo",
@@ -658,7 +658,7 @@
     "price_level": 2,
     "hours": "平日12:00〜18:00／土日祝11:00〜18:00",
     "closed": "年中無休",
-    "reservation": "推奨",
+    "reservation": "不要",
     "features": [
       "保護動物",
       "複数の動物",
@@ -668,7 +668,7 @@
     "description": "保護犬と保護猫がいる福祉型のふれあいカフェで、猫と犬の両方に会える。2026年6月に開いた新しい店で、未就学児は無料、小学生は半額なので家族連れにも向く。",
     "image": null,
     "checked": "2026-11-06",
-    "source_note": "店舗ページ https://wan-time.jp/store/anella-cafe-okayamasenoo/ で確認"
+    "source_note": "店舗ページ https://wan-time.jp/store/anella-cafe-okayamasenoo/ で確認／公式FAQ https://wan-time.jp/faq/ に「各施設予約不要」とあり、2026-11-07 に reservation を不要に修正"
   },
   {
     "id": "kanagawa-dog-anella-cafe-yokohama-chukagai",
@@ -686,7 +686,7 @@
     "price_level": 2,
     "hours": "11:00〜18:00（平日・土日祝とも）",
     "closed": "年中無休",
-    "reservation": "推奨",
+    "reservation": "不要",
     "features": [
       "保護動物",
       "複数の動物",
@@ -697,7 +697,7 @@
     "description": "保護犬と保護猫がいる福祉型のふれあいカフェで、中華街観光のあいまに寄りやすい。1階と2階の二層で、猫にも犬にも会える。",
     "image": null,
     "checked": "2026-11-06",
-    "source_note": "店舗ページ https://wan-time.jp/store/anella-cafe-yokohamachukagai/ で確認"
+    "source_note": "店舗ページ https://wan-time.jp/store/anella-cafe-yokohamachukagai/ で確認／公式FAQ https://wan-time.jp/faq/ に「各施設予約不要」とあり、2026-11-07 に reservation を不要に修正"
   },
   {
     "id": "hokkaido-dog-anella-cafe-sapporo-kiyota",
@@ -715,7 +715,7 @@
     "price_level": 2,
     "hours": "12:00〜18:00（平日・土日祝とも）",
     "closed": "年中無休",
-    "reservation": "推奨",
+    "reservation": "不要",
     "features": [
       "保護動物",
       "複数の動物",
@@ -725,7 +725,7 @@
     "description": "保護犬と保護猫がいる福祉型のふれあいカフェで、札幌市の郊外、清田区にある。駐車場があり、車で家族と立ち寄りやすい。",
     "image": null,
     "checked": "2026-11-06",
-    "source_note": "店舗ページ https://wan-time.jp/store/anella-cafe-sapporo-kiyota/ で確認"
+    "source_note": "店舗ページ https://wan-time.jp/store/anella-cafe-sapporo-kiyota/ で確認／公式FAQ https://wan-time.jp/faq/ に「各施設予約不要」とあり、2026-11-07 に reservation を不要に修正"
   },
   {
     "id": "saitama-dog-anella-cafe-koshigaya",
@@ -743,7 +743,7 @@
     "price_level": 2,
     "hours": "平日12:00〜18:00／土日祝11:00〜18:00",
     "closed": "年中無休",
-    "reservation": "推奨",
+    "reservation": "不要",
     "features": [
       "保護動物",
       "複数の動物",
@@ -753,7 +753,7 @@
     "description": "保護犬と保護猫に会える福祉型のふれあいカフェで、2026年10月に開いたばかりの店。未就学児は無料、小学生は半額で、家族連れにも向く。",
     "image": null,
     "checked": "2026-11-06",
-    "source_note": "店舗ページ https://wan-time.jp/store/anella-cafe-koshigaya/ で確認。猫の頭数は公式ページに記載なし"
+    "source_note": "店舗ページ https://wan-time.jp/store/anella-cafe-koshigaya/ で確認。猫の頭数は公式ページに記載なし／公式FAQ https://wan-time.jp/faq/ に「各施設予約不要」とあり、2026-11-07 に reservation を不要に修正"
   },
   {
     "id": "niigata-dog-anella-cafe-shibata",
@@ -771,7 +771,7 @@
     "price_level": 2,
     "hours": "平日・祝日12:00〜18:00／土日11:00〜18:00",
     "closed": "年中無休",
-    "reservation": "推奨",
+    "reservation": "不要",
     "features": [
       "保護動物",
       "複数の動物",
@@ -781,7 +781,7 @@
     "description": "保護犬と保護猫に会える福祉型のふれあいカフェ。ドリンク飲み放題（300円）のオプションがある。新潟県北部で動物とふれあえる数少ない場所。",
     "image": null,
     "checked": "2026-11-06",
-    "source_note": "店舗ページ https://wan-time.jp/store/anella-cafe-shibata/ で確認。猫の頭数は公式ページに記載なし"
+    "source_note": "店舗ページ https://wan-time.jp/store/anella-cafe-shibata/ で確認。猫の頭数は公式ページに記載なし／公式FAQ https://wan-time.jp/faq/ に「各施設予約不要」とあり、2026-11-07 に reservation を不要に修正"
   },
   {
     "id": "kagawa-dog-anella-cafe-takamatsu-chuo",
@@ -799,7 +799,7 @@
     "price_level": 2,
     "hours": "平日12:00〜18:00／土日祝11:00〜18:00",
     "closed": "年中無休",
-    "reservation": "推奨",
+    "reservation": "不要",
     "features": [
       "保護動物",
       "複数の動物",
@@ -809,7 +809,7 @@
     "description": "保護犬と保護猫に会える福祉型のふれあいカフェで、犬の部屋と猫の部屋が分かれている。未就学児は無料、小学生は半額で家族連れにも向く。",
     "image": null,
     "checked": "2026-11-06",
-    "source_note": "店舗ページ https://wan-time.jp/store/anella-cafe-takamatsuchuo/ で確認。猫の頭数は公式ページに記載なし"
+    "source_note": "店舗ページ https://wan-time.jp/store/anella-cafe-takamatsuchuo/ で確認。猫の頭数は公式ページに記載なし／公式FAQ https://wan-time.jp/faq/ に「各施設予約不要」とあり、2026-11-07 に reservation を不要に修正"
   },
   {
     "id": "wakayama-dog-anella-cafe-wakayama-hashimoto",
@@ -827,7 +827,7 @@
     "price_level": 2,
     "hours": "平日12:00〜18:00／土日祝11:00〜18:00",
     "closed": "年中無休",
-    "reservation": "推奨",
+    "reservation": "不要",
     "features": [
       "保護動物",
       "ふれあいOK",
@@ -837,7 +837,7 @@
     "description": "保護猫と触れ合える福祉型のカフェで、橋本駅から歩いてすぐ。未就学児は無料、小学生は半額。高野山方面への行き帰りにも寄れる。",
     "image": null,
     "checked": "2026-11-06",
-    "source_note": "店舗ページ https://wan-time.jp/store/anella-cafe-wakayamahashimoto/ で確認。猫の頭数は公式ページに記載なし"
+    "source_note": "店舗ページ https://wan-time.jp/store/anella-cafe-wakayamahashimoto/ で確認。猫の頭数は公式ページに記載なし／公式FAQ https://wan-time.jp/faq/ に「各施設予約不要」とあり、2026-11-07 に reservation を不要に修正"
   },
   {
     "id": "tochigi-dog-anella-cafe-ashikaga",
@@ -855,7 +855,7 @@
     "price_level": 2,
     "hours": "平日12:00〜18:00／土日祝11:00〜18:00",
     "closed": "年中無休",
-    "reservation": "推奨",
+    "reservation": "不要",
     "features": [
       "保護動物",
       "ふれあいOK",
@@ -864,7 +864,7 @@
     "description": "保護猫と触れ合える福祉型のカフェで、足利市の郊外にある。駐車場があり、車で出かけやすい。未就学児は無料、小学生は半額。",
     "image": null,
     "checked": "2026-11-06",
-    "source_note": "店舗ページ https://wan-time.jp/store/anella-cafe-ashikaga/ で確認。猫の頭数は公式ページに記載なし"
+    "source_note": "店舗ページ https://wan-time.jp/store/anella-cafe-ashikaga/ で確認。猫の頭数は公式ページに記載なし／公式FAQ https://wan-time.jp/faq/ に「各施設予約不要」とあり、2026-11-07 に reservation を不要に修正"
   },
   {
     "id": "ibaraki-dog-anella-cafe-hitachi",
@@ -882,7 +882,7 @@
     "price_level": 2,
     "hours": "平日12:00〜18:00／土日祝11:00〜18:00",
     "closed": "年中無休",
-    "reservation": "推奨",
+    "reservation": "不要",
     "features": [
       "保護動物",
       "ふれあいOK",
@@ -891,7 +891,7 @@
     "description": "保護猫と触れ合える福祉型のカフェで、日立市にある。現金のほかクレジットカードや電子マネー、QR決済が使える。未就学児は無料、小学生は半額。",
     "image": null,
     "checked": "2026-11-06",
-    "source_note": "店舗ページ https://wan-time.jp/store/anella-cafe-hitachi/ で確認。猫の頭数は公式ページに記載なし"
+    "source_note": "店舗ページ https://wan-time.jp/store/anella-cafe-hitachi/ で確認。猫の頭数は公式ページに記載なし／公式FAQ https://wan-time.jp/faq/ に「各施設予約不要」とあり、2026-11-07 に reservation を不要に修正"
   },
   {
     "id": "osaka-dog-mameshiba-cafe-osaka",
@@ -2742,5 +2742,966 @@
     "image": null,
     "checked": "2026-11-06",
     "source_note": "公式 https://dalmatiancafe101.com/price/ と トップページで確認。営業時間と定休日の記載なし。おやつ500円は現金のみ"
+  },
+  {
+    "id": "osaka-dog-fairy-room-nishishinsaibashi",
+    "name": "Animal Cafe 妖精のお部屋",
+    "animals": [
+      "dog",
+      "cat",
+      "other"
+    ],
+    "prefecture": "大阪府",
+    "area": "西心斎橋",
+    "address": "大阪府大阪市中央区西心斎橋2丁目4-6 おおきに花月久左衛門町ビル1号 4F 401",
+    "access": "なんば駅北東改札から徒歩5分",
+    "url": "https://fairy-room.net/",
+    "price": "60分2,100円（平日・税込、ドリンクなし・ワンオーダー制）／土日祝2,300円。90分ドリンクセット2,800円、120分3,300円、180分3,800円（平日）。延長15分500円",
+    "price_level": 3,
+    "hours": "平日12:00〜20:00／土日祝11:00〜20:00",
+    "closed": "なし",
+    "reservation": "不要",
+    "features": [
+      "抱っこOK",
+      "ふれあいOK",
+      "えさやり体験",
+      "写真OK",
+      "英語対応",
+      "複数の動物"
+    ],
+    "description": "道頓堀の近くのビルにある、犬と猫に加えてジェネットやフェネックなど珍しい動物にも会えるアニマルカフェ。抱っこはスタッフを呼んで行う決まりで、動物の体調や性格によっては断られる子もいる。専用のおやつを買って与える体験もできる。",
+    "image": null,
+    "checked": "2026-11-07",
+    "source_note": "公式 https://fairy-room.net/menu（料金）・/access（住所・営業時間・定休日）・/rules（抱っこ等）で確認。Web予約の受付ありと表示されるが予約必須の記載は確認できず（不要とした）。動物の頭数は公式ページに記載なし。トップのメタ説明に犬・猫・ジェネット・フェネックとあり。サイトに更新日の表示なし"
+  },
+  {
+    "id": "aichi-dog-basset-basset-toyohashi",
+    "name": "バセットハウンドふれあいカフェ Basset×Basset",
+    "animals": [
+      "dog"
+    ],
+    "prefecture": "愛知県",
+    "area": "豊橋",
+    "address": "愛知県豊橋市牟呂町字一本木60 牟呂一本木ビルA",
+    "access": "豊橋駅西口（西駅前）から車で約10分（公式記載）",
+    "url": "https://bassetxbasset.com/",
+    "price": "ふれあい60分3,000円（税込・ワンドリンク付き、大人子ども同額）。実際のふれあいは45〜50分程度",
+    "price_level": 3,
+    "hours": "平日11:00〜14:30／土日祝10:00〜16:00",
+    "closed": "水曜・木曜",
+    "reservation": "必須",
+    "features": [
+      "ふれあいOK",
+      "ドリンク込み",
+      "予約制",
+      "子ども可",
+      "写真OK"
+    ],
+    "description": "バセットハウンド3頭とだけ過ごす、犬種を絞った小さなふれあいカフェ。ふれあいは1組ずつの入れ替え制で、他の客を気にせず寄り添える。体が重い犬種のため抱っこはできず、よだれやにおいが付くので汚れてよい服で行きたい。",
+    "image": null,
+    "checked": "2026-11-07",
+    "source_note": "公式サイト https://bassetxbasset.com/ とPR TIMES掲載の運営者リリースで確認。2026年7月にふれあいスペースを開始。ふれあいは予約制（前日までネット、当日は電話かInstagram DM）。カフェのみの利用は予約不要。"
+  },
+  {
+    "id": "hokkaido-dog-anella-cafe-ebetsu-nopporo",
+    "name": "ANELLA CAFE 江別野幌店",
+    "animals": [
+      "dog",
+      "cat"
+    ],
+    "prefecture": "北海道",
+    "area": "江別市野幌町",
+    "address": "北海道江別市野幌町81-1",
+    "access": "JR函館本線 野幌駅から徒歩11分",
+    "url": "https://wan-time.jp/store/anella-cafe-ebetsunopporo/",
+    "price": "一般30分1,000円（延長15分400円）、小学生30分500円（延長15分200円）、未就学児無料",
+    "price_level": 2,
+    "hours": "平日12:00〜18:00／土日祝11:00〜18:00",
+    "closed": "年中無休",
+    "reservation": "不要",
+    "features": [
+      "保護動物",
+      "複数の動物",
+      "ふれあいOK",
+      "子ども可"
+    ],
+    "description": "江別市野幌町にある保護犬・保護猫のふれあいカフェで、野幌駅から徒歩11分である。共用の駐車場があり、札幌近郊から車で通いやすい。",
+    "image": null,
+    "checked": "2026-11-07",
+    "source_note": "店舗ページ https://wan-time.jp/store/anella-cafe-ebetsunopporo/ で確認。公式FAQ https://wan-time.jp/faq/ に「各施設予約不要」の記載あり。犬猫それぞれの頭数は公式ページに記載なし（在籍は日々変動と公式に記載）"
+  },
+  {
+    "id": "kanagawa-dog-anella-cafe-fuchinobe",
+    "name": "ANELLA CAFE 淵野辺店",
+    "animals": [
+      "dog",
+      "cat"
+    ],
+    "prefecture": "神奈川県",
+    "area": "相模原市中央区鹿沼台",
+    "address": "神奈川県相模原市中央区鹿沼台1-11-6 ＳＴビル2階",
+    "access": "JR横浜線 淵野辺駅から徒歩1分",
+    "url": "https://wan-time.jp/store/anella-cafe-fuchinobe/",
+    "price": "一般30分1,000円（延長15分400円）、小学生30分500円（延長15分200円）、未就学児無料",
+    "price_level": 2,
+    "hours": "平日12:00〜18:00／土日祝11:00〜18:00",
+    "closed": "年中無休",
+    "reservation": "不要",
+    "features": [
+      "保護動物",
+      "複数の動物",
+      "ふれあいOK",
+      "子ども可",
+      "駅近"
+    ],
+    "description": "JR横浜線の淵野辺駅から徒歩1分、STビル2階にある保護犬・保護猫のふれあいカフェだ。駅前で、相模原市中心部の買い物のついでに立ち寄れる。",
+    "image": null,
+    "checked": "2026-11-07",
+    "source_note": "店舗ページ https://wan-time.jp/store/anella-cafe-fuchinobe/ で確認。公式FAQ https://wan-time.jp/faq/ に「各施設予約不要」の記載あり。犬猫それぞれの頭数は公式ページに記載なし（在籍は日々変動と公式に記載）"
+  },
+  {
+    "id": "saitama-dog-anella-cafe-fujimino",
+    "name": "ANELLA CAFE ふじみ野店",
+    "animals": [
+      "dog",
+      "cat"
+    ],
+    "prefecture": "埼玉県",
+    "area": "富士見市ふじみ野東",
+    "address": "埼玉県富士見市ふじみ野東2-1-1 グリーンテラスふじみ野 1F",
+    "access": "東武東上線 ふじみ野駅から徒歩5分",
+    "url": "https://wan-time.jp/store/anella-cafe-fujimino/",
+    "price": "一般30分1,000円（延長15分400円）、小学生30分500円（延長15分200円）、未就学児無料",
+    "price_level": 2,
+    "hours": "平日12:00〜18:00／土日祝11:00〜18:00",
+    "closed": "年中無休",
+    "reservation": "不要",
+    "features": [
+      "保護動物",
+      "複数の動物",
+      "ふれあいOK",
+      "子ども可"
+    ],
+    "description": "埼玉県富士見市のグリーンテラスふじみ野1階にある、保護犬・保護猫のふれあいカフェである。ふじみ野駅から徒歩5分で、駐車は近隣のコインパーキングを使う。",
+    "image": null,
+    "checked": "2026-11-07",
+    "source_note": "店舗ページ https://wan-time.jp/store/anella-cafe-fujimino/ で確認。公式FAQ https://wan-time.jp/faq/ に「各施設予約不要」の記載あり。犬猫それぞれの頭数は公式ページに記載なし（在籍は日々変動と公式に記載）"
+  },
+  {
+    "id": "fukui-dog-anella-cafe-fukui",
+    "name": "ANELLA CAFE 福井店",
+    "animals": [
+      "dog",
+      "cat"
+    ],
+    "prefecture": "福井県",
+    "area": "福井市今市町",
+    "address": "福井県福井市今市町58-10-1 河原ビル",
+    "access": "福井鉄道福武線 清明駅から徒歩4分",
+    "url": "https://wan-time.jp/store/anella-cafe-fukui/",
+    "price": "一般30分1,000円（延長15分400円）、小学生30分500円（延長15分200円）、未就学児無料",
+    "price_level": 2,
+    "hours": "平日12:00〜17:00／土日祝11:00〜17:00",
+    "closed": "年中無休",
+    "reservation": "不要",
+    "features": [
+      "保護動物",
+      "複数の動物",
+      "ふれあいOK",
+      "子ども可"
+    ],
+    "description": "福井市今市町にある保護犬・保護猫のふれあいカフェで、清明駅から徒歩4分である。この系列では閉店が17時と早めなので、午後の早い時間に行くのがよい。",
+    "image": null,
+    "checked": "2026-11-07",
+    "source_note": "店舗ページ https://wan-time.jp/store/anella-cafe-fukui/ で確認。公式FAQ https://wan-time.jp/faq/ に「各施設予約不要」の記載あり。犬猫それぞれの頭数は公式ページに記載なし（在籍は日々変動と公式に記載）"
+  },
+  {
+    "id": "gifu-dog-anella-cafe-gifu-toki",
+    "name": "ANELLA CAFE 岐阜土岐店",
+    "animals": [
+      "dog",
+      "cat"
+    ],
+    "prefecture": "岐阜県",
+    "area": "土岐市肥田浅野朝日町",
+    "address": "岐阜県土岐市肥田浅野朝日町1-16",
+    "access": "JR中央本線 土岐市駅から徒歩21分",
+    "url": "https://wan-time.jp/store/anella-cafe-gifutoki/",
+    "price": "一般30分1,000円（延長15分400円）、小学生30分500円（延長15分200円）、未就学児無料",
+    "price_level": 2,
+    "hours": "全日11:00〜18:00",
+    "closed": "年中無休",
+    "reservation": "不要",
+    "features": [
+      "保護動物",
+      "複数の動物",
+      "ふれあいOK",
+      "子ども可"
+    ],
+    "description": "岐阜県土岐市にある保護犬・保護猫のふれあいカフェで、平日も土日祝も11時に開く。土岐市駅から徒歩21分と離れており、駐車場がある車向きの店だ。",
+    "image": null,
+    "checked": "2026-11-07",
+    "source_note": "店舗ページ https://wan-time.jp/store/anella-cafe-gifutoki/ で確認。公式FAQ https://wan-time.jp/faq/ に「各施設予約不要」の記載あり。犬猫それぞれの頭数は公式ページに記載なし（在籍は日々変動と公式に記載）"
+  },
+  {
+    "id": "fukuoka-dog-anella-cafe-hakozaki",
+    "name": "ANELLA CAFE 箱崎店",
+    "animals": [
+      "dog",
+      "cat"
+    ],
+    "prefecture": "福岡県",
+    "area": "福岡市東区原田",
+    "address": "福岡県福岡市東区原田3-6-19",
+    "access": "JR鹿児島本線 箱崎駅から徒歩19分",
+    "url": "https://wan-time.jp/store/anella-cafe-hakozaki/",
+    "price": "一般30分1,000円（延長15分400円）、小学生30分500円（延長15分200円）、未就学児無料",
+    "price_level": 2,
+    "hours": "平日12:00〜18:00／土日祝11:00〜18:00",
+    "closed": "年中無休",
+    "reservation": "不要",
+    "features": [
+      "保護動物",
+      "複数の動物",
+      "ふれあいOK",
+      "子ども可"
+    ],
+    "description": "福岡市東区原田にある保護犬・保護猫のふれあいカフェだ。箱崎駅から徒歩19分ほどで、5台分の駐車場がある。",
+    "image": null,
+    "checked": "2026-11-07",
+    "source_note": "店舗ページ https://wan-time.jp/store/anella-cafe-hakozaki/ で確認。公式FAQ https://wan-time.jp/faq/ に「各施設予約不要」の記載あり。犬猫それぞれの頭数は公式ページに記載なし（在籍は日々変動と公式に記載）"
+  },
+  {
+    "id": "shizuoka-dog-anella-cafe-hamakita-kibune",
+    "name": "ANELLA CAFE 浜北 貴布祢店",
+    "animals": [
+      "dog",
+      "cat"
+    ],
+    "prefecture": "静岡県",
+    "area": "浜松市浜名区貴布祢",
+    "address": "静岡県浜松市浜名区貴布祢600-5",
+    "access": "遠州鉄道鉄道線 美薗中央公園駅から徒歩4分",
+    "url": "https://wan-time.jp/store/anella-cafe-hamakitakibune/",
+    "price": "一般30分1,000円（延長15分400円）、小学生30分500円（延長15分200円）、未就学児無料",
+    "price_level": 2,
+    "hours": "全日11:00〜17:30",
+    "closed": "年中無休",
+    "reservation": "不要",
+    "features": [
+      "保護動物",
+      "複数の動物",
+      "ふれあいOK",
+      "子ども可"
+    ],
+    "description": "浜松市浜名区の貴布祢にある、保護犬・保護猫のふれあいカフェである。遠州鉄道の美薗中央公園駅から徒歩4分で、営業は17時半までと少し早めに終わる。",
+    "image": null,
+    "checked": "2026-11-07",
+    "source_note": "店舗ページ https://wan-time.jp/store/anella-cafe-hamakitakibune/ で確認。公式FAQ https://wan-time.jp/faq/ に「各施設予約不要」の記載あり。犬猫それぞれの頭数は公式ページに記載なし（在籍は日々変動と公式に記載）"
+  },
+  {
+    "id": "shizuoka-dog-anella-cafe-aeon-hamamatsu-nishi",
+    "name": "ANELLA CAFE イオン浜松西店",
+    "animals": [
+      "dog",
+      "cat"
+    ],
+    "prefecture": "静岡県",
+    "area": "浜松市中央区入野町",
+    "address": "静岡県浜松市中央区入野町6244-1 イオン浜松西店1階",
+    "access": "JR東海道本線 高塚駅から徒歩19分",
+    "url": "https://wan-time.jp/store/anella-cafe-hamamatsunishi/",
+    "price": "一般30分1,000円（延長15分400円）、小学生30分500円（延長15分200円）、未就学児無料",
+    "price_level": 2,
+    "hours": "平日12:00〜18:00／土日祝11:00〜18:00",
+    "closed": "年中無休",
+    "reservation": "不要",
+    "features": [
+      "保護動物",
+      "複数の動物",
+      "ふれあいOK",
+      "子ども可"
+    ],
+    "description": "浜松市中央区のイオン浜松西店の1階にある保護犬・保護猫のふれあいカフェだ。モール内の店のため、共用駐車場を使って買い物と組み合わせやすい。",
+    "image": null,
+    "checked": "2026-11-07",
+    "source_note": "店舗ページ https://wan-time.jp/store/anella-cafe-hamamatsunishi/ で確認。公式FAQ https://wan-time.jp/faq/ に「各施設予約不要」の記載あり。犬猫それぞれの頭数は公式ページに記載なし（在籍は日々変動と公式に記載）"
+  },
+  {
+    "id": "kanagawa-dog-anella-cafe-keio-inadazutsumi",
+    "name": "ANELLA CAFE 京王稲田堤店",
+    "animals": [
+      "dog",
+      "cat"
+    ],
+    "prefecture": "神奈川県",
+    "area": "川崎市多摩区菅",
+    "address": "神奈川県川崎市多摩区菅4-4-17 グレイスコート稲田堤1階",
+    "access": "京王電鉄相模原線 京王稲田堤駅から徒歩2分",
+    "url": "https://wan-time.jp/store/anella-cafe-inadadutsumi/",
+    "price": "一般30分1,000円（延長15分400円）、小学生30分500円（延長15分200円）、未就学児無料",
+    "price_level": 2,
+    "hours": "平日12:00〜18:00／土日祝11:00〜18:00",
+    "closed": "年中無休",
+    "reservation": "不要",
+    "features": [
+      "保護動物",
+      "複数の動物",
+      "ふれあいOK",
+      "子ども可",
+      "駅近"
+    ],
+    "description": "京王稲田堤駅から徒歩2分、グレイスコート稲田堤1階の保護犬・保護猫のふれあいカフェである。JR南武線の稲田堤駅からも徒歩5分で、2路線から行ける。",
+    "image": null,
+    "checked": "2026-11-07",
+    "source_note": "店舗ページ https://wan-time.jp/store/anella-cafe-inadadutsumi/ で確認。公式FAQ https://wan-time.jp/faq/ に「各施設予約不要」の記載あり。犬猫それぞれの頭数は公式ページに記載なし（在籍は日々変動と公式に記載）"
+  },
+  {
+    "id": "kanagawa-dog-anella-cafe-isezakicho",
+    "name": "ANELLA CAFE 伊勢佐木町店",
+    "animals": [
+      "dog",
+      "cat"
+    ],
+    "prefecture": "神奈川県",
+    "area": "横浜市中区若葉町",
+    "address": "神奈川県横浜市中区若葉町2-23-1 パークアクシス伊勢佐木町通り2号室",
+    "access": "横浜市営地下鉄ブルーライン 伊勢佐木町駅から徒歩5分",
+    "url": "https://wan-time.jp/store/anella-cafe-isezakicho/",
+    "price": "一般30分1,000円（延長15分400円）、小学生30分500円（延長15分200円）、未就学児無料",
+    "price_level": 2,
+    "hours": "全日11:00〜18:00",
+    "closed": "年中無休",
+    "reservation": "不要",
+    "features": [
+      "保護動物",
+      "複数の動物",
+      "ふれあいOK",
+      "子ども可"
+    ],
+    "description": "横浜市中区若葉町にある保護犬・保護猫のふれあいカフェで、伊勢佐木町駅から徒歩5分である。平日も土日祝も11時に開く。",
+    "image": null,
+    "checked": "2026-11-07",
+    "source_note": "店舗ページ https://wan-time.jp/store/anella-cafe-isezakicho/ で確認。公式FAQ https://wan-time.jp/faq/ に「各施設予約不要」の記載あり。犬猫それぞれの頭数は公式ページに記載なし（在籍は日々変動と公式に記載）"
+  },
+  {
+    "id": "kanagawa-dog-anella-cafe-kawasaki-ekimae",
+    "name": "ANELLA CAFE 川崎駅前店",
+    "animals": [
+      "dog",
+      "cat"
+    ],
+    "prefecture": "神奈川県",
+    "area": "川崎市川崎区貝塚",
+    "address": "神奈川県川崎市川崎区貝塚2-2-1 ディザイアパレス 1F",
+    "access": "JR南武支線 川崎新町駅から徒歩11分",
+    "url": "https://wan-time.jp/store/anella-cafe-kawasakiekimae/",
+    "price": "平日30分1,100円（延長15分440円）／土日祝30分1,320円（延長15分550円）、小学生は半額、未就学児無料",
+    "price_level": 2,
+    "hours": "平日12:00〜18:00／土日祝11:00〜18:00",
+    "closed": "年中無休",
+    "reservation": "不要",
+    "features": [
+      "保護動物",
+      "複数の動物",
+      "ふれあいOK",
+      "子ども可"
+    ],
+    "description": "川崎市川崎区貝塚のディザイアパレス1階にある保護犬・保護猫のふれあいカフェで、2026年1月に動物取扱業の登録を受けた。料金は平日と土日祝で異なる。",
+    "image": null,
+    "checked": "2026-11-07",
+    "source_note": "店舗ページ https://wan-time.jp/store/anella-cafe-kawasakiekimae/ で確認。公式FAQ https://wan-time.jp/faq/ に「各施設予約不要」の記載あり。犬猫それぞれの頭数は公式ページに記載なし（在籍は日々変動と公式に記載）"
+  },
+  {
+    "id": "okayama-dog-anella-cafe-branch-okayama-kitanagase",
+    "name": "ANELLA CAFE ブランチ岡山北長瀬店",
+    "animals": [
+      "dog",
+      "cat"
+    ],
+    "prefecture": "岡山県",
+    "area": "岡山市北区北長瀬表町",
+    "address": "岡山県岡山市北区北長瀬表町2-17-80",
+    "access": "JR山陽本線 北長瀬駅から徒歩11分",
+    "url": "https://wan-time.jp/store/anella-cafe-kitanagase/",
+    "price": "一般30分1,000円（延長15分400円）、小学生30分500円（延長15分200円）、未就学児無料",
+    "price_level": 2,
+    "hours": "平日12:00〜18:00／土日祝11:00〜18:00",
+    "closed": "年中無休",
+    "reservation": "不要",
+    "features": [
+      "保護動物",
+      "複数の動物",
+      "ふれあいOK",
+      "子ども可"
+    ],
+    "description": "岡山市北区にある「ブランチ」名義の保護犬・保護猫のふれあいカフェで、北長瀬駅から徒歩11分である。商業施設ブランチ岡山北長瀬の中にあり、買い物のついでに立ち寄れる。",
+    "image": null,
+    "checked": "2026-11-07",
+    "source_note": "店舗ページ https://wan-time.jp/store/anella-cafe-kitanagase/ で確認。公式FAQ https://wan-time.jp/faq/ に「各施設予約不要」の記載あり。犬猫それぞれの頭数は公式ページに記載なし（在籍は日々変動と公式に記載）"
+  },
+  {
+    "id": "yamanashi-dog-anella-cafe-kofu",
+    "name": "ANELLA CAFE 甲府店",
+    "animals": [
+      "dog",
+      "cat"
+    ],
+    "prefecture": "山梨県",
+    "area": "甲府市住吉",
+    "address": "山梨県甲府市住吉2-3-30",
+    "access": "JR中央本線 甲府駅から車で5分",
+    "url": "https://wan-time.jp/store/anella-cafe-kofu/",
+    "price": "一般30分1,000円（延長15分400円）、小学生30分500円（延長15分200円）、未就学児無料",
+    "price_level": 2,
+    "hours": "平日12:00〜18:00／土日祝11:00〜18:00",
+    "closed": "年中無休",
+    "reservation": "不要",
+    "features": [
+      "保護動物",
+      "複数の動物",
+      "ふれあいOK",
+      "子ども可"
+    ],
+    "description": "甲府市住吉にある保護犬・保護猫のふれあいカフェだ。甲府駅から車で5分ほどで、5台分の駐車場がある。",
+    "image": null,
+    "checked": "2026-11-07",
+    "source_note": "店舗ページ https://wan-time.jp/store/anella-cafe-kofu/ で確認。公式FAQ https://wan-time.jp/faq/ に「各施設予約不要」の記載あり。犬猫それぞれの頭数は公式ページに記載なし（在籍は日々変動と公式に記載）"
+  },
+  {
+    "id": "okayama-dog-anella-cafe-kurashiki",
+    "name": "ANELLA CAFE 倉敷店",
+    "animals": [
+      "dog",
+      "cat"
+    ],
+    "prefecture": "岡山県",
+    "area": "倉敷市酒津",
+    "address": "岡山県倉敷市酒津2710-1",
+    "access": "水島臨海鉄道水島本線 球場前駅から徒歩18分（イオンモール倉敷の目の前）",
+    "url": "https://wan-time.jp/store/anella-cafe-kurashiki/",
+    "price": "一般30分1,000円（延長15分400円）、小学生30分500円（延長15分200円）、未就学児無料",
+    "price_level": 2,
+    "hours": "全日12:00〜18:00",
+    "closed": "年中無休",
+    "reservation": "不要",
+    "features": [
+      "保護動物",
+      "複数の動物",
+      "ふれあいOK",
+      "子ども可"
+    ],
+    "description": "倉敷市酒津にある保護犬・保護猫のふれあいカフェで、イオンモール倉敷の目の前である。駐車場が3台分あり、平日も土日祝も12時から営業する。",
+    "image": null,
+    "checked": "2026-11-07",
+    "source_note": "店舗ページ https://wan-time.jp/store/anella-cafe-kurashiki/ で確認。公式FAQ https://wan-time.jp/faq/ に「各施設予約不要」の記載あり。犬猫それぞれの頭数は公式ページに記載なし（在籍は日々変動と公式に記載）"
+  },
+  {
+    "id": "shiga-dog-anella-cafe-kusatsu-ritto",
+    "name": "ANELLA CAFE 草津栗東店",
+    "animals": [
+      "dog",
+      "cat"
+    ],
+    "prefecture": "滋賀県",
+    "area": "栗東市小柿",
+    "address": "滋賀県栗東市小柿7-9-11 滋賀中央ビル1F",
+    "access": "JR草津線 草津駅から徒歩11分",
+    "url": "https://wan-time.jp/store/anella-cafe-kusatsuritto/",
+    "price": "一般30分1,000円（延長15分400円）、小学生30分500円（延長15分200円）、未就学児無料",
+    "price_level": 2,
+    "hours": "平日12:00〜18:00／土日祝11:00〜18:00",
+    "closed": "年中無休",
+    "reservation": "不要",
+    "features": [
+      "保護動物",
+      "複数の動物",
+      "ふれあいOK",
+      "子ども可"
+    ],
+    "description": "滋賀県栗東市小柿の滋賀中央ビル1階にある保護犬・保護猫のふれあいカフェである。草津駅から徒歩11分で、駐車場もある。",
+    "image": null,
+    "checked": "2026-11-07",
+    "source_note": "店舗ページ https://wan-time.jp/store/anella-cafe-kusatsuritto/ で確認。公式FAQ https://wan-time.jp/faq/ に「各施設予約不要」の記載あり。犬猫それぞれの頭数は公式ページに記載なし（在籍は日々変動と公式に記載）"
+  },
+  {
+    "id": "kagawa-dog-anella-cafe-marugame",
+    "name": "ANELLA CAFE 丸亀店",
+    "animals": [
+      "dog",
+      "cat"
+    ],
+    "prefecture": "香川県",
+    "area": "丸亀市土器町東",
+    "address": "香川県丸亀市土器町東8-464",
+    "access": "予讃線 丸亀駅から車で6分",
+    "url": "https://wan-time.jp/store/anella-cafe-marugame/",
+    "price": "一般30分1,000円（延長15分300円）、小学生30分500円（延長15分150円）、未就学児無料",
+    "price_level": 2,
+    "hours": "平日12:00〜18:00／土日祝11:00〜18:00",
+    "closed": "年中無休",
+    "reservation": "不要",
+    "features": [
+      "保護動物",
+      "複数の動物",
+      "ふれあいOK",
+      "子ども可"
+    ],
+    "description": "香川県丸亀市にある保護犬・保護猫のふれあいカフェで、丸亀駅から車で6分ほどである。駐車場があり、車で行きやすい。",
+    "image": null,
+    "checked": "2026-11-07",
+    "source_note": "店舗ページ https://wan-time.jp/store/anella-cafe-marugame/ で確認。公式FAQ https://wan-time.jp/faq/ に「各施設予約不要」の記載あり。犬猫それぞれの頭数は公式ページに記載なし（在籍は日々変動と公式に記載）／検品⑥（2026-11-07）延長料金を公式店舗ページの300円／150円に修正"
+  },
+  {
+    "id": "saitama-dog-anella-cafe-minami-urawa",
+    "name": "ANELLA CAFE 南浦和店",
+    "animals": [
+      "dog",
+      "cat"
+    ],
+    "prefecture": "埼玉県",
+    "area": "さいたま市南区南浦和",
+    "address": "埼玉県さいたま市南区南浦和2-28-16 ハイグレード南浦和1F",
+    "access": "JR武蔵野線 南浦和駅から徒歩3分",
+    "url": "https://wan-time.jp/store/anella-cafe-minamiurawa/",
+    "price": "平日30分1,000円（延長15分400円）／土日祝30分1,200円（延長15分500円）、小学生は半額、未就学児無料",
+    "price_level": 2,
+    "hours": "平日・祝日12:00〜18:00／土日11:00〜18:00",
+    "closed": "年中無休",
+    "reservation": "不要",
+    "features": [
+      "保護動物",
+      "複数の動物",
+      "ふれあいOK",
+      "子ども可",
+      "駅近"
+    ],
+    "description": "南浦和駅から徒歩3分、ハイグレード南浦和1階の保護犬・保護猫のふれあいカフェだ。2026年5月に登録を受けた新しい店で、料金は平日と土日祝で異なる。",
+    "image": null,
+    "checked": "2026-11-07",
+    "source_note": "店舗ページ https://wan-time.jp/store/anella-cafe-minamiurawa/ で確認。公式FAQ https://wan-time.jp/faq/ に「各施設予約不要」の記載あり。犬猫それぞれの頭数は公式ページに記載なし（在籍は日々変動と公式に記載）"
+  },
+  {
+    "id": "chiba-dog-anella-cafe-naruto-mega-donki",
+    "name": "ANELLA CAFE MEGAドン・キホーテ成東店",
+    "animals": [
+      "dog",
+      "cat"
+    ],
+    "prefecture": "千葉県",
+    "area": "山武市成東",
+    "address": "千葉県山武市成東1808-1 MEGAドン・キホーテ成東店 A棟1階",
+    "access": "総武本線成東駅から徒歩25分",
+    "url": "https://wan-time.jp/store/anella-cafe-naruto/",
+    "price": "一般30分1,000円（延長15分400円）、小学生30分500円（延長15分200円）、未就学児無料",
+    "price_level": 2,
+    "hours": "平日12:00〜18:00／土日祝11:00〜18:00",
+    "closed": "年中無休",
+    "reservation": "不要",
+    "features": [
+      "保護動物",
+      "複数の動物",
+      "ふれあいOK",
+      "子ども可"
+    ],
+    "description": "千葉県山武市のMEGAドン・キホーテ成東店A棟1階にある保護犬・保護猫のふれあいカフェである。共用駐車場が使え、買い物のついでに立ち寄れる。",
+    "image": null,
+    "checked": "2026-11-07",
+    "source_note": "店舗ページ https://wan-time.jp/store/anella-cafe-naruto/ で確認。公式FAQ https://wan-time.jp/faq/ に「各施設予約不要」の記載あり。犬猫それぞれの頭数は公式ページに記載なし（在籍は日々変動と公式に記載）"
+  },
+  {
+    "id": "hyogo-dog-anella-cafe-nishinomiya",
+    "name": "ANELLA CAFE 西宮店",
+    "animals": [
+      "dog",
+      "cat"
+    ],
+    "prefecture": "兵庫県",
+    "area": "西宮市鳴尾町",
+    "address": "兵庫県西宮市鳴尾町1-3-21 エイチ・ツーオー鳴尾ビル1階",
+    "access": "阪神本線 鳴尾・武庫川女子大前駅から徒歩5分",
+    "url": "https://wan-time.jp/store/anella-cafe-nishinomiya/",
+    "price": "一般30分1,000円（延長30分500円）、小学生30分500円（延長30分300円）、未就学児無料",
+    "price_level": 2,
+    "hours": "全日11:00〜18:00",
+    "closed": "年中無休",
+    "reservation": "不要",
+    "features": [
+      "保護動物",
+      "複数の動物",
+      "ふれあいOK",
+      "子ども可"
+    ],
+    "description": "兵庫県西宮市鳴尾町にある保護犬・保護猫のふれあいカフェで、阪神の鳴尾・武庫川女子大前駅から徒歩5分だ。延長は30分単位で、系列の他店より区切りが長い。",
+    "image": null,
+    "checked": "2026-11-07",
+    "source_note": "店舗ページ https://wan-time.jp/store/anella-cafe-nishinomiya/ で確認。公式FAQ https://wan-time.jp/faq/ に「各施設予約不要」の記載あり。犬猫それぞれの頭数は公式ページに記載なし（在籍は日々変動と公式に記載）"
+  },
+  {
+    "id": "osaka-dog-anella-cafe-osaka-matsubara",
+    "name": "ANELLA CAFE 大阪松原店",
+    "animals": [
+      "dog",
+      "cat"
+    ],
+    "prefecture": "大阪府",
+    "area": "松原市田井城",
+    "address": "大阪府松原市田井城1丁目1-18",
+    "access": "近鉄南大阪線 高見ノ里駅から徒歩7分",
+    "url": "https://wan-time.jp/store/anella-cafe-osakamatsubara/",
+    "price": "一般30分1,000円（延長15分400円）、小学生30分500円（延長15分200円）、未就学児無料",
+    "price_level": 2,
+    "hours": "平日12:00〜18:00／土日祝11:00〜18:00",
+    "closed": "年中無休",
+    "reservation": "不要",
+    "features": [
+      "保護動物",
+      "複数の動物",
+      "ふれあいOK",
+      "子ども可"
+    ],
+    "description": "大阪府松原市田井城にある保護犬・保護猫のふれあいカフェである。近鉄南大阪線の高見ノ里駅から徒歩7分で、最寄りが複数あり行きやすい。",
+    "image": null,
+    "checked": "2026-11-07",
+    "source_note": "店舗ページ https://wan-time.jp/store/anella-cafe-osakamatsubara/ で確認。公式FAQ https://wan-time.jp/faq/ に「各施設予約不要」の記載あり。犬猫それぞれの頭数は公式ページに記載なし（在籍は日々変動と公式に記載）"
+  },
+  {
+    "id": "osaka-dog-anella-cafe-osaka-sakai",
+    "name": "ANELLA CAFE 大阪堺店",
+    "animals": [
+      "dog",
+      "cat"
+    ],
+    "prefecture": "大阪府",
+    "area": "堺市堺区市之町東",
+    "address": "大阪府堺市堺区市之町東6-2-6",
+    "access": "南海高野線 堺東駅から徒歩10分",
+    "url": "https://wan-time.jp/store/anella-cafe-osakasakai/",
+    "price": "一般30分1,000円（延長15分400円）、小学生30分500円（延長15分200円）、未就学児無料",
+    "price_level": 2,
+    "hours": "平日12:00〜18:00／土日祝11:00〜18:00",
+    "closed": "年中無休",
+    "reservation": "不要",
+    "features": [
+      "保護動物",
+      "複数の動物",
+      "ふれあいOK",
+      "子ども可"
+    ],
+    "description": "堺市堺区市之町東にある保護犬・保護猫のふれあいカフェで、堺東駅から徒歩10分である。系列の中でも大阪府内に複数ある店の一つで、保護された犬猫と時間制で過ごせる。",
+    "image": null,
+    "checked": "2026-11-07",
+    "source_note": "店舗ページ https://wan-time.jp/store/anella-cafe-osakasakai/ で確認。公式FAQ https://wan-time.jp/faq/ に「各施設予約不要」の記載あり。犬猫それぞれの頭数は公式ページに記載なし（在籍は日々変動と公式に記載）"
+  },
+  {
+    "id": "osaka-dog-anella-cafe-osaka-tsurumi-ryokuchi",
+    "name": "ANELLA CAFE 大阪鶴見緑地店",
+    "animals": [
+      "dog",
+      "cat"
+    ],
+    "prefecture": "大阪府",
+    "area": "大阪市鶴見区諸口",
+    "address": "大阪府大阪市鶴見区諸口5丁目浜6-9 池田ビル2階",
+    "access": "大阪メトロ 横堤駅から徒歩12分",
+    "url": "https://wan-time.jp/store/anella-cafe-osakatsurumi/",
+    "price": "一般30分1,000円（延長15分400円）、小学生30分500円（延長15分200円）、未就学児無料",
+    "price_level": 2,
+    "hours": "平日12:00〜18:00／土日祝11:00〜18:00",
+    "closed": "年中無休",
+    "reservation": "不要",
+    "features": [
+      "保護動物",
+      "複数の動物",
+      "ふれあいOK",
+      "子ども可"
+    ],
+    "description": "大阪市鶴見区の池田ビル2階にある保護犬・保護猫のふれあいカフェだ。横堤駅から徒歩12分、鶴見緑地駅からも徒歩14分で、公園の散歩と合わせやすい。",
+    "image": null,
+    "checked": "2026-11-07",
+    "source_note": "店舗ページ https://wan-time.jp/store/anella-cafe-osakatsurumi/ で確認。公式FAQ https://wan-time.jp/faq/ に「各施設予約不要」の記載あり。犬猫それぞれの頭数は公式ページに記載なし（在籍は日々変動と公式に記載）"
+  },
+  {
+    "id": "kanagawa-dog-anella-cafe-sotetsu-life-ryokuentoshi",
+    "name": "ANELLA CAFE 相鉄ライフ緑園都市店",
+    "animals": [
+      "dog",
+      "cat"
+    ],
+    "prefecture": "神奈川県",
+    "area": "横浜市泉区緑園",
+    "address": "神奈川県横浜市泉区緑園4-1-2",
+    "access": "相鉄いずみ野線 緑園都市駅から徒歩5分",
+    "url": "https://wan-time.jp/store/anella-cafe-ryokuentoshi/",
+    "price": "一般30分1,000円（延長15分400円）、小学生30分500円（延長15分200円）、未就学児無料",
+    "price_level": 2,
+    "hours": "平日12:00〜18:00／土日祝11:00〜18:00",
+    "closed": "年中無休",
+    "reservation": "不要",
+    "features": [
+      "保護動物",
+      "複数の動物",
+      "ふれあいOK",
+      "子ども可"
+    ],
+    "description": "横浜市泉区の相鉄ライフ緑園都市店にある保護犬・保護猫のふれあいカフェである。緑園都市駅から徒歩5分で、共用の駐車場を使える。",
+    "image": null,
+    "checked": "2026-11-07",
+    "source_note": "店舗ページ https://wan-time.jp/store/anella-cafe-ryokuentoshi/ で確認。公式FAQ https://wan-time.jp/faq/ に「各施設予約不要」の記載あり。犬猫それぞれの頭数は公式ページに記載なし（在籍は日々変動と公式に記載）"
+  },
+  {
+    "id": "kanagawa-dog-anella-cafe-sagamihara-hashimoto",
+    "name": "ANELLA CAFE 相模原橋本店",
+    "animals": [
+      "dog",
+      "cat"
+    ],
+    "prefecture": "神奈川県",
+    "area": "相模原市緑区相原",
+    "address": "神奈川県相模原市緑区相原4-1-30 川誠ビル1F",
+    "access": "JR横浜線 相原駅から徒歩20分",
+    "url": "https://wan-time.jp/store/anella-cafe-sagamiharahashimoto/",
+    "price": "一般30分1,000円（延長15分400円）、小学生30分500円（延長15分200円）、未就学児無料",
+    "price_level": 2,
+    "hours": "平日12:00〜18:00／土日祝11:00〜18:00",
+    "closed": "年中無休",
+    "reservation": "不要",
+    "features": [
+      "保護動物",
+      "複数の動物",
+      "ふれあいOK",
+      "子ども可"
+    ],
+    "description": "相模原市緑区相原の川誠ビル1階にある保護犬・保護猫のふれあいカフェだ。店名は橋本だが最寄りの相原駅から徒歩20分あり、駐車場を使う来店が現実的である。",
+    "image": null,
+    "checked": "2026-11-07",
+    "source_note": "店舗ページ https://wan-time.jp/store/anella-cafe-sagamiharahashimoto/ で確認。公式FAQ https://wan-time.jp/faq/ に「各施設予約不要」の記載あり。犬猫それぞれの頭数は公式ページに記載なし（在籍は日々変動と公式に記載）"
+  },
+  {
+    "id": "saitama-dog-anella-cafe-saitama-fukaya",
+    "name": "ANELLA CAFE 埼玉深谷店",
+    "animals": [
+      "dog",
+      "cat"
+    ],
+    "prefecture": "埼玉県",
+    "area": "深谷市西島町",
+    "address": "埼玉県深谷市西島町3-1-2 スカイハイツ101",
+    "access": "JR高崎線 深谷駅から徒歩1分",
+    "url": "https://wan-time.jp/store/anella-cafe-saitamafukaya/",
+    "price": "一般30分1,000円（延長15分400円）、小学生30分500円（延長15分200円）、未就学児無料",
+    "price_level": 2,
+    "hours": "平日12:00〜18:00／土日祝11:00〜18:00",
+    "closed": "年中無休",
+    "reservation": "不要",
+    "features": [
+      "保護動物",
+      "複数の動物",
+      "ふれあいOK",
+      "子ども可",
+      "駅近"
+    ],
+    "description": "JR高崎線の深谷駅から徒歩1分、スカイハイツ101にある保護犬・保護猫のふれあいカフェである。駅前のうえ8台分の駐車場もあり、電車でも車でも行ける。",
+    "image": null,
+    "checked": "2026-11-07",
+    "source_note": "店舗ページ https://wan-time.jp/store/anella-cafe-saitamafukaya/ で確認。公式FAQ https://wan-time.jp/faq/ に「各施設予約不要」の記載あり。犬猫それぞれの頭数は公式ページに記載なし（在籍は日々変動と公式に記載）"
+  },
+  {
+    "id": "tokyo-dog-anella-cafe-shinjuku-yotsuya",
+    "name": "ANELLA CAFE 新宿四ツ谷店",
+    "animals": [
+      "dog",
+      "cat"
+    ],
+    "prefecture": "東京都",
+    "area": "新宿区四谷坂町",
+    "address": "東京都新宿区四谷坂町9-9 三廣ビル1F・2F",
+    "access": "都営新宿線 曙橋駅から徒歩7分",
+    "url": "https://wan-time.jp/store/anella-cafe-shinjukuyostuya/",
+    "price": "一般30分1,000円（延長15分400円）、小学生30分500円（延長15分200円）、未就学児無料",
+    "price_level": 2,
+    "hours": "平日12:00〜18:00／土日祝11:00〜18:00",
+    "closed": "年中無休",
+    "reservation": "不要",
+    "features": [
+      "保護動物",
+      "複数の動物",
+      "ふれあいOK",
+      "子ども可"
+    ],
+    "description": "2026年10月に新宿店から移転して開いた、四谷坂町の保護犬・保護猫のふれあいカフェである。三廣ビルの1階と2階を使い、曙橋駅から徒歩7分、市ケ谷駅からも徒歩8分だ。",
+    "image": null,
+    "checked": "2026-11-07",
+    "source_note": "店舗ページ https://wan-time.jp/store/anella-cafe-shinjukuyostuya/ で確認。公式FAQ https://wan-time.jp/faq/ に「各施設予約不要」の記載あり。犬猫それぞれの頭数は公式ページに記載なし（在籍は日々変動と公式に記載）"
+  },
+  {
+    "id": "ibaraki-dog-anella-cafe-tsuchiura",
+    "name": "ANELLA CAFE 土浦店",
+    "animals": [
+      "dog",
+      "cat"
+    ],
+    "prefecture": "茨城県",
+    "area": "土浦市東都和",
+    "address": "茨城県土浦市東都和1-4",
+    "access": "JR常磐線 土浦駅から車で11分",
+    "url": "https://wan-time.jp/store/anella-cafe-tsuchiura/",
+    "price": "一般30分1,000円（延長15分400円）、小学生30分500円（延長15分200円）、未就学児無料",
+    "price_level": 2,
+    "hours": "平日12:00〜18:00／土日祝11:00〜18:00",
+    "closed": "年中無休",
+    "reservation": "不要",
+    "features": [
+      "保護動物",
+      "複数の動物",
+      "ふれあいOK",
+      "子ども可"
+    ],
+    "description": "茨城県土浦市東都和にある保護犬・保護猫のふれあいカフェである。土浦駅から車で11分ほどで、駐車場があり車向きの店だ。",
+    "image": null,
+    "checked": "2026-11-07",
+    "source_note": "店舗ページ https://wan-time.jp/store/anella-cafe-tsuchiura/ で確認。公式FAQ https://wan-time.jp/faq/ に「各施設予約不要」の記載あり。犬猫それぞれの頭数は公式ページに記載なし（在籍は日々変動と公式に記載）"
+  },
+  {
+    "id": "shizuoka-dog-anella-cafe-fuji-utogawa-higashicho",
+    "name": "ANELLA CAFE 富士宇東川東町店",
+    "animals": [
+      "dog",
+      "cat"
+    ],
+    "prefecture": "静岡県",
+    "area": "富士市宇東川東町",
+    "address": "静岡県富士市宇東川東町4-16-1階",
+    "access": "岳南鉄道線 岳南原田駅から徒歩2分",
+    "url": "https://wan-time.jp/store/anella-cafe-utogawahigashicho/",
+    "price": "一般30分1,000円（延長15分400円）、小学生30分500円（延長15分200円）、未就学児無料",
+    "price_level": 2,
+    "hours": "平日12:00〜18:00／土日祝11:00〜18:00",
+    "closed": "年中無休",
+    "reservation": "不要",
+    "features": [
+      "保護動物",
+      "複数の動物",
+      "ふれあいOK",
+      "子ども可",
+      "駅近"
+    ],
+    "description": "静岡県富士市宇東川東町にある保護犬・保護猫のふれあいカフェで、岳南鉄道の岳南原田駅から徒歩2分である。20台分の駐車場があり、車でも行きやすい。",
+    "image": null,
+    "checked": "2026-11-07",
+    "source_note": "店舗ページ https://wan-time.jp/store/anella-cafe-utogawahigashicho/ で確認。公式FAQ https://wan-time.jp/faq/ に「各施設予約不要」の記載あり。犬猫それぞれの頭数は公式ページに記載なし（在籍は日々変動と公式に記載）"
+  },
+  {
+    "id": "saitama-dog-anella-cafe-soka-yatsuka",
+    "name": "ANELLA CAFE 草加谷塚店",
+    "animals": [
+      "dog",
+      "cat"
+    ],
+    "prefecture": "埼玉県",
+    "area": "草加市谷塚",
+    "address": "埼玉県草加市谷塚1-6-43 1階",
+    "access": "東武スカイツリーライン 谷塚駅から徒歩2分",
+    "url": "https://wan-time.jp/store/anella-cafe-yatsuka/",
+    "price": "一般30分800円／1時間1,200円（延長15分400円）、2時間1,600円のお得プランあり、小学生・障がいのある方は半額、未就学児無料",
+    "price_level": 2,
+    "hours": "全日12:00〜18:00",
+    "closed": "年中無休",
+    "reservation": "不要",
+    "features": [
+      "保護動物",
+      "複数の動物",
+      "ふれあいOK",
+      "子ども可",
+      "駅近"
+    ],
+    "description": "東武スカイツリーラインの谷塚駅から徒歩2分、草加市の保護犬・保護猫のふれあいカフェだ。料金は30分800円、1時間1,200円と系列の中で安く、2時間1,600円のお得プランもある。",
+    "image": null,
+    "checked": "2026-11-07",
+    "source_note": "店舗ページ https://wan-time.jp/store/anella-cafe-yatsuka/ で確認。公式FAQ https://wan-time.jp/faq/ に「各施設予約不要」の記載あり。犬猫それぞれの頭数は公式ページに記載なし（在籍は日々変動と公式に記載）"
+  },
+  {
+    "id": "chiba-dog-anella-cafe-minami-nagareyama",
+    "name": "ANELLA CAFE 南流山店",
+    "animals": [
+      "dog",
+      "cat"
+    ],
+    "prefecture": "千葉県",
+    "area": "流山市南流山",
+    "address": "千葉県流山市南流山2-24-12 1階",
+    "access": "つくばエクスプレス・武蔵野線 南流山駅から徒歩6分",
+    "url": "https://wan-time.jp/store/anellacafe-nagareyama/",
+    "price": "一般30分1,000円（延長15分300円）、小学生30分500円（延長15分150円）、未就学児無料",
+    "price_level": 2,
+    "hours": "平日12:00〜18:00／土日祝11:00〜18:00",
+    "closed": "年中無休",
+    "reservation": "不要",
+    "features": [
+      "保護動物",
+      "複数の動物",
+      "ふれあいOK",
+      "子ども可"
+    ],
+    "description": "千葉県流山市南流山にある保護犬・保護猫のふれあいカフェで、南流山駅から徒歩6分である。つくばエクスプレスと武蔵野線が使える。",
+    "image": null,
+    "checked": "2026-11-07",
+    "source_note": "店舗ページ https://wan-time.jp/store/anellacafe-nagareyama/ で確認。公式FAQ https://wan-time.jp/faq/ に「各施設予約不要」の記載あり。犬猫それぞれの頭数は公式ページに記載なし（在籍は日々変動と公式に記載）／検品⑥（2026-11-07）延長料金を公式店舗ページの300円／150円に修正"
+  },
+  {
+    "id": "chiba-dog-anella-cafe-sakura",
+    "name": "ANELLA CAFE 佐倉店",
+    "animals": [
+      "dog",
+      "cat"
+    ],
+    "prefecture": "千葉県",
+    "area": "佐倉市大崎台",
+    "address": "千葉県佐倉市大崎台1-3-4 第一岩井ビル B号室",
+    "access": "総武本線 佐倉駅から徒歩3分",
+    "url": "https://wan-time.jp/store/anellacafe-sakura/",
+    "price": "一般30分1,000円（延長15分300円）、小学生30分500円（延長15分150円）、未就学児無料",
+    "price_level": 2,
+    "hours": "全日12:00〜18:00",
+    "closed": "年中無休",
+    "reservation": "不要",
+    "features": [
+      "保護動物",
+      "複数の動物",
+      "ふれあいOK",
+      "子ども可",
+      "駅近"
+    ],
+    "description": "総武本線の佐倉駅から徒歩3分、佐倉市大崎台にある保護犬・保護猫のふれあいカフェである。営業は12時から18時で、延長は15分300円である。",
+    "image": null,
+    "checked": "2026-11-07",
+    "source_note": "店舗ページ https://wan-time.jp/store/anellacafe-sakura/ で確認。公式FAQ https://wan-time.jp/faq/ に「各施設予約不要」の記載あり。犬猫それぞれの頭数は公式ページに記載なし（在籍は日々変動と公式に記載）"
+  },
+  {
+    "id": "osaka-dog-hogoken-park-nagai",
+    "name": "HOGOKEN PARK 長居店",
+    "animals": [
+      "dog"
+    ],
+    "prefecture": "大阪府",
+    "area": "大阪市住吉区長居東",
+    "address": "大阪府大阪市住吉区長居東4-11-5",
+    "access": "地下鉄御堂筋線 長居駅6番出口からすぐ／JR阪和線 長居駅から徒歩5分",
+    "url": "https://www.hogokencafe.com/shop",
+    "price": "施設利用料1名990円（1ドリンク付き）",
+    "price_level": 1,
+    "hours": "12:00〜20:00（ふれあいは19:30まで）",
+    "closed": "年中無休",
+    "reservation": "不要",
+    "features": [
+      "ふれあいOK",
+      "保護動物",
+      "里親募集",
+      "ドリンク込み"
+    ],
+    "description": "大阪市住吉区の長居にある、保護犬の HOGOKEN の店だ。系列では「PARK」の名を冠した店で、里親を探す犬と過ごせる。利用料は系列共通の1ドリンク付き990円で、ふれあいは19時30分までである。",
+    "image": null,
+    "checked": "2026-11-07",
+    "source_note": "公式 https://www.hogokencafe.com/shop の店舗案内（住所・営業時間・定休日）と /staff の施設利用料990円（1ドリンク付き）で確認。990円は公式サイト共通の表記で店舗別の料金表記はなし。展示の動物取扱業の有効期限表記が2026年9月30日で過ぎているが、公式ブログは2026-11-03まで更新されている（更新表記が未反映の可能性）。最寄り駅の記載なし／検品⑥（2026-11-07）アクセスは公式サイトに無く、公式サイトから案内されている運営の公式X（@WanWanWan8611）の投稿で確認"
   }
 ]

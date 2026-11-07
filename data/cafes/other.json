@@ -858,5 +858,37 @@
     "image": null,
     "checked": "2026-11-06",
     "source_note": "施設公式 https://www.e-frespo.com/inage/shop/index.jsp?bf=1&fmt=1&shopid=2046 の店舗ページで営業時間・料金・住所を確認。店の公式Instagram @ikimonotankentai_inage はあるが未ログインでは投稿日が読めない。定休日・種名一覧の記載なし"
+  },
+  {
+    "id": "aichi-other-doubutsu-tokidoki-iyashi",
+    "name": "どうぶつ♡ときどき癒し",
+    "animals": [
+      "other",
+      "otter",
+      "smallanimal",
+      "reptile",
+      "bird"
+    ],
+    "prefecture": "愛知県",
+    "area": "名古屋・南区",
+    "address": "愛知県名古屋市南区石元町3-45",
+    "access": "名鉄本星崎駅から徒歩10分以内（公式記載）。店舗前に駐車場約20台",
+    "url": "https://iyashi.zooai.co.jp/",
+    "price": "見学1時間1,650円／ふれあい1時間2,500円／ふれあい時間無制限3,600円（ドリンク付きは各550円増し）。エサやり330円・1,100円",
+    "price_level": 3,
+    "hours": "平日11:30〜18:00／土日祝11:30〜20:00",
+    "closed": "水曜",
+    "reservation": "推奨",
+    "features": [
+      "ふれあいOK",
+      "えさやり体験",
+      "子ども可",
+      "時間無制限プランあり",
+      "複数の動物"
+    ],
+    "description": "33種60頭以上というカフェ最大級の品ぞろえで、コツメカワウソ、サーバルキャット、ベニコウゴウインコ、ミーアキャット、リクガメ、ハリネズミなどに会える。見学のみ、ふれあい、時間無制限の3コースから選べ、無制限コースはカフェと行き来できる。カワウソとの体験や爬虫類のコーナーは追加オプション。",
+    "image": null,
+    "checked": "2026-11-07",
+    "source_note": "公式サイト https://iyashi.zooai.co.jp/ と https://iyashi.zooai.co.jp/contact/ で確認（2026年10月の更新あり）。予約は公式にInstagram DMまたは電話と案内。以前に見送りだった大須カワウソ系列店とは別の店（南区へ移転・統合後）。"
   }
 ]

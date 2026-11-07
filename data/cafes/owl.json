@@ -529,5 +529,66 @@
     "image": null,
     "checked": "2026-11-06",
     "source_note": "公式 https://fukurounoshiro.info/cafe/ 、お知らせ https://fukurounoshiro.info/information/detail.php?seq=1517 （2026-10-30）、公式ブログ（2026-11-03）で確認。予約の要否は公式に記載なし"
+  },
+  {
+    "id": "shizuoka-owl-fukumori",
+    "name": "ふくもり（ぬくもりの森内）",
+    "animals": [
+      "owl",
+      "smallanimal"
+    ],
+    "prefecture": "静岡県",
+    "area": "浜松・舘山寺",
+    "address": "静岡県浜松市西区和地町4765-1（ぬくもりの森内）",
+    "access": "遠鉄バス「すじかいばし」下車徒歩5分（JR浜松駅北口から約40分）",
+    "url": "https://www.nukumori.jp/shops/%e3%81%b5%e3%81%8f%e3%82%82%e3%82%8a",
+    "price": "入場料1人1,100円（5歳以上）",
+    "price_level": 2,
+    "hours": "土日祝10:00〜17:00（最終入場16:30）／平日11:00〜16:00（最終入場15:30）",
+    "closed": "木曜・第2水曜",
+    "reservation": "不要",
+    "features": [
+      "ふれあいOK",
+      "写真OK",
+      "複数の動物"
+    ],
+    "description": "フクロウとチンチラに触れられる、浜松市の施設ぬくもりの森の中の小さな部屋だ。スタッフの補助のもとで安全に触れ、写真や動画も撮れる。入場料を払えば時間を気にせず過ごせる。",
+    "image": null,
+    "checked": "2026-11-07",
+    "source_note": "公式 https://www.nukumori.jp/shops/ふくもり（ショップ情報）・アクセスページで確認。予約の案内は記載なし。動物の体調で営業時間が変わる旨の記載あり"
+  },
+  {
+    "id": "aichi-owl-fukashigi-ichinomiya",
+    "name": "アニマルカフェ不可思議",
+    "animals": [
+      "owl",
+      "capybara",
+      "reptile",
+      "smallanimal",
+      "farm",
+      "other"
+    ],
+    "prefecture": "愛知県",
+    "area": "一宮",
+    "address": "愛知県一宮市大和町戸塚字宮崎西17-3",
+    "access": "県道65号沿い。駐車場6台（最寄駅は公式ページに記載なし）",
+    "url": "https://fukashigi.net/",
+    "price": "入場1時間 1,800円〜（税込・ドリンク付き）。延長30分500円、エサ100〜300円",
+    "price_level": 2,
+    "hours": "平日13:00〜17:00／土曜・祝日11:00〜17:00（最終入店16:30）",
+    "closed": "金曜・日曜",
+    "reservation": "不要",
+    "features": [
+      "ふれあいOK",
+      "えさやり体験",
+      "ドリンク込み",
+      "子ども可",
+      "写真OK",
+      "複数の動物"
+    ],
+    "description": "フクロウ、カピバラ、ナマケモノ、キンカジュー、ミーアキャット、トカラヤギ、ミニブタ、爬虫類などを素手で触れる、田畑に囲まれた一軒家の動物カフェ。1時間ドリンク付きの分かりやすい料金で、エサやりもできる。土曜はケープペンギンの散歩体験（1組1,000円）が出ることがある。",
+    "image": null,
+    "checked": "2026-11-07",
+    "source_note": "公式サイト https://fukashigi.net/menu/ と /shop/ /message/ で確認（お知らせ最終2026-04-01、動物取扱業の更新は令和8年9月）。予約は可だが飛び込みも可と公式FAQに記載。公式内に入場料1,400円の古い記載が残るが、料金ページの1,800円〜を採用。"
   }
 ]

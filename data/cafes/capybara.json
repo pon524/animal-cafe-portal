@@ -297,5 +297,37 @@
     "source_note": "公式 https://cappiness.jp/capybara_cafe/cappiness_shinjuku で料金・営業時間・予約方式を確認（予約はTableCheckのみ、5〜12歳は保護者同伴）",
     "image": null,
     "checked": "2026-11-06"
+  },
+  {
+    "id": "mie-capybara-fuu-suzuka",
+    "name": "ふれあい動物カフェ fuu",
+    "animals": [
+      "capybara",
+      "owl",
+      "bird",
+      "farm",
+      "cat",
+      "other"
+    ],
+    "prefecture": "三重県",
+    "area": "鈴鹿",
+    "address": "三重県鈴鹿市住吉1-14-28",
+    "access": "近鉄平田町駅からバスで東住吉バス停下車（公式記載）",
+    "url": "https://wanslife.jp/fuku-fuku/",
+    "price": "入場1時間 大人1,200円／小人770円（税込）。エサ体験110円〜。混雑していなければ時間無制限",
+    "price_level": 2,
+    "hours": "平日12:00〜17:00／土日祝11:00〜17:00",
+    "closed": "公式ページに記載なし（来店前に確認を）",
+    "reservation": "不要",
+    "features": [
+      "ふれあいOK",
+      "えさやり体験",
+      "子ども可",
+      "複数の動物"
+    ],
+    "description": "カピバラ、フラミンゴ、フクロウ、インコ、キンカジュー、ヤギ、アヒル、チャボ、猫など、動物園で見るような種類をまとめて触れる動物カフェ。料金は入場だけのシンプルな1時間制で、エサやりは別料金。ペット店を営む会社が運営し、家族連れで1時間ほど回るのに向く。",
+    "image": null,
+    "checked": "2026-11-07",
+    "source_note": "運営会社の公式ページ https://wanslife.jp/fuku-fuku/ と料金ページ https://wanslife.jp/fuku-fuku/fee/ で確認（フッターは2026年表記）。定休日と予約の案内は公式ページに記載なし。以前の見送り（料金記載なし）を訂正。"
   }
 ]

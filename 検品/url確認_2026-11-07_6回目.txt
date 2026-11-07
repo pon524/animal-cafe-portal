@@ -1,0 +1,6 @@
+URL  aichi-cat-moff-toyokawa: 000 https://moff-moff.jp/cat-cafe/shop/toyokawa/
+URL  okinawa-cat-moff-toyosaki: 000 https://moff-moff.jp/cat-cafe/shop/toyosaki/
+URL  hyogo-cat-moff-tsukashin: 000 https://moff-moff.jp/cat-cafe/shop/tsukashin/
+URL  kanagawa-cat-leon-ishikawacho: 000 https://www.nekocafe-leon.com/shop-list/leon
+URL  gifu-dog-anella-cafe-gifu-toki: 000 https://wan-time.jp/store/anella-cafe-gifutoki/
+234 店中 不通/要確認 5 件
